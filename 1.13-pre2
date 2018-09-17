@@ -1,0 +1,2229 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>1.13-pre2 – Official Minecraft Wiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"1.13-pre2","wgTitle":"1.13-pre2","wgCurRevisionId":1228939,"wgRevisionId":1228939,"wgArticleId":98323,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Java Edition versions","1.13 pre-releases"],"wgBreakFrames":true,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"1.13-pre2","wgRelevantArticleId":98323,"wgRequestId":"673befcc4c1b3a11a7cdbd51","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgCollapsibleVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false},"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":false},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":true},"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","ext.embedVideo.styles":"ready","ext.siteGlobals.styles":"ready","ext.gadget.site-styles":"ready","ext.gadget.sound-styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","skins.vector.styles.responsive":"ready","ext.social.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","skins.hydra.netbar":"ready","skins.hydra.footer":"ready","skins.hydra.advertisements.styles":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@0h7ex46",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","ext.embedVideo","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.siteGlobals.scripts","ext.crusher.tables","ext.gadget.refTooltip","ext.gadget.site","ext.gadget.sound","ext.gadget.spriteEditLoader","ext.gadget.purge","ext.collapsiblevector.collapsibleNav","ext.bunnyears","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.hydraAuth.banners","skins.vector.js","skins.hydra.advertisements.js","skins.hydra.footer.js","ext.social.scripts"]);});</script>
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.embedVideo.styles%7Cext.gadget.site-styles%2Csound-styles%7Cext.siteGlobals.styles%7Cext.social.styles%7Cext.visualEditor.desktopArticleTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.hydra.advertisements.styles%7Cskins.hydra.footer%2Cnetbar%7Cskins.vector.styles%7Cskins.vector.styles.responsive%7Cskins.z.hydra.light&amp;only=styles&amp;skin=hydra"/>
+<script async="" src="/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=hydra"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=hydra"/>
+<noscript><link rel="stylesheet" href="/load.php?debug=false&amp;lang=en&amp;modules=noscript&amp;only=styles&amp;skin=hydra"/></noscript>
+<meta name="generator" content="MediaWiki 1.29.2"/>
+<meta property="og:image" content="https://d1u5p3l4wpay3k.cloudfront.net/minecraft_gamepedia/f/ff/Release_1.13-pre2.png"/>
+<meta name="description"/>
+<meta name="keywords" content=""/>
+<meta property="og:title" content="1.13-pre2"/>
+<meta property="og:type" content="website"/>
+<meta property="og:image" content="https://d1u5p3l4wpay3k.cloudfront.net/minecraft_gamepedia/b/bc/Wiki.png?version=f7d0a27afa6ae010a5a99c80a036a9ee"/>
+<meta property="og:url" content="https://minecraft.gamepedia.com/1.13-pre2"/>
+<meta property="og:site_name" content="Minecraft Wiki"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<link rel="alternate" type="application/x-wiki" title="Edit" href="/index.php?title=1.13-pre2&amp;action=edit"/>
+<link rel="edit" title="Edit" href="/index.php?title=1.13-pre2&amp;action=edit"/>
+<link rel="apple-touch-icon" href=""/>
+<link rel="shortcut icon" href="https://d1u5p3l4wpay3k.cloudfront.net/minecraft_gamepedia/6/64/Favicon.ico?version=ed57d32751506dd14279b7164eb8e848"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Minecraft Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="https://minecraft.gamepedia.com/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-nc-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Minecraft Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<link rel="canonical" href="https://minecraft.gamepedia.com/1.13-pre2"/>
+<link rel="alternate" hreflang="de" href="minecraft-de.gamepedia.com" />
+<link rel="alternate" hreflang="nl" href="minecraft-nl.gamepedia.com" />
+<link rel="alternate" hreflang="pt-br" href="minecraft-pt.gamepedia.com" />
+<link rel="alternate" hreflang="es" href="minecraft-es.gamepedia.com" />
+<link rel="alternate" hreflang="fr" href="minecraft-fr.gamepedia.com" />
+<link rel="alternate" hreflang="hu" href="minecraft-hu.gamepedia.com" />
+<link rel="alternate" hreflang="it" href="minecraft-it.gamepedia.com" />
+<link rel="alternate" hreflang="ja" href="minecraft-ja.gamepedia.com" />
+<link rel="alternate" hreflang="ko" href="minecraft-ko.gamepedia.com" />
+<link rel="alternate" hreflang="pl" href="minecraft-pl.gamepedia.com" />
+<link rel="alternate" hreflang="ru" href="minecraft-ru.gamepedia.com" />
+<link rel="alternate" hreflang="zh" href="minecraft-zh.gamepedia.com" />
+<link rel="alternate" hreflang="en" href="aether.gamepedia.com" />
+<link rel="alternate" hreflang="el" href="minecraft-el.gamepedia.com" />
+<link rel="alternate" hreflang="tr" href="minecraft-tr.gamepedia.com" />
+<link rel="alternate" hreflang="th" href="minecraft-th.gamepedia.com" />
+<link rel="alternate" hreflang="cs" href="minecraft-cs.gamepedia.com" />
+<link rel="alternate" hreflang="uk" href="minecraft-uk.gamepedia.com" />
+<meta itemprop="author" content="Gamepedia" />
+<link rel="stylesheet" type="text/css" href="https://stations.cursetech.com/be/bunnyears-1.1.min.css" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-1_13-pre2 rootpage-1_13-pre2 skin-hydra action-view site-minecraft-gamepedia show-ads"><script type="text/javascript">
+//Copyright Instart Logic Wed May 16 2018 - All rights reserved - version: 10.1.16
+!function(t){if(function(){var n=!0,e=!1,i="";try{var r="object"==typeof t.IXC_136_15799456292205805&&t.IXC_136_15799456292205805;if(n=!r||void 0===r.CanRun||"_136_15799456292205805"!==r._136_15799456292205805||r.CanRun("abd"))r=t.IXC_136_15799456292205805=t.IXC_136_15799456292205805||{},r._136_15799456292205805="_136_15799456292205805",t.INSTART_TARGET_NAME="abd",t.I11C=t.I11C||{};else{var o=t.INSTART_TARGET_NAME;i="double nanovisor injection: abd after "+o,(e="abd"!==o)&&console.warn(i)}t.INSTART=t.INSTART||{},t.INSTART.Init=function(){e&&console.error("ignored Init call after "+i)}}catch(t){try{console.error(t)}catch(t){}n=!0}return n}()){!function(){function n(t,n){return L(t,n,hn,{uri:S})}function e(t,n){return L(t,n,hn,{ier_noesnops:S,irapyreuqecalperma:ln})}function i(t){return t.split("").filter(function(t,n){return 0==n%2}).reverse().join("")}function r(t){var n=It[t]?It[t]:null;if(n)return c(n);if(!(n=Xt.exec(""+t)))return{ihcseme:null,H:null,j:null,v:null,o:t,s:null,I:null};var e=n[7];e=c(n={ihcseme:o(n[1]),H:o(n[2]),j:o(n[3]),v:o(n[4]),o:o(n[5]),s:o(n[6]),I:"string"==typeof e?e:null});var i=Object.keys(It);return 0!==i.length&&i.length>Gt-1&&delete It[i[i.length%Gt]],It[t]=e,n}function o(t){return"string"==typeof t&&0<t.length?t:null}function c(t){return{ihcseme:t.ihcseme,H:t.H,j:t.j,v:t.v,o:t.o,s:t.s,I:t.I}}function u(t){return{ihcseme:t[0],H:t[1],j:t[2],v:t[3],o:t[4],s:t[5],I:t[6]}}function a(t){return void 0===t&&(t=Bt),1===t.u.iytep}function s(t){return void 0===t&&(t=Bt),4===t.u.iytep}function d(t){return void 0===t&&(t=Bt),2===t.u.iytep}function h(t){return void 0===t&&(t=Bt),3===t.u.iytep}function l(t){return void 0===t&&(t=Bt),5===t.u.iytep}function f(t){return Bt=new nn(t),xt=Bt.u,Ct=Bt.C,Bt}function b(){document.cookie=jt+"="+Date.now()+";max-age=86400",document.cookie=Dt+"=1;max-age=86400",document.cookie=Tt+"="+document.referrer+";path=/;max-age=10";var n=new tn(t.location.href),e="i10c.encReferrer="+encodeURIComponent(t.btoa(document.referrer)),i=_t,r=n.b.o;r&&("/"!==r[0]&&(i+="/"),i+=r),n.oc(i),n.xa(e),n.eb(xt.iytep.toString()),t.location.href=n.zb(),document.close()}function v(n,e){var i=n.split(".");n=t||{};for(var r,o=0;o<i.length-1;++o){if(r=i[o],!n)return;var c=n[r]||{};try{n[r]=c}catch(t){}n=c}if(r=i[i.length-1],n){r||(console.error("In Export, name not defined"),0<(i=[]).length&&console.log(i));try{n[r]=e}catch(t){}}}function m(t,n){v(U+"."+t,n),v(z+"."+t,n)}function p(){for(var t=[],n=0;n<arguments.length;n++)t[n]=arguments[n];en?t.forEach(function(t){return t(en)}):on=on.concat(t)}function w(n,e){en=n;var i=!0;try{on.forEach(function(t){i=t(n)&&i});var r=e&&t[e];r&&r instanceof Array&&(r.forEach(function(t){i=t(n)&&i}),r.push=p)}catch(t){i=!1}return i}function y(t,n){function e(){this.constructor=t}dn(t,n),t.prototype=null===n?Object.create(n):(e.prototype=n.prototype,new e)}function L(t,n,e,i){if(t||(t={}),n)for(var r=Object.keys(n),o=r.length-1;0<=o;--o){var c=r[o],u=t[c];u=(void 0===u?hn:i&&i[c]||e)(u,n[c]),t[c]=u}return t}function R(t,n){return function(e,i){return null===i||"object"!=typeof i||i instanceof RegExp?i:Array.isArray(i)?!Array.isArray(e)&&e?(console.error("Error while attempting to merge an array "+i+" with a non-array "+e),i):t(e,i):n(e,i)}}function N(t,n){return L(t,n,hn)}function g(t,n){return L(t,n,ln)}function E(t,n){return L(t,n,fn)}function S(t,n){return t?n?function(){t.apply(this,arguments),n.apply(this,arguments)}:t:n}function j(t,n){return null===t?t===n:t.toLowerCase()===n.toLowerCase()}function D(t,n){return null!==t&&void 0!==t&&n.test(t)}function T(t,n,e){var i={};return i.iytep=t,i[Yt]=n,e&&(i[kt]=e),i}function _(n){try{var e=t[n];return e.setItem("TEST","TEST"),e.removeItem("TEST"),!0}catch(t){return!1}}function H(t){var n=document.cookie,e="";if(n){var i=n.indexOf(t);-1<i&&(n=n.slice(i),t=t.replace(/[.]/g,"[.]").replace(/\$/g,"[$]"),(t=new RegExp("(?:\\b"+t+"\\b\\s*=\\s*)([^;]*);?").exec(n))&&t[1]&&(e=t[1]))}return e}function Y(){var t={};try{if(_(Ft)){var n=sessionStorage._136_15799456292205805;n&&(t=JSON.parse(n))}}catch(t){}return t}function k(t,n,e){try{Object.defineProperty(t,n,e)}catch(t){}}function M(t){var n=typeof t;if(t&&("object"===n||"function"===n)&&!Jn.call(t,"__ext")){if(t instanceof NodeList||t instanceof HTMLCollection){n=t.length;for(var e=0;e<n;e++)M(t[e]);return t}n=void 0,1===(e=t.nodeType)&&(n=Un[t.nodeName]),n||(n=zn[e]),n||(n=t.__pext),n&&(e={Tc:{},Yb:n,Ia:Qn++},Pn.value=e,Object.defineProperty(t,"__ext",Pn),n.Ka(t))}return t}function O(t,n){var e=t.__ext;return e||(M(t),e=t.__ext),(t=(t=e)&&t.Yb)?t.Cb(n):null}function W(t,n){for(var e=Object.getOwnPropertyNames(t),i=0,r=e.length;i<r;++i){var o=e[i];if(!(o in n)){var c=Object.getOwnPropertyDescriptor(t,o);try{Object.defineProperty(n,o,c)}catch(t){}}}if((e=t.prototype)&&(n.prototype=e),t=t.name)try{Object.defineProperty(n,"name",{value:t})}catch(t){}}function Z(t){t.F.ea(function(){var n=O(this,t.ianem);return n?n.Ic(this):t.F.B.call(this)}),t.Set.ea(function(n){var e=O(this,t.ianem);return e?e.Set(this,n,!0,!1):t.Set.B.call(this,n),n})}function F(t){ue.Wa.Set.ac(function(n){for(var e=0;e<t.iadb.iawirudatsilhct.length;e++)if(t.iadb.iawirudatsilhct[e].test(n)){this.addEventListener("error",function(){ae.a(n),n&&(de[n]=!0)}),this.addEventListener("load",function(){n&&(se[n]=!0)});break}})}function A(){return new le(function(t){function n(n){var i=!1;"load"===n.type?i=!1:"error"===n.type&&(i=!0),t(T(at,i,n.currentTarget.src)),e&&(n=n.target)&&n.parentNode&&n.parentNode.removeChild(n)}var e=4===xt.iytep&&3===Ct.iytep,i=document.createElement("img");i.onload=n,i.onerror=n;var r=Math.floor(Math.random()*xn.length);i.src=xn[r]+"?"+fe[Math.floor(Math.random()*fe.length)],e&&document.body.appendChild(i),1<xn.length&&xn.splice(r,1)})}function V(t,n,e,i){return new le(function(r){var o=st,c=s();if(a()||c||d()){var u;c&&(u=setTimeout(function(){r(T(o,!1,"Timed out on error"))},500));var h=!1,l=function(t){if(!h){h=!0,c&&clearTimeout(u);var n=!1;"load"===t.type?n=!1:"error"===t.type&&(n=!0),r(T(o,n,t.currentTarget.href)),f&&f.parentNode&&f.parentNode.removeChild(f)}},f=document.createElement("link");f.onload=l,f.onerror=l,f.rel=i||d()?"prefetch":"preload",f.as="track",n&&f.setAttribute("crossorigin","anonymous"),e&&f.setAttribute("referrerpolicy","no-referrer"),l=Math.floor(Math.random()*t.length),f.href=t[l],he&&he.parentNode?he&&he.parentNode&&he.parentNode.insertBefore(f,he):document.head.appendChild(f),1<t.length&&t.splice(l,1)}else r(T(o,!1,"Neither Chrome nor Safari"))})}function B(){return new le(function(t){var n=be[Math.floor(Math.random()*be.length)],e=document.createElement(n[0]);e.id=n[1],e.style.width="1px",e.style.height="1px",e.style.top="-555px",e.style.left="-555px",e.style.display="block";var i=setInterval(function(){document&&document.body&&(document.body.appendChild(e),clearInterval(i),setTimeout(function(){var n,i=getComputedStyle(e),r=!1;("none"===i.display||(n=i.getPropertyValue("-moz-binding"))&&-1!==n.indexOf("abp-elemhidehit"))&&(r=!0),t(T(mt,r)),e&&e.parentNode&&e.parentNode.removeChild(e)},200))},10)})}function x(t){var n;void 0===n&&(n=pe);var e=new n.mb;if(t.onload&&(e.onload=function(){return t.onload(new me(e,t))}),t.onerror&&(e.onerror=function(){return t.onerror(new me(e,t))}),e.withCredentials=!!t.credentials,t.Ac&&e.overrideMimeType(t.Ac),n.Vb.call(e,t.method,t.url,!1!==t.async),t.ia)for(var i=0;i<t.ia.length;i++)e.setRequestHeader(t.ia[i].ianem,t.ia[i].uc);i=t.body&&("string"==typeof t.body?t.body:JSON.stringify(t.body));var r=!1===t.async;try{n.jc.call(e,i)}catch(n){r&&t.onerror&&t.onerror(null)}r&&new me(e,t)}function C(t){return t[Yt]||"BFRAME"===t.iytep}function G(n,e){try{var i=[];i=e.Results&&(e[Yt]?e.Results:e.Results.filter(C)),we[Yt]&&i.push(we);var r={adbType:[e[Yt]?"PRESENT":"NOT"],otherData:JSON.stringify(i),clientIpAddr:"",userAgent:navigator.userAgent,pageUrl:t.location.href,detectionTime:e[Ot]},o={data_stream_type:"adb",json_data:JSON.stringify(r),generated_timestamp_msec:Date.now()};t.navigator.sendBeacon?t.navigator.sendBeacon(n,JSON.stringify(o)):x({method:"POST",url:n,body:o,async:!0,onload:void 0,onerror:void 0,onchange:void 0,ia:[{ianem:"Content-type",uc:"text/plain"}]})}catch(t){}}function I(){"d3d3Lndhc2hpbmd0b25wb3N0LmNvbQ=="===t.btoa(t.location.hostname)&&p(function(n){if(n[Yt])try{if(t.localStorage.setItem("__iabcd","true"),"true"===t.localStorage.getItem("__iabcr")||-1<document.cookie.indexOf("__iabcr=true"))return!0}catch(t){}else try{t.localStorage.removeItem("__iabcd")}catch(t){}return!1})}function X(t){return!(!document[t]||""!==document[t].name)}var z=i("C61517I3"),U=i("C30514I3"),Q=i("T8R8A8T6S7N5I8"),J=i("r5e9n0e3t3s9i6L5t2n2e9v4E4d5d0A8d5e9h0c3t3a9P6"),P=i("r9o7r8r0E9n5O9d8e2h9c3t3a2P8"),q=i("=9=7A8d5v096m0U43194G8Z2h9h023c7"),$=i("01V722Z7"),K=i("02V128a1j29524U6i7V323V0"),tt=i("E8B5U6O0Y9");i("B1U1O1Y2"),i("P8B0D3A8");var nt=i("B5D0A3"),et=i("S5T8A0T9S8B6D5A1");i("G9D0A7"),i("P3C3X4E0");var it=i("X4L4O7V6"),rt=i("E8N0O9N4"),ot=i("E3V7A6R9B9"),ct=i("d8e7r6i2f2_6d1a2o1l4n2o3_1e0l6g2o8o7g6");i("r3o8t8a5g5i4v5a8N4"),i("k7c7a2r2T5t2o7N6o7d1"),i("e6d8o7c5 7e5v5i5t7a5n9");var ut=i("k6c9a9b3l5l5a6C1d3b3A0r0e1t2s3i3g6e9R9");i("T8P1I5R7C3S2B9");var at=i("G1M7I4B7"),st=i("L6M6T2H8B4"),dt=i("I7R8U4D5A6D3E6K1C0O1L5B6"),ht=i("E9M6A6R9F4B9");i("D6E5T0S9E9U4Q3E5R8D4A7P5F5D0");var lt=i("D0E9D5A7O5L7P4F1D3"),ft=i("E9L2B3A4W9E7I0V1P7F0D0"),bt=i("E0G6N8A9H6C0W8E7I4V6P0F3D9"),vt=i("D8E6R6E3D1N5E6R9P5F0D9"),mt=i("T9N0E6M3E6L9E5"),pt=i("D7F6"),wt=i("T1S2I0H8"),yt=i("I4R3U5D8A3D9E2D8A8O2L9"),Lt=i("K1R2O9W0T9E4N6"),Rt=i("O3F3N6I9G5I0S1N3O4N5");i("S0T5A0T8S0D4I1B0E5R8P7"),i("S7T9S5E0T5G5I8S3N6O1N1T2P0R7");var Nt=i("T4L8U5S1E1R6D6E9R4O2T4S6"),gt=i("T8N8E6S4E6R6P7"),Et=i("T1O3N0"),St=i("Y5D9A3E0R4T5O1N6"),jt=i("e4t8u5o2r6.3h395r205m7"),Dt=i("c90018i6h9p6r6o5m0"),Tt=i("r5e8r2r0e4f3e0r8.2c60416i4"),_t=i("0004g7/7");i("e9t8a4t4S9h3p9r1o0M9"),i("d1e3k3c1o0l5b3"),i("d2e9k6c9o0l0b5n5u0");var Ht=i("/9)4]7z9-0a095-702[6]097-302[8g2:9?4(7/9^0"),Yt=i("d8e4t4c2e6t9e9D6"),kt=i("n0o4s9a4e2R0"),Mt=i("s3t4l2u6s0e1R4"),Ot=i("y5c2n7e7t4a4L3n1o7i2t6c9e8t1e6D9"),Wt=i("D9E3D5A9O7L0_2V1"),Zt=i("D6E4D4A7O8L8T5O9N2_1V9"),Ft=i("e1g2a1r3o0t1S3n2o8i7s5s2e7s0"),At=i("d1f8c30210i4"),Vt=i("l2r8u0d7b4a4t2e1g4.3c70312i4");i("k8c8a3b4l9l1a3c5a6h1c3t1p5a6c7"),i("a8h5c1t7p6a4c9e4r5g2"),i("o1x465N308Y0P1k7d3S7V7k531J3V3v0x11134N563X8q0k1e7v3M7f7Z5z1t3H3"),i("e8i3k9o9o6c2"),i("b8d5d7d6b0.3c70613i2"),i("e3m5o7r7h8c1"),i("i7s8c8"),i("T1d7a4o0l8n1o1"),i("n0o5i1s4s3i3m5r8e9p6"),i("y9r7e9u0q3"),i("r0e9v4i4r3d2b6e8w7"),i("k1c7i7l7c7"),i("t7r1a8t0s4h2c5u6o7t2"),i("s2s1e7r4p1y4e5k8"),i("l7l6o0r2c8s2"),i("t6u9p6n7i3"),i("e9t7s1a3p3"),i("n4o1i3t1o3m2e6c5i5v0e3d3"),i("m3o9t4n0a3h6p3_0"),i("m5o1t1n8a7h7P3l6l1a8c6"),i("s1j6m4o4t9n7a7h3p7");var Bt,xt,Ct,Gt=5,It={},Xt=/^(?:([^:/?#]+):)?(?:\/\/+(?:([^/?#]*)@)?([^/?#:@]*)(?::([0-9]+)?)?)?([^?#]+)?(?:\?([^#]*))?(?:#(.*))?$/,zt=/[#\/\?]/g,Ut=/[#\?]/g,Qt=/[#]/g,Jt=/(\/|^)(?:[^./][^/]*|\.{2,}(?:[^./][^/]*)|\.{3,}[^/]*)\/\.\.(?:\/|$)/,Pt=/^([/])?(?:\.\.(?:[/]|$))+/,qt=/(^(?:(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?).){3}(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)$)|([^.]+[.](?:([^.]{2}[.][^.]{2})|([^.]+))$)/,$t=/[^.]+[.](no|com|co|io|it|de|net|org|fr|one|tv|today|fm|kr|jp|com[.]au|co[.]uk|ca)$/,Kt=/^([^=]*)(?:=(.*))?$/,tn=function(){function t(t){t&&(this.b="string"==typeof t?r(t):t),this.b||(this.b={ihcseme:null,H:null,j:null,v:null,o:null,s:null,I:null}),this.Cache={L:null,iironig:null,Ha:null,V:null,fa:null,M:[null]}}return t.prototype.zb=function(){var t;if(!(t=this.Cache.L)){var n="";null!==(t=this.b).ihcseme&&(n+=t.ihcseme+":"),null!==t.j&&(n+="//",null!==t.H&&(n+=t.H+"@"),n+=t.j,null!==t.v&&(n+=":"+t.v)),null!==t.o&&(n+=t.o),null!==t.s&&(n+="?"+t.s),null!==t.I&&(n+="#"+t.I),t=this.Cache.L=n}return t},t.prototype.Va=function(t){return null!==t&&zt.test(t)?this:(this.b.j=t,(t=this.b.o)&&"/"!==t[0]&&(this.b.o="/"+t),t=this.Cache,t.L=null,t.iironig=null,t.Ha=null,t.V=null,t.fa=null,this)},t.prototype.hb=function(){var t=this.Cache;if(!t.V){var n=this.b.j;if(n){var e=$t.exec(n);e?(t.V=e[0],t.fa=e[1]):(e=qt.exec(n))&&(t.V=e[0],(t.fa=e[4]||null)||(t.fa=e[3]))}}},t.prototype.na=function(){return this.hb(),this.Cache.V||this.b.j},t.prototype.pc=function(t){if(t){if((t=Number(t))!==(65535&t))return;this.b.v=""+t}else this.b.v=null;(t=this.Cache).L=null,t.iironig=null,t.Ha=null},t.prototype.oc=function(t){if(t){if(Ut.test(t))return;this.b.o=this.b.j&&"/"!==t[0]?"/"+t:t||null}else this.b.o=null;this.Cache.L=null},t.prototype.qc=function(t){null!==t&&Qt.test(t)||(this.b.s=t,t=this.Cache,t.L=null,t.M=[null])},t.prototype.xa=function(t){var n=t;this.b.s&&(n=this.b.s+"&"+t),this.qc(n)},t.prototype.eb=function(t){this.xa(t?"i10c.ua="+t:"i10c.ua")},t.prototype.gb=function(){var t=this.Cache;if(1===t.M.length&&null===t.M[0]){var n=this.b.s;if(n){for(var e=[],i=-1,r=0,o=(n=n.split("&")).length;r<o;++r){var c=Kt.exec(n[r]);c&&(e[++i]=c[1],c[2]||""===c[2]?e[++i]=c[2]:e[++i]=null)}t.M=e}else t.M=[]}},t.prototype.Ab=function(){this.gb();for(var t=this.Cache.M,n=[],e=0,i=t.length;e<i;e+=2)"abdtrigger"===t[e]&&n.push(t[e+1]);return n},t.Dc=function(t){t=t.replace(/(^|\/)\.(?:\/|$)/g,"$1").replace(/\/{2,}/g,"/");for(var n;(n=t.replace(Jt,"$1"))!=t;t=n);return t=t.replace(Pt,"$1")},t}(),nn=function(){function t(t){this.u=this.Ja(t,[{l:/MSIE\s([\d]+)(\.([\d]+))?(\.([\d]+))?/,iytep:3},{l:/Edge\/([\d]+)(\.([\d]+))?(\.([\d]+))?/,iytep:5},{l:/Trident.*rv:([\d]+)(\.([\d]+))?(\.([\d]+))?/,iytep:3},{l:/Chrome\/([\d]+)(\.([\d]+))?(\.([\d]+))?/,iytep:1},{l:/Firefox\/([\d]+)(\.([\d]+))?(\.([\d]+))?/,iytep:2},{l:/Version\/([\d]+)(\.([\d]+))?(\.([\d]+))?.*Safari/,iytep:4}])||{iytep:0,ca:0,qa:0,pa:0},this.C=this.Ja(t,[{l:/Android\s([\d]+)(\.([\d]+))?(\.([\d]+))?/,iytep:1},{l:/CPU OS ([\d]+)(_([\d]+))?(_([\d]+))?/,iytep:2},{l:/CPU iPhone OS ([\d]+)(_([\d]+))?(_([\d]+))?/,iytep:2},{l:/Mac OS X ([\d]+)(_([\d]+))?(_([\d]+))?/,iytep:3},{l:/Windows NT ([\d]+)(.([\d]+))?(.([\d]+))?/,iytep:4},{l:/Linux [a-z]*([\d]+)(_([\d]+))?(_([\d]+))?/,iytep:5},{l:/CrOS [a-z]*([\d]+)(_([\d]+))?(_([\d]+))?/,iytep:5}])||{iytep:0,ca:0,qa:0,pa:0}}return t.prototype.Ja=function(t,n){for(var e=0;e<n.length;++e){var i=n[e],r=i.l.exec(t);if(null!==r)return{iytep:i.iytep,ca:parseInt(r[1])||0,qa:parseInt(r[3])||0,pa:parseInt(r[5])||0}}return{iytep:0,ca:0,pa:0,qa:0}},t}();f("undefined"!=typeof navigator&&navigator.userAgent?navigator.userAgent:"");var en,rn={X:nn,get Kc(){return Bt},get u(){return xt},get C(){return Ct},Lc:a,Rc:s,Mc:d,Qc:h,Pc:l,Oc:function(t){return void 0===t&&(t=Bt),3===t.C.iytep},Nc:function(t){return void 0===t&&(t=Bt),2===t.C.iytep},Jc:f,Fc:function(t){switch(t){case 0:return"Unknown";case 1:return"Chrome";case 2:return"Firefox";case 3:return"Msie";case 4:return"Safari";case 5:return"Msedge"}},Hc:function(t){switch(t){case 0:return"Unknown";case 1:return"Android";case 2:return"IOS";case 3:return"Mac";case 4:return"Windows";case 5:return"Linux"}}},on=[];m(ut,p);try{var cn="moc.tsopnotgnihsaw".split("").reverse().join("");if(function(){var n=!0;try{if("l2n9s8hg5p"!==t.atob(t.btoa("l2n9s8hg5p")))throw"l2n9s8hg5p";n=!1}catch(t){}return n}()&&function(){var t=!1;try{var n=Object.getOwnPropertyDescriptor(Element.prototype,"shadowRoot");"get"===(n&&n.get&&n.get.name)&&(t=!0)}catch(n){t=!0}return t}()){var un=-1!==t.location.host.indexOf(cn),an=w({Detected:!0,Results:[],DetectionLatency:0},un?"__il_wapo":void 0);!un&&an&&setTimeout(b(),200)}}catch(t){b()}var sn=/webcache[.]googleusercontent[.]com|cc[.]bingj[.]com|web[.]archive[.]org/i,dn=Object.setPrototypeOf||{__proto__:[]}instanceof Array&&function(t,n){t.__proto__=n}||function(t,n){for(var e in n)n.hasOwnProperty(e)&&(t[e]=n[e])},hn=R(function(t,n){return n.slice()},N),ln=R(function(t,n){return t.concat(n)},g),fn=R(function(t,n){return t.concat(n.filter(function(n){return 0>t.indexOf(n)}))},E),bn=Object.create(null,{Version:{value:"10.1.16",writable:!1,configurable:!1,enumerable:!0}}),vn=function(t,n,e){var i=this,r=N(e||{},bn);this.aa=function(e,i,o,c){i=new t(i);var u=Object.create(r);return o&&(u=n(u,o)),e(i,function(t){return t?n(u,t):u}),c&&(u=n(u,c)),u},this.Ra=function(){},this.ComputeAll=function(t,n,e){return i.aa(i.Ra,t,n,e)}},mn=function(){function t(t){this.J=t instanceof tn?t:new tn(t&&u(t))}return t.prototype.c=function(t){return this.J.na()===t},t.prototype.scheme=function(t){return this.J.b.ihcseme===t},t.prototype.domain=function(t){return this.J.b.j===t},t.prototype.yc=function(t){return D(this.J.b.j,t)},t.prototype.Bc=function(){return D(this.J.b.s,/abdtrigger/)},t.prototype.ha=function(t){t:{for(var n=this.J.Ab(),e=0;e<n.length;e++)if(n[e]===t){t=!0;break t}t=!1}return t},t.prototype.port=function(t){return this.J.b.v===t},t}(),pn=new vn(mn,function(t,n){return L(t,n,hn,{i_irurefed:N,ii_irueniln:N,iart_iruremrofsn:g,itcelloc_irustats_frep_:N,i_iruepyt:N})}).aa,wn=function(){},yn=function(){function t(t){this.vc=t||""}return t.prototype.pattern=function(t){return D(this.vc,t)},t}(),Ln=function(){function t(t){this.Ob=t||{}}return t.prototype.contentType=function(t){return this.Ob.Ec===t},t}(),Rn={isetupmoctcejbobu:new vn(function(t){void 0===t&&(t={}),this.uri=new mn(t.uri),this.tag=new wn(t.tag),this.Cc=new yn(t.Cc),this.zc=new Ln(t.zc)},function(t,n){return L(t,n,hn,{i_irurefed:N,ii_irueniln:N,iart_iruremrofsn:g,itcelloc_irustats_frep_:N,i_iruepyt:N,imrofsnartelbatnoita:g,irttnetnocremrofsna:g})}).aa,ibusetupmociruecruoser:pn,ixorpetupmocesnopsernoy:new vn(function(){function t(t){this.ic=t=t||{}}return t.prototype.ma=function(t){var n=this.ic.headers;return n&&n[t]||null},t.prototype.Za=function(t,n){return j(this.ma(t),n)},t}(),g).aa},Nn={ie:3,chrome:1,edge:5,firefox:2,safari:4},gn={android:1,ios:2,mac:3,windows:4,linux:5},En={ireggolgifnoc:E,itreggoltropsnar:g,icirtemgifnoc:E,itcirtemtropsnar:N},Sn=new(function(t){function n(n,e,i){return t.call(this,function(t){this.env=new n(t.env),this.req=new e(t.req),this.inp=new e(t.inp)},i,Rn)||this}return y(n,t),n}(vn))(function(){},function(t){function n(n){(n=n||{}).headers=n.headers||{};var e=n.uri,i=n.url;return(e=e instanceof tn?e:new tn(e?u(e):i?r(i):void 0)).b.j||(i=new tn("//"+n.headers.host),e.Va(i.b.j),e.pc(i.b.v)),e=t.call(this,e)||this,e.Ua=n,n=n.headers["user-agent"],e.X=n?new nn(n):Bt,e}return y(n,t),n.prototype.ma=function(t){var n=this.Ua.headers;return n&&n[t]||null},n.prototype.Ca=function(){var t=this.Ua.headers;return t&&t.cookie||""},n.prototype.La=function(t,n,e){return t=t.ca,void 0===e&&(e=n),void 0!==t&&n<=t&&t<=e},n.prototype.Za=function(t,n){return j(this.ma(t),n)},n.prototype.host=function(t){return this.Za("host",t)},n.prototype.xc=function(t){return D(this.Ca(),t)},n.prototype.cookie=function(t,n){return-1!==this.Ca().indexOf(t)&&this.xc(new RegExp(t+"s*=[^;]*"+n+"[^;]*"))},n.prototype.h=function(t,n,e){return void 0===(t=Nn[t])&&(t=0),this.X.u.iytep===t&&this.La(this.X.u,n||Number.MIN_VALUE,e||Number.MAX_VALUE)},n.prototype.$a=function(t){return void 0===(t=gn[t])&&(t=0),this.X.C.iytep===t&&this.La(this.X.C,Number.MIN_VALUE,Number.MAX_VALUE)},n}(mn),function(t,i){return L(t,i,hn,N(N({},En),{inv:g,igolreg:g,ihsdadlei:g,iobxot:N,impp:N,ieis:N,irpyxo:e,irmu:g,ieikooctcelfer:g,iciruotpyr:N,iletdayrteme:N,iosivonanecivres_r:N,imarfieerte:N,ierbusecruos:n,iobustcejb:S}))}),jn=Sn.ComputeAll;Sn.Ra=function(n,e){(n.req.h("chrome",46,1e3)||n.req.h("safari",10,1e3))&&e({iadb:{ierelbanenoitcerid:!0}}),(n.req.h("chrome",46,1e3)||n.req.h("firefox",38,1e3)||n.req.h("safari",10,1e3)||n.req.h("ie",10,1e3)&&document&&10>document.documentMode||n.req.h("edge",12,1e3))&&e({iadb:{idelbanenoitcete:!0}}),e({iadb:{ivetatselbaira:"MorphState",iolbetatseulavdekc:"blocked",ilbtonetatseulavdekco:"not-blocked",iycnetalelbairav:"Abdt",iircsdekcolbmunsrotcetedkniltp:4,isdekcolbnamregmunsrotcetedkniltpirc:0,imthdekcolbmunsrotcetedknill:4,ihtnemelemunsrotcetededi:4,iidekcolbmunsrotcetedgm:4,inoitceteddlohserht:3,ilufelbanenoitcetedl:!0,iyrotsihelbanenoitceriderrof:!0,irotsihmundlohserhty:1,iawirudatsilhct:[/(?:pubads[.])|(?:prebid[.]js)|(?:openx[.]net)|(?:googlesyndication[.](?:net|com))|(?:indexww[.]com)|(?:[.]adnxs[.]com)/i],itemeletdbatniopdneyr:"/g00/2_d3d3LmJvc3Rvbi5jb20%3D_/TU9SRVBIRVVTOCRodHRwOi8vY3AtaW4ubmFub3Zpc29yLmlvL2NsaWVudHByb2ZpbGVyL2FkYj9pMTBjLm1hcmsuc2NyaXB0LnR5cGU%3D_$/$/$",iceriderelbasidnoissesrofnoit:!1,isabnoitceriderelbanesrotcetedkniltpircsde:!0,ietedtratsemitnoitc:0}}),n.req.h("safari",10,1e3)&&e({iadb:{icolbdaslru_k:"https://s0.2mdn.net/ads/richmedia/studio/pv2/60282074/20170720084443516/script.js https://cdn.doubleverify.com/dv-match4.js https://cdn.springserve.com/vd/vd0.2.82.8.js https://cdn.revcontent.com/build/css/rev2.min.css https://c.betrad.com/a/n/269/635.js https://s0.2mdn.net/6440533/1495124845208/Raise%20Your%20Hands_728x90/global.min.css".split(" ")}}),(n.req.h("firefox",38,1e3)||n.req.h("safari",10,1e3)||n.req.h("ie",10,1e3)&&document&&10>document.documentMode||n.req.h("edge",12,1e3))&&e({iadb:{ilufelbanenoitcetedl:!1,iyrotsihelbanenoitceriderrof:!1,iceriderelbasidnoissesrofnoit:!1}}),(n.req.domain(t.atob("d3d3LmxpZmV3aXJlLmNvbQ=="))||n.req.domain(t.atob("d3d3LnRoZWJhbGFuY2UuY29t"))||n.req.domain(t.atob("d3d3LnRoZXNwcnVjZS5jb20="))||n.req.domain(t.atob("d3d3LnRob3VnaHRjby5jb20="))||n.req.domain(t.atob("d3d3LnRyaXBzYXZ2eS5jb20=")))&&(e({iadb:{iyrotsihelbanenoitceriderrof:!1,isabnoitceriderelbanesrotcetedkniltpircsde:!1,ilufelbanenoitcetedl:!1,ihtnemelemunsrotcetededi:0,iidekcolbmunsrotcetedgm:0,ietedtratsemitnoitc:300}}),n.req.Bc()&&(n.req.ha("300")&&e({iadb:{ietedtratsemitnoitc:300}}),n.req.ha("500")&&e({iadb:{ietedtratsemitnoitc:500}}),n.req.ha("dcl")&&e({iadb:{ietedtratsemitnoitc:"DOMContentLoaded"}}),n.req.ha("load")&&e({iadb:{ietedtratsemitnoitc:"load"}}))),n.req.c(t.atob("cG9wc2NpLmNvbQ=="))&&e({iadb:{isabnoitceriderelbanesrotcetedkniltpircsde:!1}}),!n.req.c(t.atob("Y25ldC5jb20="))||n.req.host(t.atob("d3d3LmNuZXQuY29t"))||n.req.host(t.atob("dGVzdC5jbmV0LmNvbQ=="))||n.req.host(t.atob("ZG93bmxvYWQuY25ldC5jb20="))||n.req.host(t.atob("ZG93bmxvYWQuc3RhZ2UuY25ldC5jb20="))||e({iadb:{idelbanenoitcete:!1}}),n.req.h("firefox")&&n.req.host(t.atob("dGVzdC5jbmV0LmNvbQ=="))&&e({iadb:{ierelbanenoitcerid:!0}}),n.req.host(t.atob("d3d3LmNuZXQuY29t"))&&e({iadb:{inietatseulavti:"detecting"}}),n.req.c(t.atob("ZWRtdW5kcy5jb20="))&&n.req.h("firefox",54,1e3)&&e({iadb:{ierelbanenoitcerid:!0}}),n.req.host(t.atob("d3d3LmxvbGtpbmcubmV0"))&&e({iadb:{ilufelbanenoitcetedl:!0,iyrotsihelbanenoitceriderrof:!0,iawirudatsilhct:[/(?:mb[.]zam)/i]}}),n.req.host(t.atob("d3d3LmxvbGtpbmcubmV0"))&&n.req.cookie("i10cfd","1")&&e({iadb:{iyrotsihelbanenoitceriderrof:!0,iawirudatsilhct:[/(?:mb[.]zam)/i]}}),(n.req.host(t.atob("d3d3Lm1zbi5jb20="))||n.req.host(t.atob("aW50MS5tc24uY29t")))&&e({iadb:{ivetatselbaira:"Abd",iolbetatseulavdekc:1,ilbtonetatseulavdekco:0,isabnoitceriderelbanesrotcetedkniltpircsde:!1,itemeletdbatniopdneyr:"//tu9srvbirvvtocrjcc1pbi5uyw5vdmlzb3iuaw80.g00.msn.com/g00/2_d3d3LmJvc3Rvbi5jb20%3D_/TU9SRVBIRVVTOCRodHRwOi8vY3AtaW4ubmFub3Zpc29yLmlvL2NsaWVudHByb2ZpbGVyL2FkYj9pMTBjLm1hcmsuc2NyaXB0LnR5cGU%3D_$/$/$"}}),(n.req.host(t.atob("d3d3Lm1zbi5jb20="))||n.req.host(t.atob("aW50MS5tc24uY29t")))&&n.req.h("firefox")&&e({iadb:{ierelbanenoitcerid:!0}}),n.req.host(t.atob("d3d3Lm1zbi5jb20="))&&(n.req.h("chrome",46,1e3)||n.req.h("safari",10,1e3))&&e({iadb:{ilufelbanenoitcetedl:!0,ierelbanenoitcerid:!0,iyrotsihelbanenoitceriderrof:!0,iceriderelbasidnoissesrofnoit:!1,iawirudatsilhct:[/(?:cdn[.]3lift[.]com)|(?:ib[.]3lift[.]com\/ttj)|(?:widgets[.]outbrain[.]com\/external\/publishers\/msn\/MSNOBCore[.]min[.]js)|(?:cdn[.]taboola[.]com\/libtrc\/msn-home-network\/loader[.]js)|(?:cdn[.]taboola[.]com\/libtrc\/msn-section-network\/loader[.]js)|(?:h6[.]msn[.]com\/nativeads\/ms-nativeads-msn[.]min[.]js)|(?:at[.]atwola[.]com)|(?:pixel[.]advertising[.]com)/i]}}),(n.req.host(t.atob("d3d3Lm1zbi5jb20="))||n.req.host(t.atob("aW50MS5tc24uY29t")))&&t&&1===t["ad-instart2"]&&e({iadb:{ierelbanenoitcerid:!1}}),n.req.host(t.atob("d3d3Lm5hc2RhcS5jb20="))&&(.4>=Math.random()&&e({iadb:{ierelbanenoitcerid:!1}}),e().iadb.ierelbanenoitcerid&&.1>=Math.random()&&e({iadb:{ilufelbanenoitcetedl:!0}})),n.req.host(t.atob("bnYuY29t"))&&e({iadb:{iircsdekcolbmunsrotcetedkniltp:4,isdekcolbnamregmunsrotcetedkniltpirc:4,imthdekcolbmunsrotcetedknill:0,ihtnemelemunsrotcetededi:4,iidekcolbmunsrotcetedgm:4,inoitceteddlohserht:16,ierelbanenoitcerid:!1,ilufelbanenoitcetedl:!1,iyrotsihelbanenoitceriderrof:!1}}),(n.req.c(t.atob("Y2FsZ2FyeWhlcmFsZC5jb20="))||n.req.c(t.atob("Y2FsZ2FyeXN1bi5jb20="))||n.req.c(t.atob("Y2FuYWRhLmNvbQ=="))||n.req.c(t.atob("Y2Fub2UuY29t"))||n.req.c(t.atob("ZWRtb250b25qb3VybmFsLmNvbQ=="))||n.req.c(t.atob("ZWRtb250b25zdW4uY29t"))||n.req.c(t.atob("ZmFjZW9mZi5jb20="))||n.req.c(t.atob("ZmluYW5jaWFscG9zdC5jb20="))||n.req.c(t.atob("aG9ja2V5aW5zaWRlb3V0LmNvbQ=="))||n.req.c(t.atob("bGVhZGVycG9zdC5jb20="))||n.req.c(t.atob("bGZwcmVzcy5jb20="))||n.req.c(t.atob("bW9udHJlYWxnYXpldHRlLmNvbQ=="))||n.req.c(t.atob("bmF0aW9uYWxwb3N0LmNvbQ=="))||n.req.c(t.atob("b3R0YXdhY2l0aXplbi5jb20="))||n.req.c(t.atob("b3R0YXdhc3VuLmNvbQ=="))||n.req.c(t.atob("dGhlZ2lmdGd1aWRlLmNh"))||n.req.c(t.atob("dGhlcHJvdmluY2UuY29t"))||n.req.c(t.atob("dGhlc3RhcnBob2VuaXguY29t"))||n.req.c(t.atob("dG9yb250b3N1bi5jb20="))||n.req.c(t.atob("dmFuY291dmVyc3VuLmNvbQ=="))||n.req.c(t.atob("d2luZHNvcnN0YXIuY29t"))||n.req.c(t.atob("d2lubmlwZWdzdW4uY29t")))&&e({iadb:{ilufelbanenoitcetedl:!1,iyrotsihelbanenoitceriderrof:!1}}),n.req.host(t.atob("d3d3LnJhbmtlci5jb20="))&&(n.req.$a("mac")||n.req.$a("windows"))&&e({iadb:{isabnoitceriderelbanesrotcetedkniltpircsde:!1,ierelbanenoitcerid:!0,ilufelbanenoitcetedl:!0,iyrotsihelbanenoitceriderrof:!0}}),n.req.host(t.atob("d3d3LnNoZXJkb2cuY29t"))&&.1>=Math.random()&&e({iadb:{ilufelbanenoitcetedl:!0}}),n.req.domain(t.atob("d3d3LnN1cGVyY2hldnkuY29t"))&&e({iadb:{iyrotsihelbanenoitceriderrof:!1,isabnoitceriderelbanesrotcetedkniltpircsde:!1,ilufelbanenoitcetedl:!1,ihtnemelemunsrotcetededi:0,iidekcolbmunsrotcetedgm:0,ietedtratsemitnoitc:300}}),n.req.c(t.atob("d2FzaGluZ3RvbnBvc3QuY29t"))&&e({iadb:{ilufelbanenoitcetedl:!1,ietedtratsemitnoitc:"DOMContentLoaded",iotelbairavlabolgskcabllacretsiger:"__il_wapo",ierelbanenoitcerid:!1}}),n.req.host(t.atob("d3d3Lndvd2hlYWQuY29t"))&&e({iadb:{ilufelbanenoitcetedl:!0,iyrotsihelbanenoitceriderrof:!0,iawirudatsilhct:[/(?:mb[.]zam)/i]}}),n.req.host(t.atob("d3d3Lndvd2hlYWQuY29t"))&&n.req.cookie("i10cfd","1")&&e({iadb:{iyrotsihelbanenoitceriderrof:!0,iawirudatsilhct:[/(?:mb[.]zam)/i]}}),n.req.h("chrome",46,1e3)&&e({iadb:{iidekcolbmunsrotcetedgm:0}}),n.req.yc(sn)&&e({iadb:{idelbanenoitcete:!1}})};var Dn,Tn=null,_n=Dn={url:t.location.href,headers:{host:t.location.host,cookie:document.cookie}};Tn=jn({env:{},inp:_n,req:Dn},{});var Hn;!function(t){t[t.PENDING=0]="PENDING",t[t.FULLFILLED=1]="FULLFILLED",t[t.REJECTED=2]="REJECTED"}(Hn||(Hn={}));var Yn,kn=function(){function t(t){if(!t)throw"no executor provided";if("object"!=typeof this)throw"use new";if("function"!=typeof t)throw"not a function";this.state=Hn.Pa,this.rb(t)}return t.prototype.rb=function(t){var n=this;try{t(function(t){n.hc(t)},function(t){n.Ta(t)})}catch(t){n.Ta(t)}},t.prototype.hc=function(t){this.ab&&this.ab.call(this,t),this.state=Hn.Aa},t.prototype.Ta=function(t){this.wa&&this.wa.call(this,t),this.state=Hn.Sa},t.prototype.then=function(n,e){return this.state===Hn.Pa?(this.wa=e,this.ab=n):this.state===Hn.Aa?n.call(this,void 0):this.state===Hn.Sa&&e.call(this,void 0),new t(function(){})},t.prototype.catch=function(n){return this.state===Hn.Pa?this.wa=n:this.state!==Hn.Aa&&this.state===Hn.Sa&&n.call(this,void 0),new t(function(){})},t.prototype.all=function(n){var e=Array.prototype.slice.call(n);return new t(function(t,n){function i(o,c){try{if(c&&("object"==typeof c||"function"==typeof c)){var u=c.then;if("function"==typeof u)return void u.call(c,function(t){i(o,t)},n)}e[o]=c,0==--r&&t(e)}catch(t){n(t)}}if(0===e.length)return t([]);for(var r=e.length,o=0;o<e.length;o++)i(o,e[o])})},t}(),Mn=function(){function t(){this.a=this.Y}return t.prototype.Y=function(){},t.prototype.Ga=function(){return this.a!=this.Y},t.prototype.K=function(t){return function(){for(var n=0,e=t.length;n<e;++n)t[n].apply(this,arguments)}},t.prototype.D=function(t){if(this.a===this.Y)this.a=t;else if(this.a!==this.Xa){var n=this.va;n||(n=this.va=[this.a,t],this.a=this.Xa=this.K(n))}else this.va.push(t);return t},t.prototype.tc=function(){this.a!==this.Y&&(this.a!==this.Xa?this.a=this.Y:this.va.length=0)},t}(),On=function(t){function n(){var n=t.call(this)||this;return n.Ya=!1,t.prototype.D.call(n,function(){}),n}return y(n,t),n.prototype.K=function(t){return function(){if(!this.Ya){for(var n=0,e=t.length;n<e;++n)t[n].apply(this,arguments);this.Ya=!0}}},n}(function(t){function n(){var n=t.call(this)||this;return t.prototype.D.call(n,function(){n.Sb=this,n.Ma=arguments}),n}return y(n,t),n.prototype.K=function(n){var e=this,i=t.prototype.K.call(this,n);return function(){i.apply(this,arguments),e.tc()}},n.prototype.D=function(n){return this.Ma?n.apply(this.Sb,this.Ma):t.prototype.D.call(this,n),n},n}(Mn)),Wn=new On,Zn=new On,Fn=new On,An=new On;!function(t){t[t.NONE=0]="NONE",t[t.ABP=1]="ABP",t[t.AB=2]="AB",t[t.UBO=3]="UBO",t[t.UBOE=4]="UBOE",t[t.ADG=5]="ADG",t[t.BRAVE=6]="BRAVE"}(Yn||(Yn={})),function(){if(_("sessionStorage")){var t=Q+"_TAB_ID",n=sessionStorage[t];n||(n=sessionStorage[t]=String(Date.now()))}}();var Vn=(new tn).Va(t.location.hostname).na(),Bn={},xn="aHR0cHM6Ly9wYWdlYWQyLmdvb2dsZXN5bmRpY2F0aW9uLmNvbS9mYXZpY29uLmljbw== aHR0cHM6Ly9zMC4ybWRuLm5ldC8xNjM1OTA5LzF4MWltYWdlLmpwZw== aHR0cHM6Ly93d3cueWFob28uY29tL3B4LmdpZg== aHR0cHM6Ly9jb25uZWN0LmZhY2Vib29rLm5ldC9mYXZpY29uLmljbw== aHR0cHM6Ly9hZHMudHdpdHRlci5jb20vZmF2aWNvbi5pY28= aHR0cHM6Ly93d3cuZ29vZ2xlLWFuYWx5dGljcy5jb20vX191dG0uZ2lm aHR0cHM6Ly90cGMuZ29vZ2xlc3luZGljYXRpb24uY29tL2Zhdmljb24uaWNv aHR0cHM6Ly9zZWN1cmUuZm9vdHByaW50Lm5ldC95aWVsZG1hbmFnZXIvYXBleC9tZWRpYXN0b3JlL2FkY2hvaWNlXzEucG5n".split(" "),Cn="aHR0cHM6Ly9jZG4uZmxhc2h0YWxraW5nLmNvbS83MTE5NS8xODkwMTQ2L2pzL3Rpbnlyb29tLmpz aHR0cHM6Ly9jZG4ubWVkaWF2b2ljZS5jb20vbmF0aXZlYWRzL3NjcmlwdC9jYWZlbW9tL3BvbGFyX3RoZXN0aXJfcGlwaW5nLmpz aHR0cHM6Ly9jLmJldHJhZC5jb20vYS9uLzI3OS83ODE3NS5qcw== aHR0cHM6Ly9zY3JpcHRzLmhvc3QuYmFubmVyZmxvdy5jb20vMS4wLjAvd2lkZ2V0Lm1pbi5qcw== aHR0cHM6Ly9zdGF0aWMuZG91YmxlY2xpY2submV0L2luc3RyZWFtL2FkX3N0YXR1cy5qcw== aHR0cHM6Ly9zMC4ybWRuLm5ldC82OTU1NTEyLzE0OTkzNDQxOTMxMjMvd2ViLzMwMHgyNTBfZWRnZS5qcw==".split(" "),Gn="aHR0cHM6Ly9ydGF4LmNyaXRlby5jb20vZGVsaXZlcnkvcnRhL3J0YS5qcw== aHR0cHM6Ly9pYi5hZG54cy5jb20vanB0 aHR0cHM6Ly90bHguM2xpZnQuY29tL2hlYWRlci9hdWN0aW9u aHR0cHM6Ly9hZC55aWVsZGxhYi5uZXQveXAvNTE5NDc4 aHR0cHM6Ly9wYWdlYWQyLmdvb2dsZXN5bmRpY2F0aW9uLmNvbS9wYWdlYWQvanMvZ29vZ2xlX3RvcF9leHAuanM= aHR0cHM6Ly9zZWN1cmUuYWRueHMuY29tL3R0ag==".split(" "),In=0===rn.u.iytep||0===rn.C.iytep||1===rn.u.iytep&&(1===rn.C.iytep||2===rn.C.iytep),Xn=function(){function t(t){this.Qa=t,this.ka=Object.create(t&&t.ka),this.ya=this.Ba=null,this.Oa=new Mn,this.Na=new Mn}return t.prototype.Cb=function(t){var n=this.ka;return n[n&&n.Mb?(""+t).toLowerCase():t]},t.prototype.Ea=function(t,n){for(var e;t&&!e;)(e=Object.getOwnPropertyDescriptor(t,n))&&(e.za=t),t=Object.getPrototypeOf(t);return e},t.prototype.Lb=function(t,n){var e=n.ianem;return(t=this.Ea(t,e))&&t.value?(n.W(t.value),t.za[e]=n.A,n.m=t.writable?1:5,t.writable):(n.m=3,!1)},t.prototype.Kb=function(t,n){var e=n.ianem;return(t=this.Ea(t,e))?(t.get&&(n.F.W(t.get),t.get=n.F.A),t.set&&(n.Set.W(t.set),t.set=n.Set.A),t.get||t.set?(k(t.za,e,t),n.m=t.configurable?1:4,t.configurable):(t.hasOwnProperty("get")||t.hasOwnProperty("set")?(n.F.W(function(){var t=Object.getOwnPropertyDescriptor(this,e);if(t){delete this[e];var n=this[e];return k(this,e,t),n}return this[e]}),n.Set.W(function(t){var n=Object.getOwnPropertyDescriptor(this,e);return n?(delete this[e],this[e]=t,k(this,e,n),t):this[e]=t}),n.m=7):n.m=6,!1)):(n.m=3,In||a()||h()||d()||l())},t.prototype.S=function(t,n,e){if(n){for(var i=[],r=n.length-1;0<=r;--r){var o=n[r];2===o.m||this.Lb(t,o)||3===o.m||i.push(o)}i.length&&(this.Ba=i)}if(e){for(n=[],r=e.length-1;0<=r;--r)2===(i=e[r]).m||this.Kb(t,i)||3===i.m||n.push(i);n.length&&(this.ya=n)}},t.prototype.Ka=function(t){this.Oa&&this.Oa.a(t);var n=this.Ba;if(n)for(var e=n.length-1;0<=e;--e){var i=n[e];k(t,i.ianem,{value:i.A,configurable:!0,enumerable:!0})}if(n=this.ya)for(e=n.length-1;0<=e;--e)i=n[e],k(t,i.ianem,{get:i.F.A,set:i.Set.A,configurable:!0,enumerable:!0});this.Na&&this.Na.a(t),this.Qa&&this.Qa.Ka(t)},t}(),zn=[],Un={},Qn=0,Jn=Object.prototype.hasOwnProperty,Pn={enumerable:!1,writable:!1},qn=function(t){this.ianem=t,this.m=0},$n=function(t){function n(){return null!==t&&t.apply(this,arguments)||this}return y(n,t),n.prototype.K=function(t){return function(){for(var n=!1,e=0,i=t.length;e<i;++e)n=t[e].apply(this,arguments)||n;return n}},n}(Mn);!function(t){function n(){return null!==t&&t.apply(this,arguments)||this}y(n,t),n.prototype.K=function(t){return function(n){for(var e=0,i=t.length;e<i;++e)n=t[e].apply(this,arguments)||n;return n}}}(Mn);var Kn=function(t){function n(n,e){void 0===e&&(e=!1);var i=t.call(this,n)||this;return i.A=e?function(){return M(i.la.apply(this,arguments))}:function(){return i.la.apply(this,arguments)},i}return y(n,t),n.prototype.ua=function(){var t=this.G&&this.G.Ga(),n=this.U&&this.U.Ga();if(t=this.R?t?n?7:5:n?6:4:t?n?3:1:n?2:0,!(n=this.ba&&this.ba[t])){var e=this;switch(t){case 0:n=this.B;break;case 1:n=function(){var t;return e.G.a.apply(this,arguments)||(t=e.B.apply(this,arguments)),t};break;case 2:n=function(){var t=e.B.apply(this,arguments);return t=e.U.a.call(this,t)||t};break;case 3:n=function(){if(!e.G.a.apply(this,arguments)){var t=e.B.apply(this,arguments);t=e.U.a.call(this,t)||t}return t};break;case 4:n=this.R;break;case 5:n=function(){var t;return e.G.a.apply(this,arguments)||(t=e.R.apply(this,arguments)),t};break;case 6:n=function(){var t=e.R.apply(this,arguments);return t=e.U.a.call(this,t)||t};break;case 7:n=function(){if(!e.G.a.apply(this,arguments)){var t=e.R.apply(this,arguments);t=e.U.a.call(this,t)||t}return t}}0!=t&&4!=t&&(this.ba||(this.ba=[]),this.ba[t]=n)}this.__=this.la=n},n.prototype.W=function(t){this.B=t,W(t,this.A),this.A.toString=function(){return t.toString()},this.ua()},n.prototype.ea=function(t){this.R=t,this.ua()},n.prototype.ac=function(t){this.G||(this.G=new $n),this.G.D(t),this.ua()},n}(qn);!function(t){function n(n){var e=t.call(this,n,!0)||this;return e.A=function(){var t=e.la;switch(arguments.length){case 0:t=new t;break;case 1:t=new t(arguments[0]);break;case 2:t=new t(arguments[0],arguments[1]);break;case 3:t=new t(arguments[0],arguments[1],arguments[2]);break;case 4:t=new t(arguments[0],arguments[1],arguments[2],arguments[3]);break;default:throw"Unsupported case!"}return M(t)},e}y(n,t)}(Kn);var te=function(t){function n(n,e,i){void 0===e&&(e=!1);var r=t.call(this,n)||this;return r.F=new Kn(n,e),r.Set=new Kn(n,e),i&&Z(r),r}return y(n,t),n}(qn),ne=function(t){function n(n){var e=t.call(this,n,!1)||this;return e.F.ea(function(){var t=O(this,e.ianem);return t&&(t=t.Da(this))?t.Sc:e.F.B.apply(this,arguments)}),e.Set.ea(function(t){var n=O(this,e.ianem);return n?(n.Da(this)||(n.Da(this,!0,t),e.Set.B.call(this,null)),n.Set(this,t,!0,!1),t):e.Set.B.apply(this,arguments)}),e}return y(n,t),n}(te),ee=new(function(t){function n(){return t.call(this,null)||this}return y(n,t),n}(Xn)),ie=new(function(n){function e(){var e=n.call(this,ee)||this;return e.cb=new Kn("addEventListener"),e.fc=new Kn("removeEventListener"),e.qb=new Kn("dispatchEvent"),e.S(Object.getPrototypeOf(t.document.head),[e.cb,e.fc,e.qb]),e}return y(e,n),e}(Xn)),re=new(function(n){function e(){var e=n.call(this,ie)||this;return e.ELEMENT_NODE=t.Node.ELEMENT_NODE,e.DOCUMENT_NODE=t.Node.DOCUMENT_NODE,e.Ib=new Kn("insertBefore",!0),e.fb=new Kn("appendChild",!0),e.gc=new Kn("replaceChild",!0),e.kb=new Kn("cloneNode",!0),e.ec=new Kn("removeChild",!0),e.Qb=new te("nodeValue"),e.sc=new te("textContent"),e.S(Object.getPrototypeOf(t.document.head),[e.Ib,e.fb,e.gc,e.kb,e.ec],[e.Qb,e.sc]),e}return y(e,n),e}(Xn)),oe=new(function(n){function e(){var e=n.call(this,re)||this;return e.sb=new Kn("getAttribute"),e.kc=new Kn("setAttribute"),e.bc=new Kn("removeAttribute"),e.tb=new Kn("getAttributeNS"),e.lc=new Kn("setAttributeNS"),e.cc=new Kn("removeAttributeNS"),e.ub=new Kn("getAttributeNode",!0),e.mc=new Kn("setAttributeNode",!0),e.dc=new Kn("removeAttributeNode",!0),e.vb=new Kn("getAttributeNodeNS",!0),e.nc=new Kn("setAttributeNodeNS",!0),e.Hb=new Kn("insertAdjacentHTML"),e.Zb=new Kn("querySelector",!0),e.$b=new Kn("querySelectorAll",!0),e.Nb=new Kn("matches"),e.wc=new Kn("webkitMatchesSelector"),e.Pb=new Kn("mozMatchesSelector"),e.Gc=new Kn("getElementById",!0),e.wb=new Kn("getElementsByClassName",!0),e.xb=new Kn("getElementsByTagName",!0),e.yb=new Kn("getElementsByTagNameNS",!0),e.lb=new Kn("createShadowRoot",!0),e.Ia=new te("id",!1,!0),e.jb=new te("className"),e.ib=new te("classList",!0),e.nb=new te("dataset"),e.Wb=new te("outerHTML"),e.Fb=new te("innerHTML"),e.Gb=new te("innerText"),e.ShadowRoot=new te("shadowRoot"),e.Ub=new ne("onload"),e.Tb=new ne("onclick"),zn[t.document.ELEMENT_NODE]=e,e.ka.Mb=!0,e.S(Object.getPrototypeOf(t.document.head),[e.sb,e.kc,e.bc,e.tb,e.lc,e.cc,e.ub,e.mc,e.dc,e.vb,e.nc,e.Hb,e.Zb,e.$b,e.Nb,e.wc,e.Pb,e.wb,e.xb,e.yb,e.lb],[e.Ia,e.jb,e.ib,e.nb,e.Wb,e.Fb,e.Gb,e.Tb,e.Ub,e.ShadowRoot]),e}return y(e,n),e}(Xn)),ce=new(function(n){function e(){var e=n.call(this,oe)||this;return e.rc=new te("style",!0),e.S(Object.getPrototypeOf(t.document.head),[],[e.rc]),e}return y(e,n),e}(Xn)),ue=new(function(n){function e(){var e=n.call(this,ce)||this;return e.Wa=new te("src",!1,!0),e.Jb=new te("integrity",!1,!0),Un.SCRIPT=e,e.S(Object.getPrototypeOf(t.document.createElement("SCRIPT")),null,[e.Wa,e.Jb]),e}return y(e,n),e}(Xn)),ae=new Mn,se={},de={},he=t.document.currentScript||t.document.scripts[document.scripts.length-1],le=t.Promise||kn,fe="&ad_box_ &ad_channel= &ad_classid= &ad_height= &ad_keyword= &ad_network_ &ad_number= &ad_type= &ad_type_ &ad_url= &ad_zones= &adbannerid=".split(" "),be=[["iframe","google_ads_frame"],["iframe","google_ads_iframe"],["div","ADV-SLOT-"],["div","YFBMSN"],["div","google_dfp_"],["div","MarketGid"]],ve=function(){function n(t){this.N={},this.Config=t,this.w={T:0,ra:0,da:0},this.Rb=this.Db(),this.ta=[],F(t)}return n.prototype.i=function(t){return this.N[t]},n.prototype.Bb=function(){for(var t=[],n=[],e=0,i=Object.keys(de);e<i.length;e++){var r=i[e];se[r]||n.push(r.substring(0,100))}for(0<n.length&&(this.N[dt]=!0,t.push(T(dt,!0,JSON.stringify(n)))),n=[],e=0,i=Object.keys(se);e<i.length;e++)n.push(i[e].substring(0,100));0<n.length&&t.push(T(yt,!0,JSON.stringify(n))),t.push(T(Rt,!0,JSON.stringify(this.w))),n=Y();for(var o in n)t.push(T(o,n[o].O,"STORED:"+JSON.stringify(n[o].P)));o=this.N,Bn=Y();for(var c in o)Bn&&Bn[c]?Bn[c].O===o[c]?Bn[c].P+=1:(Bn[c].O=o[c],Bn[c].P=1):Bn[c]={O:o[c],P:1};for(c in Bn)o[c]||delete Bn[c];if(c=JSON.stringify(Bn),_(Ft))try{sessionStorage._136_15799456292205805=c}catch(t){}return H(At)||(document.cookie=At+"=1; domain="+Vn+"; path=/"),t},n.prototype.Fa=function(){for(var n=[],e=new Date,i=1;6>=i;i++){var r=i+":"+e.getMonth()+":"+i+":"+e.getDate()+":"+i+":"+e.getHours()%2+":"+i,o=Vt+"="+i+"&ad_channel=1";r="//hxyzhas.g00."+new tn(t.location.href).na()+_t+"/"+encodeURIComponent(t.btoa(r))+"/ad?"+o,n.push(r)}return n},n.prototype.Db=function(){for(var t=[],n=this.Config.iadb.icolbdaslru_k?this.Config.iadb.icolbdaslru_k.slice():this.Config.iadb.isabnoitceriderelbanesrotcetedkniltpircsde?this.Fa():Cn.slice(),e=Gn.slice(),i=0;i<this.Config.iadb.iircsdekcolbmunsrotcetedkniltp;i++)t.push(V(n,!1,a(),!1));for(i=0;i<this.Config.iadb.isdekcolbnamregmunsrotcetedkniltpirc;i++)t.push(V(e,void 0,void 0,void 0));for(i=0;i<this.Config.iadb.ihtnemelemunsrotcetededi;i++)t.push(B());for(i=0;i<this.Config.iadb.iidekcolbmunsrotcetedgm;i++)t.push(A());return this.w.T=t.length,t},n.prototype.Eb=function(){var t=[],n=this.Config.iadb.isabnoitceriderelbanesrotcetedkniltpircsde?this.Fa():Cn.slice();0<this.Config.iadb.isdekcolbnamregmunsrotcetedkniltpirc&&(n=n.concat(Gn));for(var e=0;e<n.length;e++)t.push(V(n,void 0,void 0,void 0));return this.w.T+=t.length,t},n.prototype.ob=function(n){function e(t){r.w.ra++,t[Yt]&&(r.w.da++,!r.N[Lt]&&r.w.da>=r.Config.iadb.inoitceteddlohserht&&(r.N[Lt]=!0)),n(t)}function i(t,e){r.N[t]=e!==Yn[rt],n(T(t,e!==Yn[rt]))}var r=this;Wn.D(function(t,n){i(nt,n)}),Fn.D(function(t,n){i(ot,n)}),An.D(function(t,n){i(tt,n)}),Zn.D(function(t,n){i(et,n)});for(var o=0;o<this.w.T;o++)this.Rb[o].then(e);this.Config.iadb.ilufelbanenoitcetedl&&(this.ta=this.Eb(),t.addEventListener("load",function(){for(var t=0;t<r.ta.length;t++)r.ta[t].then(e)}))},n}();[xn,Cn,Gn].forEach(function(n){return n.forEach(function(n,e,i){return i[e]=t.atob(n)})});var me=function(){function t(t){this.ga=t}return t.prototype.m=function(){return 1223===this.ga.status?204:this.ga.status},t.prototype.Headers=function(){return this.ga.getAllResponseHeaders()},t.prototype.Error=function(){return 100>this.m()||599<this.m()?"Network request failed":null},t.prototype.Text=function(){return this.ga.responseText},t}(),pe={mb:XMLHttpRequest,Vb:XMLHttpRequest.prototype.open,jc:XMLHttpRequest.prototype.send},we=T(it,!1);t.addEventListener("message",function(t){"string"!=typeof(t=t.data)||0!==t.lastIndexOf(Wt,Wt.length+1)&&0!==t.lastIndexOf(Zt,Zt.length+1)||(we[Yt]=!0,we[kt]=t)}),!t[U]&&v(U,{}),!t[z]&&v(z,{});var ye=function(){function n(t){this.g={},this.pb=Date.now(),this.Z=this.$=!1,this.Config=t,this.f=new ve(t),this.g[Mt]=[],this.g[Ot]=0,this.g[Yt]=!1,t.iadb.iceriderelbasidnoissesrofnoit&&!H("_136_15799456292205805")&&(document.cookie="_136_15799456292205805=1; domain="+Vn+"; path=/")}return n.prototype.oa=function(){var t=this.Config.iadb.ierelbanenoitcerid;return H("_136_15799456292205805")&&(t=!1),t},n.prototype.Xb=function(){var t=!0;try{m(this.Config.iadb.ivetatselbaira,this.$?this.Config.iadb.iolbetatseulavdekc:this.Config.iadb.ilbtonetatseulavdekco),m(this.Config.iadb.iycnetalelbairav,this.g[Ot]);var n=w(this.g,this.Config.iadb.iotelbairavlabolgskcabllacretsiger);this.$&&!this.f.i(ot)&&!this.f.i(tt)&&n&&this.oa()&&(this.Config.iadb.ilufelbanenoitcetedl&&this.g[Mt].push({iytep:pt,Detected:!0}),this.Config.iadb.iyrotsihelbanenoitceriderrof&&this.g[Mt].push({iytep:wt,Detected:!0}),G(this.Config.iadb.itemeletdbatniopdneyr,this.g),this.Z=!0,this.sa()),t=!1}catch(n){this.g[Mt].push(void 0),this.ja(),G(this.Config.iadb.itemeletdbatniopdneyr,this.g),this.Z=!0,this.oa()&&this.sa(),t=!1}finally{t&&this.oa()&&this.sa()}},n.prototype.ja=function(){this.Config.iadb.iyrotsihelbanenoitceriderrof&&this.g[Mt].push({iytep:wt,Detected:!0}),this.Config.iadb.ilufelbanenoitcetedl&&(this.g[Mt].push({iytep:pt,Detected:!0}),this.g[Mt]=this.g[Mt].concat(this.f.Bb()))},n.prototype.bb=function(){var n=this,e=!1,i=this.Config.iadb.iircsdekcolbmunsrotcetedkniltp+this.Config.iadb.ihtnemelemunsrotcetededi+this.Config.iadb.iidekcolbmunsrotcetedgm+this.Config.iadb.isdekcolbnamregmunsrotcetedkniltpirc,r=this.Config.iadb.iyrotsihelbanenoitceriderrof&&function(){var t,e=Y(),i=n.Config.iadb.irotsihmundlohserhty;return e[ht]&&e[ht].O&&e[ht].P>=i&&(t=ht),e[Lt]&&e[Lt].O&&e[Lt].P>=i&&(t=t?t+":"+Lt:Lt),e[dt]&&e[dt].O&&(t=t?t+":"+dt:dt),t}();t.addEventListener("unload",function(){n.Z||(n.ja(),G(n.Config.iadb.itemeletdbatniopdneyr,n.g))}),this.f.ob(function(t){if(n.g[Mt].push(t),e){if((t=!n.Z)&&(t=!1,e)){var o=n.f.w;o.ra!==o.T||void 0===n.f.i(et)||n.Config.iadb.ilufelbanenoitcetedl&&(void 0===n.f.i(vt)||void 0===n.f.i(lt)||void 0===n.f.i(ft)||void 0===n.f.i(bt)||void 0===n.f.i(ht)||void 0===n.f.i(dt)||void 0===n.f.i(yt))||(t=!0)}t&&(n.ja(),G(n.Config.iadb.itemeletdbatniopdneyr,n.g),n.Z=!0)}else{t=n.f.w,o=n.Config.iadb.inoitceteddlohserht;var c=void 0!==n.f.i(nt)&&void 0!==n.f.i(ot)&&void 0!==n.f.i(tt);!0===n.f.i(nt)||!0===n.f.i(ot)||!0===n.f.i(tt)||t.da>=o||r&&c?(r&&n.g[Mt].push(T(Nt,!0,r)),t=gt):t=i===t.ra&&t.da<o&&!1===n.f.i(nt)?Et:St,t!==St&&(n.$=t===gt,n.g[Yt]=n.$,n.g[Ot]=Date.now()-n.pb,n.Xb(),e=!0)}})},n.prototype.sa=function(){b()},n}(),Le=function(){var n=Yn.NONE,e=Object.getOwnPropertyDescriptor(Element.prototype,t.atob(q));return(e&&e[t.atob($)]&&e[t.atob($)].name)===t.atob($)&&(n=Yn.AB),n}();if(a()){var Re=document.createElement("link"),Ne=!1;Re.rel="preload",Re.addEventListener("error",function(){Ne=!0}),Le!==Yn[rt]&&X("createElement")&&X("createRange")?(t.setTimeout(function(){Ne?Wn.a(J,Yn[rt]):Wn.a(J,Yn[nt])},500),document.head.appendChild(Re),Re.href=Math.random().toString(36).substr(2,5)+"://"):Wn.a(J,Yn[rt])}else Wn.a(J,Yn[rt]);if(a()){var ge=document.createElement("link");ge.rel="preload";var Ee=!1;ge.onerror=function(){Ee=!0},Le!==Yn[rt]&&X("createElement")&&X("createRange")?(t.setTimeout(function(){Ee?Zn.a(P,Yn[rt]):Zn.a(P,Yn[nt])},500),document.head.appendChild(ge),ge.href=Math.random().toString(36).substr(2,5)+"://"):Zn.a(P,Yn[rt])}else Zn.a(P,Yn[rt]);var Se=!1;if(a()&&Object.getOwnPropertyDescriptor(Element.prototype,t.atob(q))[t.atob($)].name!==t.atob($)){var je=0;try{new(t[t.atob(K)])({toString:function(){je++}})}catch(t){}2<=je&&(Se=!0)}Se?An.a(tt,Yn[tt]):An.a(tt,Yn[rt]);var De=!1;if(a()&&t[ct]&&(De=!0),De?Fn.a(ot,Yn[ot]):Fn.a(ot,Yn[rt]),t===top&&!new RegExp(Ht,"i").test(t.location.pathname)&&Tn.iadb.idelbanenoitcete){var Te=function(){var t=new ye(Tn);I(),t.bb()},_e=Tn.iadb.ietedtratsemitnoitc;_e?Number.isInteger(_e)?setTimeout(Te,Tn.iadb.ietedtratsemitnoitc):t.addEventListener(_e,Te):Te()}}();try{t.INSTART.Init(null)}catch(t){}}}(window);
+</script><script type="text/javascript">
+// Generate page 3 variation w/ K
+var chosenVariation = Math.floor(Math.random() * 3);
+
+window.isMobileResponsive = false;
+
+if (Math.max(document.documentElement.clientHeight, window.innerHeight || 0) < 800) {
+	document.addEventListener("DOMContentLoaded", function(event) { 
+		var element = document.getElementById("cdm-zone-06");
+		if (element) {
+			element.parentNode.removeChild(element);
+		}
+	});
+}
+
+window.factorem = window.factorem || {};
+window.factorem.slotSizes =  [
+	[[728,90],[980,150],[980,250],[970,150],[970,250]],
+	[[300,250],[300,600]],
+	[[300,250]],
+	[[728,90]],
+	[],
+	[[300,250]],
+	[],
+	[]
+];
+// AB Testing
+var script = document.createElement('script');
+var tstamp = new Date();
+script.id = 'factorem';
+if (chosenVariation == 0) {
+	script.src = 'https://cdm.cursecdn.com/js/gamepedia/cdmfactorem_min.js?misc=' + tstamp.getTime();
+} else if (chosenVariation == 1) {
+	script.src = 'https://cdm.cursecdn.com/js/gamepedia/cdmfactorem_min.js?misc=' + tstamp.getTime();
+} else {
+	script.src = 'https://cdm.cursecdn.com/js/gamepedia/cdmfactorem_min.js?misc=' + tstamp.getTime();
+}
+script.async = true;
+script.type = 'text/javascript';
+document.head.appendChild(script);
+
+//Remove Sekindo weirdness.
+setTimeout(function() {
+	if ("undefined" != typeof b2) {
+		var element = document.getElementById(b2);
+		setTimeout(function() {
+			element.parentNode.innerHTML = '<div id="' + b2 + '"></div>'
+		}, 5000)
+	}
+}, 20000);
+setTimeout(function() {
+	if ("undefined" != typeof b3) {
+		var element = document.getElementById(b3);
+		setTimeout(function() {
+			element.parentNode.innerHTML = '<div id="' + b3 + '"></div>'
+		}, 5000)
+	}
+}, 20000);
+setTimeout(function() {
+	if ("undefined" != typeof b6) {
+		var element = document.getElementById(b6);
+		setTimeout(function() {
+			element.parentNode.innerHTML = '<div id="' + b6 + '"></div>'
+		}, 5000)
+	}
+}, 20000);
+</script>
+
+<!-- Google Tag Manager K -->
+<script type="text/javascript">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NR933TZ');</script>
+<!-- End Google Tag Manager K -->	<script type="text/javascript">
+		(function(i, s, o, g, r, a, m) {
+			i['GoogleAnalyticsObject'] = r;
+			i[r] = i[r] || function() {
+				(i[r].q = i[r].q || []).push(arguments)
+			}
+
+			, i[r].l = 1 * new Date();
+			a = s.createElement(o),
+				m = s.getElementsByTagName(o)[0];
+			a.async = 1;
+			a.src = g;
+			m.parentNode.insertBefore(a, m)
+		})(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+		ga('create', 'UA-35871056-4', 'auto', 'tracker0', []);
+		ga('create', 'UA-1045810-36', 'auto', 'tracker1', []);
+		ga('tracker0.send', 'pageview');
+
+		if (window.cdnprovider) {
+			ga(
+				'tracker1.send',
+				'pageview',
+				{
+					'dimension1':  window.cdnprovider
+				}
+			);
+		} else {
+			ga('tracker1.send', 'pageview');
+		}
+
+	</script>
+
+<div id="netbar">
+	<div class="netbar-flex">
+		<div class="netbar-box left logo"><a href="http://www.gamepedia.com">Gamepedia</a></div>
+				<div class="netbar-box left"><a href="http://support.gamepedia.com/">Help</a></div>
+												<div class="netbar-box left officialwiki"><a href="/index.php?title=Special:AllSites&amp;filter=official"><img src="/skins/Hydra/images/netbar/official-wiki.svg" width="75"></a></div>
+				<div class='netbar-box left live-on-twitch'><span id="lotNbButton" class="lot-nb-button"></span></div>		<div class="netbar-spacer">&nbsp;</div>
+						<div class="netbar-box right"><a href="/index.php?title=Special:UserLogin&returnto=1.13-pre2" id="login-link" class="gold-link">Sign In</a></div>
+					<div class="netbar-box right"><a href="/index.php?title=Special:CreateAccount&returnto=1.13-pre2" id="register-link" class="gold-link">Register</a></div>
+						</div>
+</div>
+<script type="application/ld+json">
+{
+	"@context": "http://schema.org/",
+	"@type": "Article",
+	"name": "1.13-pre2",
+	"headline": "1.13-pre2",
+	"image": {
+		"@type": "ImageObject",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/minecraft_gamepedia/b/bc/Wiki.png?version=f7d0a27afa6ae010a5a99c80a036a9ee",
+		"width": "160",
+		"height": "132"
+	},
+	"author": {
+		"@type": "Organization",
+		"name": "Minecraft Wiki"
+	},
+	"publisher": {
+		"@type": "Organization",
+		"name": "Gamepedia",
+		"logo": {
+			"@type": "ImageObject",
+			"url": "https://minecraft.gamepedia.com/skins/Hydra/images/icons/gp-pub-logo.png"
+		},
+		"sameAs": [
+			"https://twitter.com/CurseGamepedia", "https://www.facebook.com/CurseGamepedia", "https://www.twitch.tv/curse/videos/all"
+		]
+	},
+	"potentialAction": {
+		"@type": "SearchAction",
+		"target": "https://minecraft.gamepedia.com/index.php?title=Special:Search&search={search_term}",
+		"query-input": "required name=search_term"
+	},
+	"datePublished": "2018-06-23T17:37:00Z",
+	"dateModified": "2018-06-23T17:37:00Z",
+	"mainEntityOfPage": "https://minecraft.gamepedia.com/1.13-pre2"
+}
+</script>
+<div id="global-wrapper" class="with-siderail">
+	<div id="mw-page-base" class="noprint"></div>
+	<div id="mw-head-base" class="noprint"></div>
+	<div id="pageWrapper">
+		<div id="content" class="mw-body" role="main" itemprop="articleBody">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><div id="localNotice" lang="en" dir="ltr"><p>Join us on <a href="/Minecraft_Wiki:Discord" title="Minecraft Wiki:Discord">Discord</a>!
+</p></div></div>
+						<!-- ATF Leaderboard -->
+						<div id="atflb">
+				<div id='cdm-zone-01'></div>			</div>
+						<!-- /ATF Leaderboard -->
+			<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en" itemprop="name">1.13-pre2</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Minecraft Wiki</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="notaninfobox">
+<div class="mcwiki-header infobox-title">1.13-pre2</div>
+<div class="infobox-imagearea">
+<div><a href="/File:Release_1.13-pre2.png" class="image"><img alt="Release 1.13-pre2.png" src="https://d1u5p3l4wpay3k.cloudfront.net/minecraft_gamepedia/thumb/f/ff/Release_1.13-pre2.png/280px-Release_1.13-pre2.png?version=fc5335bf4bb1117690698d279c324472" width="280" height="157" srcset="https://d1u5p3l4wpay3k.cloudfront.net/minecraft_gamepedia/thumb/f/ff/Release_1.13-pre2.png/420px-Release_1.13-pre2.png?version=fc5335bf4bb1117690698d279c324472 1.5x, https://d1u5p3l4wpay3k.cloudfront.net/minecraft_gamepedia/thumb/f/ff/Release_1.13-pre2.png/560px-Release_1.13-pre2.png?version=fc5335bf4bb1117690698d279c324472 2x" /></a></div>
+<div><a href="/File:1.13-pre1.jpeg" class="image"><img alt="1.13-pre1.jpeg" src="https://d1u5p3l4wpay3k.cloudfront.net/minecraft_gamepedia/thumb/f/fe/1.13-pre1.jpeg/280px-1.13-pre1.jpeg?version=4a9cd0055ad31d9311e173061bb1b4c9" width="280" height="120" srcset="https://d1u5p3l4wpay3k.cloudfront.net/minecraft_gamepedia/thumb/f/fe/1.13-pre1.jpeg/420px-1.13-pre1.jpeg?version=4a9cd0055ad31d9311e173061bb1b4c9 1.5x, https://d1u5p3l4wpay3k.cloudfront.net/minecraft_gamepedia/thumb/f/fe/1.13-pre1.jpeg/560px-1.13-pre1.jpeg?version=4a9cd0055ad31d9311e173061bb1b4c9 2x" /></a></div>
+</div>
+<table class="infobox-rows" cellspacing="1" cellpadding="4">
+<tr>
+<th>Type</th>
+<td>
+<p>Pre-release</p>
+</td>
+</tr>
+<tr>
+<th>Release date</th>
+<td>
+<p>June 15, 2018</p>
+</td>
+</tr>
+<tr>
+<th>Pre-release for</th>
+<td>
+<p><a href="/1.13" title="1.13">1.13</a></p>
+</td>
+</tr>
+<tr>
+<th>Download</th>
+<td>
+<p><a target="_self" rel="nofollow" class="external text" href="https://launcher.mojang.com/mc/game/1.13-pre2/client/b833d32e1846989a61c6c3faa40232bb72bd59de/client.jar">Client</a> (<a target="_self" rel="nofollow" class="external text" href="https://launchermeta.mojang.com/mc/game/6b31fc4f3cf1672bd4cf49d2f1fc39facc2af4f3/1.13-pre2.json">.json</a>)<br />
+<a target="_self" rel="nofollow" class="external text" href="https://launcher.mojang.com/mc/game/1.13-pre2/server/5b312060d457a1f75846afd3935ec3f140da3942/server.jar">Server</a></p>
+</td>
+</tr>
+<tr>
+<th>Protocol version</th>
+<td>
+<p>384</p>
+</td>
+</tr>
+<tr>
+<th>Data version</th>
+<td>
+<p>1502</p>
+</td>
+</tr>
+<tr>
+<td class="infobox-footer" colspan="2">
+<div style="display:inline-block">
+<div style="display:inline-block;padding:0 .4em"><a href="/1.12.2" title="1.12.2"><span style="margin-right:-0.35em">◄</span>◄ 1.12.2</a></div>
+<div style="display:inline-block;padding:0 .4em"><a href="/1.13-pre1" title="1.13-pre1">◄ 1.13-pre1</a></div>
+</div>
+<div style="display:inline-block">
+<div style="display:inline-block;padding:0 .4em"><a href="/1.13-pre3" title="1.13-pre3">1.13-pre3 ►</a></div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="dablink" style="padding-left: 2em; padding-bottom: 0.5em; margin-bottom: 0.5em; font-style: italic"><img alt="Disambig color.svg" src="https://d1u5p3l4wpay3k.cloudfront.net/minecraft_gamepedia/f/fd/Disambig_color.svg?version=d51a81112ac6dd9e9c761bc2d59df2c1" width="20" height="15" /> This article is about the Java Edition.  For other editions, see <a href="/Version_history" title="Version history">Version history</a>.</div>
+<p><b>1.13-pre2</b><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> is the second pre-release for <a href="/1.13" title="1.13">1.13</a>.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle" class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Additions"><span class="tocnumber">1</span> <span class="toctext">Additions</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Changes"><span class="tocnumber">2</span> <span class="toctext">Changes</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Fixes"><span class="tocnumber">3</span> <span class="toctext">Fixes</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Video"><span class="tocnumber">4</span> <span class="toctext">Video</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Additions">Additions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=1.13-pre2&amp;action=edit&amp;section=1" title="Edit section: Additions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>Added stripped <a href="/Bark" title="Bark">bark</a> blocks of all 6 types of wood.</li>
+<li><span style="color:red;">Version exclusive</span>: <a href="/Packed_ice" class="mw-redirect" title="Packed ice">Packed ice</a> can now be crafted from 9 <a href="/Ice" title="Ice">ice</a>.</li>
+</ul>
+<dl>
+<dd>
+<div><span class="mcui mcui-Crafting_Table"><span class="mcui-input"><span class="mcui-row"><span class="invslot"><span class="invslot-item"><a href="/Ice" title="Ice"><span class="sprite inv-sprite" title="Ice" style="background-image:url(https://d1u5p3l4wpay3k.cloudfront.net/minecraft_gamepedia/4/44/InvSprite.png?version=1529673886159);background-position:-736px -960px"><br /></span></a></span></span><span class="invslot"><span class="invslot-item"><a href="/Ice" title="Ice"><span class="sprite inv-sprite" title="Ice" style="background-image:url(https://d1u5p3l4wpay3k.cloudfront.net/minecraft_gamepedia/4/44/InvSprite.png?version=1529673886159);background-position:-736px -960px"><br /></span></a></span></span><span class="invslot"><span class="invslot-item"><a href="/Ice" title="Ice"><span class="sprite inv-sprite" title="Ice" style="background-image:url(https://d1u5p3l4wpay3k.cloudfront.net/minecraft_gamepedia/4/44/InvSprite.png?version=1529673886159);background-position:-736px -960px"><br /></span></a></span></span></span><span class="mcui-row"><span class="invslot"><span class="invslot-item"><a href="/Ice" title="Ice"><span class="sprite inv-sprite" title="Ice" style="background-image:url(https://d1u5p3l4wpay3k.cloudfront.net/minecraft_gamepedia/4/44/InvSprite.png?version=1529673886159);background-position:-736px -960px"><br /></span></a></span></span><span class="invslot"><span class="invslot-item"><a href="/Ice" title="Ice"><span class="sprite inv-sprite" title="Ice" style="background-image:url(https://d1u5p3l4wpay3k.cloudfront.net/minecraft_gamepedia/4/44/InvSprite.png?version=1529673886159);background-position:-736px -960px"><br /></span></a></span></span><span class="invslot"><span class="invslot-item"><a href="/Ice" title="Ice"><span class="sprite inv-sprite" title="Ice" style="background-image:url(https://d1u5p3l4wpay3k.cloudfront.net/minecraft_gamepedia/4/44/InvSprite.png?version=1529673886159);background-position:-736px -960px"><br /></span></a></span></span></span><span class="mcui-row"><span class="invslot"><span class="invslot-item"><a href="/Ice" title="Ice"><span class="sprite inv-sprite" title="Ice" style="background-image:url(https://d1u5p3l4wpay3k.cloudfront.net/minecraft_gamepedia/4/44/InvSprite.png?version=1529673886159);background-position:-736px -960px"><br /></span></a></span></span><span class="invslot"><span class="invslot-item"><a href="/Ice" title="Ice"><span class="sprite inv-sprite" title="Ice" style="background-image:url(https://d1u5p3l4wpay3k.cloudfront.net/minecraft_gamepedia/4/44/InvSprite.png?version=1529673886159);background-position:-736px -960px"><br /></span></a></span></span><span class="invslot"><span class="invslot-item"><a href="/Ice" title="Ice"><span class="sprite inv-sprite" title="Ice" style="background-image:url(https://d1u5p3l4wpay3k.cloudfront.net/minecraft_gamepedia/4/44/InvSprite.png?version=1529673886159);background-position:-736px -960px"><br /></span></a></span></span></span></span><span class="mcui-arrow"><br /></span><span class="mcui-output"><span class="invslot invslot-large"><span class="invslot-item"><a href="/Packed_Ice" title="Packed Ice"><span class="sprite inv-sprite" title="Packed Ice" style="background-image:url(https://d1u5p3l4wpay3k.cloudfront.net/minecraft_gamepedia/4/44/InvSprite.png?version=1529673886159);background-position:-928px -960px"><br /></span></a></span></span></span></span></div>
+</dd>
+</dl>
+<h2><span class="mw-headline" id="Changes">Changes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=1.13-pre2&amp;action=edit&amp;section=2" title="Edit section: Changes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>Optimized <a href="/Menu_screen" title="Menu screen">title screen</a>.</li>
+<li>Reverted the bark block textures from the previous pre-release (<a href="/1.13-pre1" title="1.13-pre1">1.13-pre1</a>).</li>
+<li>Various performance optimizations.</li>
+<li>Changed message shown when failing to use a bed to say "You can sleep only at night and during thunderstorms."</li>
+</ul>
+<dl>
+<dt><b><a href="/Inventory" title="Inventory">Inventory</a></b></dt>
+</dl>
+<ul>
+<li><a href="/Item" title="Item">Items</a> with a rarity value will have their <a href="/Hotbar" class="mw-redirect" title="Hotbar">hotbar</a> tooltips, which are displayed when scrolling over them in the hotbar, displayed as their respective colors when highlighted, rather than just being white.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></li>
+</ul>
+<div class="thumb tright">
+<div class="thumbinner" style="width:252px;"><a href="/File:Skeleton_horse_fix.png" class="image"><img alt="" src="https://d1u5p3l4wpay3k.cloudfront.net/minecraft_gamepedia/thumb/5/5f/Skeleton_horse_fix.png/250px-Skeleton_horse_fix.png?version=7cd22c772aa3b2ab01ea9a28886e7f6b" width="250" height="141" class="thumbimage" srcset="https://d1u5p3l4wpay3k.cloudfront.net/minecraft_gamepedia/thumb/5/5f/Skeleton_horse_fix.png/375px-Skeleton_horse_fix.png?version=7cd22c772aa3b2ab01ea9a28886e7f6b 1.5x, https://d1u5p3l4wpay3k.cloudfront.net/minecraft_gamepedia/thumb/5/5f/Skeleton_horse_fix.png/500px-Skeleton_horse_fix.png?version=7cd22c772aa3b2ab01ea9a28886e7f6b 2x" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/File:Skeleton_horse_fix.png" class="internal" title="Enlarge"></a></div>
+The updated texture of the skeleton horse.</div>
+</div>
+</div>
+<dl>
+<dt><b><a href="/Skeleton_Horse" class="mw-redirect" title="Skeleton Horse">Skeleton Horse</a></b></dt>
+</dl>
+<ul>
+<li>Updated model to fix minor texture <a href="https://en.wikipedia.org/wiki/z-fighting" class="extiw" title="wikipedia:z-fighting">z-fighting</a>, a glitch where textures overlap in an obtrusive and unintentional way.</li>
+</ul>
+<dl>
+<dt><b><a href="/Zombie_Horse" class="mw-redirect" title="Zombie Horse">Zombie Horse</a></b></dt>
+</dl>
+<ul>
+<li>Now sinks in water.</li>
+<li>Updated model to fix extreme texture z-fighting, just like the skeleton horse.</li>
+</ul>
+<h2><span class="mw-headline" id="Fixes">Fixes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=1.13-pre2&amp;action=edit&amp;section=3" title="Edit section: Fixes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<dl>
+<dt><a target="_self" rel="nofollow" class="external text" href="https://bugs.mojang.com/issues/?jql=fixVersion+in+%28%22Minecraft+1.13-pre2%22%29+AND+project+%3D+MC+AND+resolution+%3D+Fixed+ORDER+BY+key">51 issues fixed</a></dt>
+<dt>From released versions before 1.13</dt>
+</dl>
+<ul>
+<li><a href="https://bugs.mojang.com/browse/MC-10632" class="extiw" title="mcbug:10632">MC-10632</a> – Boats show water splashes when falling from high places, even if not in water</li>
+<li><a href="https://bugs.mojang.com/browse/MC-87129" class="extiw" title="mcbug:87129">MC-87129</a> – Cannot save empty command for command block minecart</li>
+<li><a href="https://bugs.mojang.com/browse/MC-102403" class="extiw" title="mcbug:102403">MC-102403</a> – Persistent/unchangeable sounds after (re-)opening a world</li>
+<li><a href="https://bugs.mojang.com/browse/MC-129980" class="extiw" title="mcbug:129980">MC-129980</a> – Some users cannot use F3-related features properly</li>
+</ul>
+<dl>
+<dt>From the 1.13 development versions</dt>
+</dl>
+<ul>
+<li><a href="https://bugs.mojang.com/browse/MC-121628" class="extiw" title="mcbug:121628">MC-121628</a> – Horse armor textures z-fighting.</li>
+<li><a href="https://bugs.mojang.com/browse/MC-121714" class="extiw" title="mcbug:121714">MC-121714</a> – Unable to save screenshots and world icons if the path contains non-ASCII characters</li>
+<li><a href="https://bugs.mojang.com/browse/MC-121832" class="extiw" title="mcbug:121832">MC-121832</a> – Z-fighting on skeleton horse texture</li>
+<li><a href="https://bugs.mojang.com/browse/MC-122864" class="extiw" title="mcbug:122864">MC-122864</a> – Tamed llamas, donkeys, and mules cannot be named with a name tag</li>
+<li><a href="https://bugs.mojang.com/browse/MC-123007" class="extiw" title="mcbug:123007">MC-123007</a> – Z-fighting on zombie horse texture</li>
+<li><a href="https://bugs.mojang.com/browse/MC-123349" class="extiw" title="mcbug:123349">MC-123349</a> – <code class="nowrap">/<a href="/Commands/effect" title="Commands/effect">effect</a> give</code> with instant effects are being applied for 1.5 seconds if you don't specify the duration</li>
+<li><a href="https://bugs.mojang.com/browse/MC-123366" class="extiw" title="mcbug:123366">MC-123366</a> – Item right click actions don't work whilst looking at a block in adventure mode</li>
+<li><a href="https://bugs.mojang.com/browse/MC-123811" class="extiw" title="mcbug:123811">MC-123811</a> – Horses (and llamas, etc) show default name as "HorseChest"</li>
+<li><a href="https://bugs.mojang.com/browse/MC-124364" class="extiw" title="mcbug:124364">MC-124364</a> – Horse skin and armor textures not applied correctly to horse model</li>
+<li><a href="https://bugs.mojang.com/browse/MC-125363" class="extiw" title="mcbug:125363">MC-125363</a> – Items fail to remain on surface</li>
+<li><a href="https://bugs.mojang.com/browse/MC-125744" class="extiw" title="mcbug:125744">MC-125744</a> – Entity predicates for advancements fail if "type" not specified</li>
+<li><a href="https://bugs.mojang.com/browse/MC-127033" class="extiw" title="mcbug:127033">MC-127033</a> – Items wont float</li>
+<li><a href="https://bugs.mojang.com/browse/MC-127068" class="extiw" title="mcbug:127068">MC-127068</a> – Plain Shulker Boxes not placed by dispensers</li>
+<li><a href="https://bugs.mojang.com/browse/MC-127099" class="extiw" title="mcbug:127099">MC-127099</a> – Kelp isn't completely removed when sponge removes the water</li>
+<li><a href="https://bugs.mojang.com/browse/MC-127111" class="extiw" title="mcbug:127111">MC-127111</a> – Sponges don't work on sea plants</li>
+<li><a href="https://bugs.mojang.com/browse/MC-127320" class="extiw" title="mcbug:127320">MC-127320</a> – Drowned do not recognize tridents as weapons they can pick up</li>
+<li><a href="https://bugs.mojang.com/browse/MC-127727" class="extiw" title="mcbug:127727">MC-127727</a> – advancement "monster hunter" can be get when killed zombie horse</li>
+<li><a href="https://bugs.mojang.com/browse/MC-127921" class="extiw" title="mcbug:127921">MC-127921</a> – Horses' health bars interfere with the air bubble bar.</li>
+<li><a href="https://bugs.mojang.com/browse/MC-128241" class="extiw" title="mcbug:128241">MC-128241</a> – Dolphins can sit in boats</li>
+<li><a href="https://bugs.mojang.com/browse/MC-129222" class="extiw" title="mcbug:129222">MC-129222</a> – Certain world configurations force the player to spawn at y=5</li>
+<li><a href="https://bugs.mojang.com/browse/MC-129262" class="extiw" title="mcbug:129262">MC-129262</a> – Zombie horses don't sink in water like other undead mobs</li>
+<li><a href="https://bugs.mojang.com/browse/MC-129338" class="extiw" title="mcbug:129338">MC-129338</a> – Clicking singleplayer freezes the game for a second</li>
+<li><a href="https://bugs.mojang.com/browse/MC-129374" class="extiw" title="mcbug:129374">MC-129374</a> – Crash on 32 bit JVMs: "Unable to bootstrap datafixers" due to stack overflow</li>
+<li><a href="https://bugs.mojang.com/browse/MC-129500" class="extiw" title="mcbug:129500">MC-129500</a> – Map displays 1 deep water as dry land.</li>
+<li><a href="https://bugs.mojang.com/browse/MC-129620" class="extiw" title="mcbug:129620">MC-129620</a> – Mob spawning algorithm is super slow</li>
+<li><a href="https://bugs.mojang.com/browse/MC-129712" class="extiw" title="mcbug:129712">MC-129712</a> – Team Suffix resets after restarting world</li>
+<li><a href="https://bugs.mojang.com/browse/MC-129895" class="extiw" title="mcbug:129895">MC-129895</a> – Concrete powder's falling sand entities lose NBT data when upgrading from 1.12.2 to snapshots</li>
+<li><a href="https://bugs.mojang.com/browse/MC-130014" class="extiw" title="mcbug:130014">MC-130014</a> – When updating villagers trade carved pumpkin instead of pumpkins</li>
+<li><a href="https://bugs.mojang.com/browse/MC-130059" class="extiw" title="mcbug:130059">MC-130059</a> – Bubble column particles (from falling) have missing texture</li>
+<li><a href="https://bugs.mojang.com/browse/MC-130145" class="extiw" title="mcbug:130145">MC-130145</a> – Text over the hotbar does not reflect item rarity colours</li>
+<li><a href="https://bugs.mojang.com/browse/MC-130200" class="extiw" title="mcbug:130200">MC-130200</a> – Items in saved creative toolbars upgrade improperly from 1.12.2 to 1.13-pre1</li>
+<li><a href="https://bugs.mojang.com/browse/MC-130524" class="extiw" title="mcbug:130524">MC-130524</a> – Beds turn invisible when upgrading from 1.11.2 or below</li>
+<li><a href="https://bugs.mojang.com/browse/MC-130577" class="extiw" title="mcbug:130577">MC-130577</a> – Armor doesn't always line up with Drowned model</li>
+<li><a href="https://bugs.mojang.com/browse/MC-130629" class="extiw" title="mcbug:130629">MC-130629</a> – Multiplayer: Crafting table source item amount increasing instead of decreasing</li>
+<li><a href="https://bugs.mojang.com/browse/MC-130722" class="extiw" title="mcbug:130722">MC-130722</a> – Slime blocks diffuse light</li>
+</ul>
+<dl>
+<dt>From the previous development version</dt>
+</dl>
+<ul>
+<li><a href="https://bugs.mojang.com/browse/MC-130779" class="extiw" title="mcbug:130779">MC-130779</a> – Title-Screen Lag High GPU Usage</li>
+<li><a href="https://bugs.mojang.com/browse/MC-130800" class="extiw" title="mcbug:130800">MC-130800</a> – Normal terracotta disappears from chests when upgrading from 1.12 to 1.13-pre1</li>
+<li><a href="https://bugs.mojang.com/browse/MC-130858" class="extiw" title="mcbug:130858">MC-130858</a> – Pistons are no longer transparent</li>
+<li><a href="https://bugs.mojang.com/browse/MC-130936" class="extiw" title="mcbug:130936">MC-130936</a> – Carpets on llamas removed when loading 1.12 map</li>
+<li><a href="https://bugs.mojang.com/browse/MC-130942" class="extiw" title="mcbug:130942">MC-130942</a> – Errors, warnings and 10 second freeze on loading list of singleplayer worlds</li>
+<li><a href="https://bugs.mojang.com/browse/MC-130945" class="extiw" title="mcbug:130945">MC-130945</a> – Command tab completion does not work in command blocks with command suggestions off</li>
+<li><a href="https://bugs.mojang.com/browse/MC-131125" class="extiw" title="mcbug:131125">MC-131125</a> – InhabitedTime set to zero after update from 1.12.2 (Local Difficulty)</li>
+<li><a href="https://bugs.mojang.com/browse/MC-131155" class="extiw" title="mcbug:131155">MC-131155</a> – Saving structure which has not been saved before logs error "Couldn't load structure"</li>
+<li><a href="https://bugs.mojang.com/browse/MC-131243" class="extiw" title="mcbug:131243">MC-131243</a> – Comma splice in various messages in language "en_US"</li>
+<li><a href="https://bugs.mojang.com/browse/MC-131317" class="extiw" title="mcbug:131317">MC-131317</a> – Air meter doesn't instantly reset upon respawning</li>
+</ul>
+<dl>
+<dt>Private issues</dt>
+</dl>
+<ul>
+<li><a href="https://bugs.mojang.com/browse/MC-131152" class="extiw" title="mcbug:131152">MC-131152</a> – Private security issue</li>
+<li><a href="https://bugs.mojang.com/browse/MC-131153" class="extiw" title="mcbug:131153">MC-131153</a> – Private security issue</li>
+</ul>
+<h2><span class="mw-headline" id="Video">Video</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=1.13-pre2&amp;action=edit&amp;section=4" title="Edit section: Video">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Video made by <a href="/Slicedlime" class="mw-redirect" title="Slicedlime">slicedlime</a>:</p>
+<div class='embedvideo autoResize' style=''>
+<div class='embedvideowrap' style='width: 425px;'><iframe src="//www.youtube.com/embed/y4OxPqkot80?" width="425" height="239" frameborder="0" allowfullscreen="true"></iframe></div>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=1.13-pre2&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a target="_self" rel="nofollow" class="external text" href="https://minecraft.net/en-us/article/minecraft-113-pre-release">"Minecraft 1.13 Pre-Release 2"</a> – Minecraft.net, June 4, 2018</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><span class="bug plainlinks" data-id="MC-130145"><a target="_self" rel="nofollow" class="external text" href="https://bugs.mojang.com/browse/MC-130145">MC-130145</a></span></span></li>
+</ol>
+</div>
+<div style="clear:both"></div>
+<table class="navbox hlist collapsible">
+<tr>
+<th class="navbox-top" colspan="2"><span class="navbox-title"><i><a href="/Minecraft" title="Minecraft">Minecraft</a></i> Java Edition versions</span></th>
+</tr>
+<tr>
+<th>Versions</th>
+<td>
+<ul>
+<li><a href="/Demo_mode" title="Demo mode">Demo</a>
+<ul>
+<li><a href="/Demo_mode/Locations" title="Demo mode/Locations">Locations</a></li>
+</ul>
+</li>
+<li><a href="/PC_Gamer_Demo" title="PC Gamer Demo">PC Gamer Demo</a> (Beta 1.3)</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th><span class="sprite" style="background-image:url(https://d1u5p3l4wpay3k.cloudfront.net/minecraft_gamepedia/5/54/EnvCSS.png?version=1526508227214);background-position:-112px -0px"><br /></span> Asset updates</th>
+<td>
+<ul>
+<li><a href="/Minecraft_launcher#Minecraft_Launcher" title="Minecraft launcher">Launcher updates</a></li>
+<li><a href="/Beta_Sound_Update" title="Beta Sound Update">Beta Sound Update</a></li>
+<li><a href="/2013_Music_Update" title="2013 Music Update">Music Update</a></li>
+<li><a href="/Texture_Update" title="Texture Update">Texture Update</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th><span class="sprite entity-sprite" style="background-image:url(https://d1u5p3l4wpay3k.cloudfront.net/minecraft_gamepedia/4/40/EntityCSS.png?version=1527065476884);background-position:-112px -144px"><br /></span> April Fools updates</th>
+<td>
+<ul>
+<li><span class="sprite block-sprite" style="background-image:url(https://d1u5p3l4wpay3k.cloudfront.net/minecraft_gamepedia/d/df/BlockCSS.png?version=1529452963092);background-position:-96px -272px"><br /></span><span class="sprite block-sprite" style="background-image:url(https://d1u5p3l4wpay3k.cloudfront.net/minecraft_gamepedia/d/df/BlockCSS.png?version=1529452963092);background-position:-192px -272px"><br /></span><span class="sprite block-sprite" style="background-image:url(https://d1u5p3l4wpay3k.cloudfront.net/minecraft_gamepedia/d/df/BlockCSS.png?version=1529452963092);background-position:-224px -272px"><br /></span> <a href="/2.0" title="2.0">2.0</a> <small>(2013)</small></li>
+<li><span class="sprite entity-sprite" style="background-image:url(https://d1u5p3l4wpay3k.cloudfront.net/minecraft_gamepedia/4/40/EntityCSS.png?version=1527065476884);background-position:-96px -144px"><br /></span> <a href="/15w14a" title="15w14a">15w14a</a> <small>(2015)</small></li>
+<li><span class="sprite block-sprite" style="background-image:url(https://d1u5p3l4wpay3k.cloudfront.net/minecraft_gamepedia/d/df/BlockCSS.png?version=1529452963092);background-position:-288px -288px"><br /></span> <a href="/1.RV-Pre1" title="1.RV-Pre1">1.RV-Pre1</a> <small>(2016)</small></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<div style="margin-right: -6px">
+<table style="border: 0" class="navbox hlist collapsible collapsed">
+<tr>
+<th class="navbox-top" style="background-color: #DDD" colspan="2"><span class="navbox-title"><a href="/Pre-classic" title="Pre-classic"><span class="nowrap"><span class="sprite block-sprite" style="background-image:url(https://d1u5p3l4wpay3k.cloudfront.net/minecraft_gamepedia/d/df/BlockCSS.png?version=1529452963092);background-position:-240px -320px"><br /></span><span class="sprite-text">Pre-classic</span></span></a></span></th>
+</tr>
+<tr>
+<td colspan="2" class="navbox-top" style="background-color: #EEE"><a href="/Java_Edition_version_history#Pre-classic" title="Java Edition version history"><span class="nowrap"><span class="sprite item-sprite" style="background-image:url(https://d1u5p3l4wpay3k.cloudfront.net/minecraft_gamepedia/f/f5/ItemCSS.png?version=1525857149266);background-position:-160px -48px"><br /></span><span class="sprite-text">Version history</span></span></a></td>
+</tr>
+<tr>
+<th><span class="sprite block-sprite" style="background-image:url(https://d1u5p3l4wpay3k.cloudfront.net/minecraft_gamepedia/d/df/BlockCSS.png?version=1529452963092);background-position:-176px -16px"><br /></span> <a href="/Category:Unreleased_builds" title="Category:Unreleased builds">Unreleased</a></th>
+<td>
+<ul>
+<li><i><a href="/Cave_game_tech_test" title="Cave game tech test">Cave game tech test</a></i></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th><span class="sprite block-sprite" style="background-image:url(https://d1u5p3l4wpay3k.cloudfront.net/minecraft_gamepedia/d/df/BlockCSS.png?version=1529452963092);background-position:-240px -336px"><br /></span> <i>Cave Game</i></th>
+<td>
+<ul>
+<li><a href="/Pre-classic_rd-132211" title="Pre-classic rd-132211">rd-132211</a></li>
+<li><a href="/Pre-classic_rd-132328" title="Pre-classic rd-132328">rd-132328</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th><span class="sprite block-sprite" style="background-image:url(https://d1u5p3l4wpay3k.cloudfront.net/minecraft_gamepedia/d/df/BlockCSS.png?version=1529452963092);background-position:-64px -0px"><br /></span> <i>Minecraft: Order of the Stone</i></th>
+<td>
+<ul>
+<li><a href="/Pre-classic_rd-20090515" title="Pre-classic rd-20090515">rd-20090515</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th><span class="sprite block-sprite" style="background-image:url(https://d1u5p3l4wpay3k.cloudfront.net/minecraft_gamepedia/d/df/BlockCSS.png?version=1529452963092);background-position:-16px -0px"><br /></span> <i>Minecraft</i></th>
+<td>
+<ul>
+<li><a href="/Pre-classic_rd-160052" title="Pre-classic rd-160052">rd-160052</a></li>
+<li><a href="/Pre-classic_rd-161348" title="Pre-classic rd-161348">rd-161348</a></li>
+</ul>
+</td>
+</tr>
+</table>
+</div>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<div style="margin-right: -6px">
+<table style="border: 0" class="navbox hlist collapsible collapsed">
+<tr>
+<th class="navbox-top" style="background-color: #DDD" colspan="2"><span class="navbox-title"><a href="/Classic" title="Classic"><span class="nowrap"><span class="sprite block-sprite" style="background-image:url(https://d1u5p3l4wpay3k.cloudfront.net/minecraft_gamepedia/d/df/BlockCSS.png?version=1529452963092);background-position:-320px -192px"><br /></span><span class="sprite-text">Classic</span></span></a></span></th>
+</tr>
+<tr>
+<td colspan="2" class="navbox-top" style="background-color: #EEE"><a href="/Java_Edition_version_history#Classic" title="Java Edition version history"><span class="nowrap"><span class="sprite item-sprite" style="background-image:url(https://d1u5p3l4wpay3k.cloudfront.net/minecraft_gamepedia/f/f5/ItemCSS.png?version=1525857149266);background-position:-176px -48px"><br /></span><span class="sprite-text">Version history</span></span></a></td>
+</tr>
+<tr>
+<th><span class="sprite block-sprite" style="background-image:url(https://d1u5p3l4wpay3k.cloudfront.net/minecraft_gamepedia/d/df/BlockCSS.png?version=1529452963092);background-position:-240px -320px"><br /></span> <a href="/Early_Classic_Creative" title="Early Classic Creative">Early Classic Creative</a></th>
+<td>
+<ul>
+<li><a href="/Classic_0.0.9a" title="Classic 0.0.9a">0.0.9a</a></li>
+<li><a href="/Classic_0.0.11a" title="Classic 0.0.11a">0.0.11a</a></li>
+<li><a href="/Classic_0.0.12a" title="Classic 0.0.12a">0.0.12a</a>
+<ul>
+<li><a href="/Classic_0.0.12a_01" title="Classic 0.0.12a 01">_01</a></li>
+<li><a href="/Classic_0.0.12a_02" title="Classic 0.0.12a 02">02</a></li>
+<li><a href="/Classic_0.0.12a_03" title="Classic 0.0.12a 03">03</a></li>
+</ul>
+</li>
+<li><a href="/Classic_0.0.13a" title="Classic 0.0.13a">0.0.13a</a>
+<ul>
+<li><a href="/Classic_0.0.13a_03" title="Classic 0.0.13a 03">_03</a></li>
+</ul>
+</li>
+<li><a href="/Classic_0.0.14a" title="Classic 0.0.14a">0.0.14a</a>
+<ul>
+<li><a href="/Classic_0.0.14a_03" title="Classic 0.0.14a 03">_03</a></li>
+<li><a href="/Classic_0.0.14a_04" title="Classic 0.0.14a 04">04</a></li>
+<li><a href="/Classic_0.0.14a_07" title="Classic 0.0.14a 07">07</a></li>
+<li><a href="/Classic_0.0.14a_08" title="Classic 0.0.14a 08">08</a></li>
+</ul>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th><span class="sprite entity-sprite" style="background-image:url(https://d1u5p3l4wpay3k.cloudfront.net/minecraft_gamepedia/4/40/EntityCSS.png?version=1527065476884);background-position:-112px -0px"><br /></span> <a href="/Multiplayer_Test" title="Multiplayer Test">Multiplayer Test</a></th>
+<td>
+<ul>
+<li>0.0.15a Multiplayer Test
+<ul>
+<li><a href="/Classic_0.0.15a_(Multiplayer_Test_1)" title="Classic 0.0.15a (Multiplayer Test 1)">1</a></li>
+<li><a href="/Classic_0.0.15a_(Multiplayer_Test_2)" title="Classic 0.0.15a (Multiplayer Test 2)">2</a></li>
+<li><a href="/Classic_0.0.15a_(Multiplayer_Test_3)" title="Classic 0.0.15a (Multiplayer Test 3)">3</a></li>
+</ul>
+</li>
+<li><a href="/Classic_0.0.16a" title="Classic 0.0.16a">0.0.16a</a>
+<ul>
+<li><a href="/Classic_0.0.16a_01" title="Classic 0.0.16a 01">_01</a></li>
+<li><a href="/Classic_0.0.16a_02" title="Classic 0.0.16a 02">02</a></li>
+</ul>
+</li>
+<li><a href="/Classic_0.0.17a" title="Classic 0.0.17a">0.0.17a</a></li>
+<li><a href="/Classic_0.0.18a" title="Classic 0.0.18a">0.0.18a</a>
+<ul>
+<li><a href="/Classic_0.0.18a_01" title="Classic 0.0.18a 01">_01</a></li>
+<li><a href="/Classic_0.0.18a_02" title="Classic 0.0.18a 02">02</a></li>
+</ul>
+</li>
+<li><a href="/Classic_0.0.19a" title="Classic 0.0.19a">0.0.19a</a>
+<ul>
+<li><a href="/Classic_0.0.19a_06" title="Classic 0.0.19a 06">_06</a></li>
+</ul>
+</li>
+<li><a href="/Classic_0.0.20a" title="Classic 0.0.20a">0.0.20a</a>
+<ul>
+<li><a href="/Classic_0.0.20a_01" title="Classic 0.0.20a 01">_01</a></li>
+<li><a href="/Classic_0.0.20a_02" title="Classic 0.0.20a 02">02</a></li>
+</ul>
+</li>
+<li><a href="/Classic_0.0.21a" title="Classic 0.0.21a">0.0.21a</a>
+<ul>
+<li><a href="/Classic_0.0.21a_01" title="Classic 0.0.21a 01">_01</a></li>
+</ul>
+</li>
+<li><a href="/Classic_0.0.22a_03" title="Classic 0.0.22a 03">0.0.22a_03</a>
+<ul>
+<li><a href="/Classic_0.0.22a_04" title="Classic 0.0.22a 04">_04</a></li>
+<li><a href="/Classic_0.0.22a_05" title="Classic 0.0.22a 05">05</a></li>
+</ul>
+</li>
+<li><a href="/Classic_0.0.23a" title="Classic 0.0.23a">0.0.23a</a>
+<ul>
+<li><a href="/Classic_0.0.23a_01" title="Classic 0.0.23a 01">_01</a></li>
+</ul>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th><span class="nowrap"><span class="nowrap" title="2"><a href="/File:Heart.svg" class="image"><img alt="Heart.svg" src="https://d1u5p3l4wpay3k.cloudfront.net/minecraft_gamepedia/a/a7/Heart.svg?version=6c00c6d27dc337ead7ee542fa592ec19" width="16" height="16" /></a></span></span> <a href="/Survival_Test" title="Survival Test">Survival Test</a></th>
+<td>
+<ul>
+<li><a href="/Classic_0.24_SURVIVAL_TEST" title="Classic 0.24 SURVIVAL TEST">0.24_SURVIVAL_TEST</a>
+<ul>
+<li><a href="/Classic_0.24_SURVIVAL_TEST_01" title="Classic 0.24 SURVIVAL TEST 01">_01</a></li>
+<li><a href="/Classic_0.24_SURVIVAL_TEST_02" title="Classic 0.24 SURVIVAL TEST 02">02</a></li>
+<li><a href="/Classic_0.24_SURVIVAL_TEST_03" title="Classic 0.24 SURVIVAL TEST 03">03</a></li>
+</ul>
+</li>
+<li><a href="/Classic_0.25_SURVIVAL_TEST" title="Classic 0.25 SURVIVAL TEST">0.25 SURVIVAL TEST</a>
+<ul>
+<li><a href="/Classic_0.25_05_SURVIVAL_TEST" title="Classic 0.25 05 SURVIVAL TEST">_05</a></li>
+</ul>
+</li>
+<li><a href="/Classic_0.26_SURVIVAL_TEST" title="Classic 0.26 SURVIVAL TEST">0.26 SURVIVAL TEST</a></li>
+<li><a href="/Classic_0.27_SURVIVAL_TEST" title="Classic 0.27 SURVIVAL TEST">0.27 SURVIVAL TEST</a></li>
+<li><a href="/Classic_0.30_(Survival)" title="Classic 0.30 (Survival)">0.30</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th><span class="sprite" style="background-image:url(https://d1u5p3l4wpay3k.cloudfront.net/minecraft_gamepedia/5/54/EnvCSS.png?version=1526508227214);background-position:-176px -0px"><br /></span> <a href="/Late_Classic_Creative" title="Late Classic Creative">Late Classic Creative</a></th>
+<td>
+<ul>
+<li><a href="/Classic_0.28" title="Classic 0.28">0.28</a>
+<ul>
+<li><a href="/Classic_0.28_01" title="Classic 0.28 01">_01</a></li>
+</ul>
+</li>
+<li><a href="/Classic_0.29" title="Classic 0.29">0.29</a>
+<ul>
+<li><a href="/Classic_0.29_01" title="Classic 0.29 01">_01</a></li>
+<li><a href="/Classic_0.29_02" title="Classic 0.29 02">02</a></li>
+</ul>
+</li>
+<li><a href="/Classic_0.30_(Creative)" title="Classic 0.30 (Creative)">0.30</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th><span class="sprite block-sprite" style="background-image:url(https://d1u5p3l4wpay3k.cloudfront.net/minecraft_gamepedia/d/df/BlockCSS.png?version=1529452963092);background-position:-176px -16px"><br /></span> <a href="/Category:Unreleased_builds" title="Category:Unreleased builds">Unreleased builds</a></th>
+<td>
+<ul>
+<li><a href="/Classic_0.0.14a#Offset_test" title="Classic 0.0.14a">0.0.14a offset test</a></li>
+<li><a href="/Classic_0.0.14a_08#Sound_test" title="Classic 0.0.14a 08">0.0.14a_08 sound test</a></li>
+<li><a href="/Classic_0.24" title="Classic 0.24">0.24</a></li>
+<li><a href="/Classic_0.25" title="Classic 0.25">0.25</a></li>
+<li><a href="/Classic_0.26" title="Classic 0.26">0.26</a></li>
+<li><a href="/Classic_0.27" title="Classic 0.27">0.27</a></li>
+<li><a href="/Classic_0.30" title="Classic 0.30">0.30</a></li>
+</ul>
+</td>
+</tr>
+</table>
+</div>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<div style="margin-right: -6px">
+<table style="border: 0" class="navbox hlist collapsible collapsed">
+<tr>
+<th class="navbox-top" style="background-color: #DDD" colspan="2"><span class="navbox-title"><a href="/Indev" title="Indev"><span class="nowrap"><span class="sprite block-sprite" style="background-image:url(https://d1u5p3l4wpay3k.cloudfront.net/minecraft_gamepedia/d/df/BlockCSS.png?version=1529452963092);background-position:-240px -352px"><br /></span><span class="sprite-text">Indev</span></span></a></span></th>
+</tr>
+<tr>
+<td colspan="2" class="navbox-top" style="background-color: #EEE"><a href="/Java_Edition_version_history#Indev" title="Java Edition version history"><span class="nowrap"><span class="sprite item-sprite" style="background-image:url(https://d1u5p3l4wpay3k.cloudfront.net/minecraft_gamepedia/f/f5/ItemCSS.png?version=1525857149266);background-position:-176px -48px"><br /></span><span class="sprite-text">Version history</span></span></a></td>
+</tr>
+<tr>
+<th><span class="sprite block-sprite" style="background-image:url(https://d1u5p3l4wpay3k.cloudfront.net/minecraft_gamepedia/d/df/BlockCSS.png?version=1529452963092);background-position:-64px -32px"><br /></span> <a href="/0.31" class="mw-redirect" title="0.31">0.31</a></th>
+<td>
+<table>
+<tr>
+<th><span class="sprite entity-sprite" style="background-image:url(https://d1u5p3l4wpay3k.cloudfront.net/minecraft_gamepedia/4/40/EntityCSS.png?version=1527065476884);background-position:-48px -32px"><br /></span> December 2009</th>
+<td>
+<ul>
+<li>23
+<ul>
+<li><a href="/Indev_0.31_(December_23,_2009,_1)" title="Indev 0.31 (December 23, 2009, 1)">1</a></li>
+<li><a href="/Indev_0.31_(December_23,_2009,_2)" title="Indev 0.31 (December 23, 2009, 2)">2</a></li>
+</ul>
+</li>
+<li>31
+<ul>
+<li><a href="/Indev_0.31_(December_31,_2009,_1)" title="Indev 0.31 (December 31, 2009, 1)">1</a></li>
+<li><a href="/Indev_0.31_(December_31,_2009,_2)" title="Indev 0.31 (December 31, 2009, 2)">2</a></li>
+</ul>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th><span class="sprite item-sprite" style="background-image:url(https://d1u5p3l4wpay3k.cloudfront.net/minecraft_gamepedia/f/f5/ItemCSS.png?version=1525857149266);background-position:-160px -0px"><br /></span> January 2010</th>
+<td>
+<ul>
+<li><a href="/Indev_0.31_(January_5,_2010)" title="Indev 0.31 (January 5, 2010)">5</a></li>
+<li><a href="/Indev_0.31_(January_6,_2010)" title="Indev 0.31 (January 6, 2010)">6</a></li>
+<li><a href="/Indev_0.31_(January_7,_2010)" title="Indev 0.31 (January 7, 2010)">7</a></li>
+<li><a href="/Indev_0.31_(January_9,_2010)" title="Indev 0.31 (January 9, 2010)">9</a></li>
+<li>11
+<ul>
+<li><a href="/Indev_0.31_(January_11,_2010,_1)" title="Indev 0.31 (January 11, 2010, 1)">1</a></li>
+<li><a href="/Indev_0.31_(January_11,_2010,_2)" title="Indev 0.31 (January 11, 2010, 2)">2</a></li>
+</ul>
+</li>
+<li><a href="/Indev_0.31_(January_13,_2010)" title="Indev 0.31 (January 13, 2010)">13</a></li>
+<li><a href="/Indev_0.31_(January_22,_2010)" title="Indev 0.31 (January 22, 2010)">22</a></li>
+<li><a href="/Indev_0.31_(January_24,_2010)" title="Indev 0.31 (January 24, 2010)">24</a></li>
+<li>25
+<ul>
+<li><a href="/Indev_0.31_(January_25,_2010,_1)" title="Indev 0.31 (January 25, 2010, 1)">1</a></li>
+<li><a href="/Indev_0.31_(January_25,_2010,_2)" title="Indev 0.31 (January 25, 2010, 2)">2</a></li>
+</ul>
+</li>
+<li><a href="/Indev_0.31_(January_28,_2010)" title="Indev 0.31 (January 28, 2010)">28</a></li>
+<li><a href="/Indev_0.31_(January_29,_2010)" title="Indev 0.31 (January 29, 2010)">29</a></li>
+<li><a href="/Indev_0.31_(January_30,_2010)" title="Indev 0.31 (January 30, 2010)">30</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th><span class="sprite item-sprite" style="background-image:url(https://d1u5p3l4wpay3k.cloudfront.net/minecraft_gamepedia/f/f5/ItemCSS.png?version=1525857149266);background-position:-80px -0px"><br /></span> February 2010</th>
+<td>
+<ul>
+<li>1
+<ul>
+<li><a href="/Indev_0.31_(February_1,_2010,_1)" title="Indev 0.31 (February 1, 2010, 1)">1</a></li>
+<li><a href="/Indev_0.31_(February_1,_2010,_2)" title="Indev 0.31 (February 1, 2010, 2)">2</a></li>
+</ul>
+</li>
+<li><a href="/Indev_0.31_(February_2,_2010)" title="Indev 0.31 (February 2, 2010)">2</a></li>
+<li>4
+<ul>
+<li><a href="/Indev_0.31_(February_4,_2010,_1)" title="Indev 0.31 (February 4, 2010, 1)">1</a></li>
+<li><a href="/Indev_0.31_(February_4,_2010,_2)" title="Indev 0.31 (February 4, 2010, 2)">2</a></li>
+</ul>
+</li>
+<li><a href="/Indev_0.31_(February_5,_2010)" title="Indev 0.31 (February 5, 2010)">5</a></li>
+</ul>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th><span class="sprite block-sprite" style="background-image:url(https://d1u5p3l4wpay3k.cloudfront.net/minecraft_gamepedia/d/df/BlockCSS.png?version=1529452963092);background-position:-64px -0px"><br /></span> <a href="/Minecraft_Indev" title="Minecraft Indev">Minecraft Indev</a></th>
+<td>
+<table>
+<tr>
+<th><span class="sprite item-sprite" style="background-image:url(https://d1u5p3l4wpay3k.cloudfront.net/minecraft_gamepedia/f/f5/ItemCSS.png?version=1525857149266);background-position:-32px -128px"><br /></span> February 2010</th>
+<td>
+<ul>
+<li><a href="/Indev_(February_6,_2010)" title="Indev (February 6, 2010)">6</a></li>
+<li>7
+<ul>
+<li><a href="/Indev_(February_7,_2010,_1)" title="Indev (February 7, 2010, 1)">1</a></li>
+<li><a href="/Indev_(February_7,_2010,_2)" title="Indev (February 7, 2010, 2)">2</a></li>
+</ul>
+</li>
+<li>12
+<ul>
+<li><a href="/Indev_(February_12,_2010,_1)" title="Indev (February 12, 2010, 1)">1</a></li>
+<li><a href="/Indev_(February_12,_2010,_2)" title="Indev (February 12, 2010, 2)">2</a></li>
+</ul>
+</li>
+<li>14
+<ul>
+<li><a href="/Indev_(February_14,_2010,_1)" title="Indev (February 14, 2010, 1)">1</a></li>
+<li><a href="/Indev_(February_14,_2010,_2)" title="Indev (February 14, 2010, 2)">2</a></li>
+</ul>
+</li>
+<li><a href="/Indev_(February_18,_2010)" title="Indev (February 18, 2010)">18</a></li>
+<li><a href="/Indev_(February_19,_2010)" title="Indev (February 19, 2010)">19</a></li>
+<li><a href="/Indev_(February_23,_2010)" title="Indev (February 23, 2010)">23</a></li>
+</ul>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<div style="margin-right: -6px">
+<table style="border: 0" class="navbox hlist collapsible collapsed">
+<tr>
+<th class="navbox-top" style="background-color: #DDD" colspan="2"><span class="navbox-title"><a href="/Infdev" title="Infdev"><img alt="Olddoorsprite.png" src="https://d1u5p3l4wpay3k.cloudfront.net/minecraft_gamepedia/thumb/3/3b/Olddoorsprite.png/16px-Olddoorsprite.png?version=e92f72d3726a19885d5b2af08fc31d7c" width="16" height="16" style="vertical-align: text-bottom" srcset="https://d1u5p3l4wpay3k.cloudfront.net/minecraft_gamepedia/thumb/3/3b/Olddoorsprite.png/24px-Olddoorsprite.png?version=e92f72d3726a19885d5b2af08fc31d7c 1.5x, https://d1u5p3l4wpay3k.cloudfront.net/minecraft_gamepedia/thumb/3/3b/Olddoorsprite.png/32px-Olddoorsprite.png?version=e92f72d3726a19885d5b2af08fc31d7c 2x" /></a> <a href="/Infdev" title="Infdev">Infdev</a></span></th>
+</tr>
+<tr>
+<td colspan="2" class="navbox-top" style="background-color: #EEE"><a href="/Java_Edition_version_history#Infdev" title="Java Edition version history"><span class="nowrap"><span class="sprite item-sprite" style="background-image:url(https://d1u5p3l4wpay3k.cloudfront.net/minecraft_gamepedia/f/f5/ItemCSS.png?version=1525857149266);background-position:-176px -48px"><br /></span><span class="sprite-text">Version history</span></span></a></td>
+</tr>
+<tr>
+<th><span class="sprite block-sprite" style="background-image:url(https://d1u5p3l4wpay3k.cloudfront.net/minecraft_gamepedia/d/df/BlockCSS.png?version=1529452963092);background-position:-320px -192px"><br /></span> <a href="/Minecraft_Infdev" title="Minecraft Infdev">Minecraft Infdev</a></th>
+<td>
+<table>
+<tr>
+<th><span class="sprite" style="background-image:url(https://d1u5p3l4wpay3k.cloudfront.net/minecraft_gamepedia/5/54/EnvCSS.png?version=1526508227214);background-position:-112px -48px"><br /></span> February 2010</th>
+<td>
+<ul>
+<li><a href="/Infdev_(February_27,_2010)" title="Infdev (February 27, 2010)">27</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th><span class="sprite entity-sprite" style="background-image:url(https://d1u5p3l4wpay3k.cloudfront.net/minecraft_gamepedia/4/40/EntityCSS.png?version=1527065476884);background-position:-64px -48px"><br /></span> March 2010</th>
+<td>
+<ul>
+<li><a href="/Infdev_(March_13,_2010)" title="Infdev (March 13, 2010)">13</a></li>
+<li><a href="/Infdev_(March_16,_2010)" title="Infdev (March 16, 2010)">16</a></li>
+<li><a href="/Infdev_(March_20,_2010)" title="Infdev (March 20, 2010)">20</a></li>
+<li><a href="/Infdev_(March_21,_2010)" title="Infdev (March 21, 2010)">21</a></li>
+<li><a href="/Infdev_(March_25,_2010)" title="Infdev (March 25, 2010)">25</a></li>
+<li><a href="/Infdev_(March_27,_2010)" title="Infdev (March 27, 2010)">27</a></li>
+<li><a href="/Infdev_(March_30,_2010)" title="Infdev (March 30, 2010)">30</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th><span class="sprite block-sprite" style="background-image:url(https://d1u5p3l4wpay3k.cloudfront.net/minecraft_gamepedia/d/df/BlockCSS.png?version=1529452963092);background-position:-32px -16px"><br /></span> April 2010</th>
+<td>
+<ul>
+<li><a href="/Infdev_(April_13,_2010)" title="Infdev (April 13, 2010)">13</a></li>
+<li><a href="/Infdev_(April_14,_2010)" title="Infdev (April 14, 2010)">14</a></li>
+<li><a href="/Infdev_(April_15,_2010)" title="Infdev (April 15, 2010)">15</a></li>
+<li><a href="/Infdev_(April_20,_2010)" title="Infdev (April 20, 2010)">20</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th><span class="sprite block-sprite" style="background-image:url(https://d1u5p3l4wpay3k.cloudfront.net/minecraft_gamepedia/d/df/BlockCSS.png?version=1529452963092);background-position:-16px -64px"><br /></span> June 2010</th>
+<td>
+<ul>
+<li><a href="/Infdev_(June_7,_2010)" title="Infdev (June 7, 2010)">7</a></li>
+<li><a href="/Infdev_(June_8,_2010)" title="Infdev (June 8, 2010)">8</a></li>
+<li><a href="/Infdev_(June_11,_2010)" title="Infdev (June 11, 2010)">11</a></li>
+<li><a href="/Infdev_(June_15,_2010)" title="Infdev (June 15, 2010)">15</a></li>
+<li><a href="/Infdev_(June_16,_2010)" title="Infdev (June 16, 2010)">16</a></li>
+<li><a href="/Infdev_(June_17,_2010)" title="Infdev (June 17, 2010)">17</a></li>
+<li><a href="/Infdev_(June_18,_2010)" title="Infdev (June 18, 2010)">18</a> (<span class="explain" title="Seecret Friday Update 1">SF1</span>)</li>
+<li><a href="/Infdev_(June_24,_2010)" title="Infdev (June 24, 2010)">24</a></li>
+<li>25
+<ul>
+<li><a href="/Infdev_(June_25,_2010,_1)" title="Infdev (June 25, 2010, 1)">1</a></li>
+<li><a href="/Infdev_(June_25,_2010,_2)" title="Infdev (June 25, 2010, 2)">2</a> (<span class="explain" title="Seecret Friday Update 2">SF2</span>)</li>
+</ul>
+</li>
+<li><a href="/Infdev_(June_27,_2010)" title="Infdev (June 27, 2010)">27</a></li>
+<li><a href="/Infdev_(June_29,_2010)" title="Infdev (June 29, 2010)">29</a></li>
+<li><a href="/Infdev_(June_30,_2010)" title="Infdev (June 30, 2010)">30</a></li>
+</ul>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<div style="margin-right: -6px">
+<table style="border: 0" class="navbox hlist collapsible collapsed">
+<tr>
+<th class="navbox-top" style="background-color: #DDD" colspan="2"><span class="navbox-title"><a href="/Alpha" title="Alpha"><span class="nowrap"><span class="sprite" style="background-image:url(https://d1u5p3l4wpay3k.cloudfront.net/minecraft_gamepedia/5/54/EnvCSS.png?version=1526508227214);background-position:-240px -32px"><br /></span><span class="sprite-text">Alpha</span></span></a></span></th>
+</tr>
+<tr>
+<td colspan="2" class="navbox-top" style="background-color: #EEE"><a href="/Java_Edition_version_history#Alpha" title="Java Edition version history"><span class="nowrap"><span class="sprite item-sprite" style="background-image:url(https://d1u5p3l4wpay3k.cloudfront.net/minecraft_gamepedia/f/f5/ItemCSS.png?version=1525857149266);background-position:-176px -48px"><br /></span><span class="sprite-text">Version history</span></span></a></td>
+</tr>
+<tr>
+<th><span class="sprite item-sprite" style="background-image:url(https://d1u5p3l4wpay3k.cloudfront.net/minecraft_gamepedia/f/f5/ItemCSS.png?version=1525857149266);background-position:-128px -48px"><br /></span> <a href="/Alpha_v1.0" title="Alpha v1.0">v1.0</a></th>
+<td>
+<ul>
+<li><b><a href="/Alpha_v1.0.0" title="Alpha v1.0.0">v1.0.0</a></b></li>
+<li><a href="/Alpha_v1.0.1" title="Alpha v1.0.1">v1.0.1</a> (<span class="explain" title="Seecret Friday Update 3">SF3</span>)
+<ul>
+<li><a href="/Alpha_v1.0.1_01" title="Alpha v1.0.1 01">_01</a></li>
+</ul>
+</li>
+<li><a href="/Alpha_v1.0.2" title="Alpha v1.0.2">v1.0.2</a>
+<ul>
+<li><a href="/Alpha_v1.0.2_01" title="Alpha v1.0.2 01">_01</a></li>
+<li><a href="/Alpha_v1.0.2_02" title="Alpha v1.0.2 02">02</a></li>
+</ul>
+</li>
+<li><a href="/Alpha_v1.0.3" title="Alpha v1.0.3">v1.0.3</a></li>
+<li><a href="/Alpha_v1.0.4" title="Alpha v1.0.4">v1.0.4</a> (<span class="explain" title="Seecret Friday Update 4">SF4</span>)</li>
+<li><a href="/Alpha_v1.0.5" title="Alpha v1.0.5">v1.0.5</a>
+<ul>
+<li><a href="/Alpha_v1.0.5_01" title="Alpha v1.0.5 01">_01</a></li>
+</ul>
+</li>
+<li><a href="/Alpha_v1.0.6" title="Alpha v1.0.6">v1.0.6</a> (<span class="explain" title="Seecret Friday Update 5">SF5</span>)
+<ul>
+<li><a href="/Alpha_v1.0.6_01" title="Alpha v1.0.6 01">_01</a></li>
+<li><a href="/Alpha_v1.0.6_02" title="Alpha v1.0.6 02">02</a></li>
+<li><a href="/Alpha_v1.0.6_03" title="Alpha v1.0.6 03">03</a></li>
+</ul>
+</li>
+<li><a href="/Alpha_v1.0.7" title="Alpha v1.0.7">v1.0.7</a></li>
+<li><a href="/Alpha_v1.0.8" title="Alpha v1.0.8">v1.0.8</a>
+<ul>
+<li><a href="/Alpha_v1.0.8_01" title="Alpha v1.0.8 01">_01</a></li>
+</ul>
+</li>
+<li><a href="/Alpha_v1.0.9" title="Alpha v1.0.9">v1.0.9</a></li>
+<li><a href="/Alpha_v1.0.10" title="Alpha v1.0.10">v1.0.10</a></li>
+<li><a href="/Alpha_v1.0.11" title="Alpha v1.0.11">v1.0.11</a> (<span class="explain" title="Seecret Friday Update 6">SF6</span>)</li>
+<li><a href="/Alpha_v1.0.12" title="Alpha v1.0.12">v1.0.12</a></li>
+<li><a href="/Alpha_v1.0.13" title="Alpha v1.0.13">v1.0.13</a>
+<ul>
+<li><a href="/Alpha_v1.0.13_01" title="Alpha v1.0.13 01">_01</a><a href="/Alpha_v1.0.13_01#1K_IN_24H_edition" title="Alpha v1.0.13 01">*</a></li>
+</ul>
+</li>
+<li><a href="/Alpha_v1.0.14" title="Alpha v1.0.14">v1.0.14</a><a href="/Alpha_v1.0.14#Reupload" title="Alpha v1.0.14">*</a> (<span class="explain" title="Seecret Friday Update 7">SF7</span>)</li>
+<li><a href="/Alpha_v1.0.15" title="Alpha v1.0.15">v1.0.15</a></li>
+<li><a href="/Alpha_v1.0.16" title="Alpha v1.0.16">v1.0.16</a>
+<ul>
+<li><a href="/Alpha_v1.0.16_01" title="Alpha v1.0.16 01">_01</a></li>
+<li><a href="/Alpha_v1.0.16_02" title="Alpha v1.0.16 02">02</a></li>
+</ul>
+</li>
+<li><a href="/Alpha_v1.0.17" title="Alpha v1.0.17">v1.0.17</a> (<span class="explain" title="Seecret Friday Update 8">SF8</span>)
+<ul>
+<li><a href="/Alpha_v1.0.17_01" title="Alpha v1.0.17 01">_01</a></li>
+<li><a href="/Alpha_v1.0.17_02" title="Alpha v1.0.17 02">02</a></li>
+<li><a href="/Alpha_v1.0.17_03" title="Alpha v1.0.17 03">03</a></li>
+<li><a href="/Alpha_v1.0.17_04" title="Alpha v1.0.17 04">04</a></li>
+</ul>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th><span class="sprite item-sprite" style="background-image:url(https://d1u5p3l4wpay3k.cloudfront.net/minecraft_gamepedia/f/f5/ItemCSS.png?version=1525857149266);background-position:-96px -48px"><br /></span> <a href="/Alpha_v1.1" title="Alpha v1.1">v1.1</a></th>
+<td>
+<ul>
+<li><b><a href="/Alpha_v1.1.0" title="Alpha v1.1.0">v1.1.0</a><a href="/Alpha_v1.1.0#Reupload" title="Alpha v1.1.0">*</a></b> (<span class="explain" title="Seecret Friday Update 9">SF9</span>)</li>
+<li><a href="/Alpha_v1.1.1" title="Alpha v1.1.1">v1.1.1</a> (<span class="explain" title="Seecret Saturday Update 1">SS1</span>)</li>
+<li><a href="/Alpha_v1.1.2" title="Alpha v1.1.2">v1.1.2</a>
+<ul>
+<li><a href="/Alpha_v1.1.2_01" title="Alpha v1.1.2 01">_01</a></li>
+</ul>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th><span class="sprite block-sprite" style="background-image:url(https://d1u5p3l4wpay3k.cloudfront.net/minecraft_gamepedia/d/df/BlockCSS.png?version=1529452963092);background-position:-128px -112px"><br /></span> <a href="/Alpha_v1.2" title="Alpha v1.2">v1.2</a><br />
+<small><a href="/Halloween_Update" title="Halloween Update">Halloween Update</a></small></th>
+<td>
+<ul>
+<li><b><a href="/Alpha_v1.2.0" title="Alpha v1.2.0">v1.2.0</a></b>
+<ul>
+<li><a href="/Alpha_v1.2.0-preview" title="Alpha v1.2.0-preview">preview</a></li>
+<li><a href="/Alpha_v1.2.0_01" title="Alpha v1.2.0 01">_01</a></li>
+<li><a href="/Alpha_v1.2.0_02" title="Alpha v1.2.0 02">02</a></li>
+</ul>
+</li>
+<li><a href="/Alpha_v1.2.1" title="Alpha v1.2.1">v1.2.1</a>
+<ul>
+<li><a href="/Alpha_v1.2.1_01" title="Alpha v1.2.1 01">_01</a></li>
+</ul>
+</li>
+<li><a href="/Alpha_v1.2.2" title="Alpha v1.2.2">v1.2.2</a></li>
+<li><a href="/Alpha_v1.2.3" title="Alpha v1.2.3">v1.2.3</a>
+<ul>
+<li><a href="/Alpha_v1.2.3_01" title="Alpha v1.2.3 01">_01</a></li>
+<li><a href="/Alpha_v1.2.3_02" title="Alpha v1.2.3 02">02</a></li>
+<li><a href="/Alpha_v1.2.3_04" title="Alpha v1.2.3 04">04</a></li>
+</ul>
+</li>
+<li><a href="/Alpha_v1.2.4" title="Alpha v1.2.4">v1.2.4</a>
+<ul>
+<li><a href="/Alpha_v1.2.4_01" title="Alpha v1.2.4 01">_01</a></li>
+</ul>
+</li>
+<li><a href="/Alpha_v1.2.5" title="Alpha v1.2.5">v1.2.5</a></li>
+<li><a href="/Alpha_v1.2.6" title="Alpha v1.2.6">v1.2.6</a></li>
+</ul>
+</td>
+</tr>
+</table>
+</div>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<div style="margin-right: -6px">
+<table style="border: 0" class="navbox hlist collapsible collapsed">
+<tr>
+<th class="navbox-top" style="background-color: #DDD" colspan="2"><span class="navbox-title"><span class="nowrap" title="1"><a href="/File:Hunger.svg" class="image"><img alt="Hunger.svg" src="https://d1u5p3l4wpay3k.cloudfront.net/minecraft_gamepedia/6/65/Hunger.svg?version=d9ca843b172329307d3d7af5c8c70019" width="16" height="16" /></a></span> <a href="/Beta" title="Beta">Beta</a></span></th>
+</tr>
+<tr>
+<td colspan="2" class="navbox-top" style="background-color: #EEE">
+<ul>
+<li><a href="/Java_Edition_version_history#Beta" title="Java Edition version history"><span class="nowrap"><span class="sprite item-sprite" style="background-image:url(https://d1u5p3l4wpay3k.cloudfront.net/minecraft_gamepedia/f/f5/ItemCSS.png?version=1525857149266);background-position:-176px -48px"><br /></span><span class="sprite-text">Version history</span></span></a></li>
+<li><a href="/Java_Edition_version_history/Development_versions#Beta_1.8" title="Java Edition version history/Development versions"><span class="nowrap"><span class="sprite block-sprite" style="background-image:url(https://d1u5p3l4wpay3k.cloudfront.net/minecraft_gamepedia/d/df/BlockCSS.png?version=1529452963092);background-position:-192px -48px"><br /></span><span class="sprite-text">Development versions</span></span></a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th><span class="sprite item-sprite" style="background-image:url(https://d1u5p3l4wpay3k.cloudfront.net/minecraft_gamepedia/f/f5/ItemCSS.png?version=1525857149266);background-position:-192px -0px"><br /></span> 1.0</th>
+<td>
+<ul>
+<li><b><a href="/Beta_1.0" title="Beta 1.0">1.0</a></b></li>
+<li><a href="/Beta_1.0_01" title="Beta 1.0 01">1.0_01</a></li>
+<li><a href="/Beta_1.0.2" title="Beta 1.0.2">1.0.2</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th><span class="sprite block-sprite" style="background-image:url(https://d1u5p3l4wpay3k.cloudfront.net/minecraft_gamepedia/d/df/BlockCSS.png?version=1529452963092);background-position:-64px -48px"><br /></span> 1.1</th>
+<td>
+<ul>
+<li><b><a href="/Beta_1.1" title="Beta 1.1">1.1</a></b><a href="/Beta_1.1#Reupload" title="Beta 1.1">*</a></li>
+<li><a href="/Beta_1.1_01" title="Beta 1.1 01">1.1_01</a></li>
+<li><a href="/Beta_1.1_02" title="Beta 1.1 02">1.1_02</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th><span class="sprite item-sprite" style="background-image:url(https://d1u5p3l4wpay3k.cloudfront.net/minecraft_gamepedia/f/f5/ItemCSS.png?version=1525857149266);background-position:-208px -16px"><br /></span> 1.2</th>
+<td>
+<ul>
+<li><b><a href="/Beta_1.2" title="Beta 1.2">1.2</a></b></li>
+<li><a href="/Beta_1.2_01" title="Beta 1.2 01">1.2_01</a></li>
+<li><a href="/Beta_1.2_02" title="Beta 1.2 02">1.2_02</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th><span class="sprite item-sprite" style="background-image:url(https://d1u5p3l4wpay3k.cloudfront.net/minecraft_gamepedia/f/f5/ItemCSS.png?version=1525857149266);background-position:-208px -32px"><br /></span> 1.3</th>
+<td>
+<ul>
+<li><b><a href="/Beta_1.3" title="Beta 1.3">1.3</a></b></li>
+<li><a href="/Beta_1.3_01" title="Beta 1.3 01">1.3_01</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th><span class="sprite entity-sprite" style="background-image:url(https://d1u5p3l4wpay3k.cloudfront.net/minecraft_gamepedia/4/40/EntityCSS.png?version=1527065476884);background-position:-80px -16px"><br /></span> 1.4</th>
+<td>
+<ul>
+<li><b><a href="/Beta_1.4" title="Beta 1.4">1.4</a></b></li>
+<li><a href="/Beta_1.4_01" title="Beta 1.4 01">1.4_01</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th><span class="sprite entity-sprite" style="background-image:url(https://d1u5p3l4wpay3k.cloudfront.net/minecraft_gamepedia/4/40/EntityCSS.png?version=1527065476884);background-position:-144px -64px"><br /></span> 1.5</th>
+<td>
+<ul>
+<li><b><a href="/Beta_1.5" title="Beta 1.5">1.5</a></b></li>
+<li><a href="/Beta_1.5_01" title="Beta 1.5 01">1.5_01</a></li>
+<li><i><a href="/Beta_1.5_02" title="Beta 1.5 02">1.5_02</a></i></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th><span class="sprite item-sprite" style="background-image:url(https://d1u5p3l4wpay3k.cloudfront.net/minecraft_gamepedia/f/f5/ItemCSS.png?version=1525857149266);background-position:-192px -48px"><br /></span> 1.6</th>
+<td>
+<table>
+<tr>
+<th><b><a href="/Beta_1.6" title="Beta 1.6">1.6</a></b></th>
+<td>
+<ul>
+<li><a href="/Beta_1.6_Test_Build_3" title="Beta 1.6 Test Build 3">Test Build 3</a></li>
+</ul>
+</td>
+</tr>
+</table>
+<ul>
+<li><b><a href="/Beta_1.6.1" title="Beta 1.6.1">1.6.1</a></b></li>
+<li><b><a href="/Beta_1.6.2" title="Beta 1.6.2">1.6.2</a></b></li>
+<li><b><a href="/Beta_1.6.3" title="Beta 1.6.3">1.6.3</a></b></li>
+<li><b><a href="/Beta_1.6.4" title="Beta 1.6.4">1.6.4</a></b></li>
+<li><b><a href="/Beta_1.6.5" title="Beta 1.6.5">1.6.5</a></b></li>
+<li><b><a href="/Beta_1.6.6" title="Beta 1.6.6">1.6.6</a></b></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th><span class="sprite block-sprite" style="background-image:url(https://d1u5p3l4wpay3k.cloudfront.net/minecraft_gamepedia/d/df/BlockCSS.png?version=1529452963092);background-position:-192px -96px"><br /></span> 1.7</th>
+<td>
+<ul>
+<li><b><a href="/Beta_1.7" title="Beta 1.7">1.7</a></b></li>
+<li><a href="/Beta_1.7_01" title="Beta 1.7 01">1.7_01</a></li>
+<li><a href="/Beta_1.7.2" title="Beta 1.7.2">1.7.2</a></li>
+<li><a href="/Beta_1.7.3" title="Beta 1.7.3">1.7.3</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th><a href="/File:Hunger.svg" class="image"><img alt="Hunger.svg" src="https://d1u5p3l4wpay3k.cloudfront.net/minecraft_gamepedia/6/65/Hunger.svg?version=d9ca843b172329307d3d7af5c8c70019" width="16" height="16" /></a> 1.8<br />
+<small><a href="/Adventure_Update" title="Adventure Update">Adventure Update</a></small></th>
+<td>
+<table>
+<tr>
+<th><a href="/Beta_1.8" title="Beta 1.8">1.8</a></th>
+<td>
+<ul>
+<li><a href="/Beta_1.8_Pre-release" title="Beta 1.8 Pre-release">Pre-release</a><a href="/Beta_1.8_Pre-release#Reupload" title="Beta 1.8 Pre-release">*</a>
+<ul>
+<li><a href="/Beta_1.8_Pre-release_2_;)" title="Beta 1.8 Pre-release 2 ;)">2 ;)</a></li>
+</ul>
+</li>
+</ul>
+</td>
+</tr>
+</table>
+<ul>
+<li><b><a href="/Beta_1.8.1" title="Beta 1.8.1">1.8.1</a></b></li>
+</ul>
+</td>
+</tr>
+</table>
+</div>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<div style="margin-right: -6px">
+<table style="border: 0" class="navbox hlist collapsible">
+<tr>
+<th class="navbox-top" style="background-color: #DDD" colspan="2"><span class="navbox-title"><a href="/Full_Release" class="mw-redirect" title="Full Release"><span class="nowrap"><span class="sprite block-sprite" style="background-image:url(https://d1u5p3l4wpay3k.cloudfront.net/minecraft_gamepedia/d/df/BlockCSS.png?version=1529452963092);background-position:-48px -0px"><br /></span><span class="sprite-text"><i>Java Edition</i></span></span></a></span></th>
+</tr>
+<tr>
+<td colspan="2" class="navbox-top" style="background-color: #EEE">
+<ul>
+<li><a href="/Java_Edition_version_history#Release" title="Java Edition version history"><span class="nowrap"><span class="sprite item-sprite" style="background-image:url(https://d1u5p3l4wpay3k.cloudfront.net/minecraft_gamepedia/f/f5/ItemCSS.png?version=1525857149266);background-position:-176px -48px"><br /></span><span class="sprite-text">Version history</span></span></a></li>
+<li><a href="/Java_Edition_version_history/Development_versions" title="Java Edition version history/Development versions"><span class="nowrap"><span class="sprite block-sprite" style="background-image:url(https://d1u5p3l4wpay3k.cloudfront.net/minecraft_gamepedia/d/df/BlockCSS.png?version=1529452963092);background-position:-192px -48px"><br /></span><span class="sprite-text">Development versions</span></span></a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th><span class="sprite entity-sprite" style="background-image:url(https://d1u5p3l4wpay3k.cloudfront.net/minecraft_gamepedia/4/40/EntityCSS.png?version=1527065476884);background-position:-64px -32px"><br /></span> 1.0<br />
+<small><a href="/Adventure_Update" title="Adventure Update">Adventure Update</a></small></th>
+<td>
+<table>
+<tr>
+<th><a href="/1.0.0" title="1.0.0">1.0.0</a></th>
+<td>
+<ul>
+<li><a href="/Beta_1.9_Prerelease" title="Beta 1.9 Prerelease">Beta 1.9 Prerelease</a>
+<ul>
+<li><a href="/Beta_1.9_Prerelease_2" title="Beta 1.9 Prerelease 2">2</a></li>
+<li><a href="/Beta_1.9_Prerelease_3" title="Beta 1.9 Prerelease 3">3</a><a href="/Beta_1.9_Prerelease_3#Reupload" title="Beta 1.9 Prerelease 3">*</a></li>
+<li><a href="/Beta_1.9_Prerelease_4" title="Beta 1.9 Prerelease 4">4</a><a href="/Beta_1.9_Prerelease_4#Reupload" title="Beta 1.9 Prerelease 4">*</a></li>
+<li><a href="/Beta_1.9_Prerelease_5" title="Beta 1.9 Prerelease 5">5</a></li>
+<li><a href="/Beta_1.9_Prerelease_6" title="Beta 1.9 Prerelease 6">6</a></li>
+</ul>
+</li>
+<li><a href="/RC1" title="RC1">RC1</a></li>
+<li><a href="/RC2" title="RC2">RC2</a><a href="/RC2#Reupload" title="RC2">*</a></li>
+</ul>
+</td>
+</tr>
+</table>
+<ul>
+<li><i><a href="/1.0.1" title="1.0.1">1.0.1</a></i></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th><span class="sprite item-sprite" style="background-image:url(https://d1u5p3l4wpay3k.cloudfront.net/minecraft_gamepedia/f/f5/ItemCSS.png?version=1525857149266);background-position:-160px -224px"><br /></span> 1.1</th>
+<td>
+<table>
+<tr>
+<th><a href="/1.1" title="1.1">1.1</a></th>
+<td>
+<ul>
+<li><a href="/11w47a" title="11w47a">11w47a</a></li>
+<li><a href="/11w48a" title="11w48a">11w48a</a></li>
+<li><a href="/11w49a" title="11w49a">11w49a</a></li>
+<li><a href="/11w50a" title="11w50a">11w50a</a></li>
+<li><a href="/12w01a" title="12w01a">12w01a</a></li>
+</ul>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th><span class="sprite entity-sprite" style="background-image:url(https://d1u5p3l4wpay3k.cloudfront.net/minecraft_gamepedia/4/40/EntityCSS.png?version=1527065476884);background-position:-0px -48px"><br /></span> 1.2</th>
+<td>
+<table>
+<tr>
+<th><a href="/1.2.1" title="1.2.1">1.2.1</a></th>
+<td>
+<ul>
+<li><a href="/12w03a" title="12w03a">12w03a</a></li>
+<li><a href="/12w04a" title="12w04a">12w04a</a></li>
+<li><a href="/12w05a" title="12w05a">12w05a</a><a href="/12w05a#Reupload" title="12w05a">*</a></li>
+<li><a href="/12w05b" title="12w05b">12w05b</a></li>
+<li><a href="/12w06a" title="12w06a">12w06a</a></li>
+<li><a href="/12w07a" title="12w07a">12w07a</a></li>
+<li><a href="/12w07b" title="12w07b">12w07b</a></li>
+<li><a href="/12w08a" title="12w08a">12w08a</a></li>
+<li><a href="/1.2-pre" title="1.2-pre">1.2-pre</a></li>
+</ul>
+</td>
+</tr>
+</table>
+<ul>
+<li><b><a href="/1.2.2" title="1.2.2">1.2.2</a></b></li>
+<li><b><a href="/1.2.3" title="1.2.3">1.2.3</a></b></li>
+<li><b><a href="/1.2.4" title="1.2.4">1.2.4</a></b></li>
+</ul>
+<table>
+<tr>
+<th><a href="/1.2.5" title="1.2.5">1.2.5</a></th>
+<td>
+<ul>
+<li><a href="/1.2.5-pre" title="1.2.5-pre">1.2.5-pre</a></li>
+</ul>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th><span class="sprite item-sprite" style="background-image:url(https://d1u5p3l4wpay3k.cloudfront.net/minecraft_gamepedia/f/f5/ItemCSS.png?version=1525857149266);background-position:-160px -176px"><br /></span> 1.3</th>
+<td>
+<table>
+<tr>
+<th><a href="/1.3.1" title="1.3.1">1.3.1</a></th>
+<td>
+<ul>
+<li><a href="/12w15a" title="12w15a">12w15a</a></li>
+<li><a href="/12w16a" title="12w16a">12w16a</a></li>
+<li><a href="/12w17a" title="12w17a">12w17a</a></li>
+<li><a href="/12w18a" title="12w18a">12w18a</a></li>
+<li><a href="/12w19a" title="12w19a">12w19a</a></li>
+<li><a href="/12w21a" title="12w21a">12w21a</a></li>
+<li><a href="/12w21b" title="12w21b">12w21b</a><a href="/12w21b#Reupload" title="12w21b">*</a></li>
+<li><a href="/12w22a" title="12w22a">12w22a</a></li>
+<li><a href="/12w23a" title="12w23a">12w23a</a></li>
+<li><a href="/12w23b" title="12w23b">12w23b</a></li>
+<li><a href="/12w24a" title="12w24a">12w24a</a></li>
+<li><a href="/12w25a" title="12w25a">12w25a</a></li>
+<li><a href="/12w26a" title="12w26a">12w26a</a></li>
+<li><a href="/12w27a" title="12w27a">12w27a</a></li>
+<li><a href="/12w30a" title="12w30a">12w30a</a></li>
+<li><a href="/12w30b" title="12w30b">12w30b</a></li>
+<li><a href="/12w30c" title="12w30c">12w30c</a></li>
+<li><a href="/12w30d" title="12w30d">12w30d</a></li>
+<li><a href="/12w30e" title="12w30e">12w30e</a></li>
+<li><a href="/1.3-pre" title="1.3-pre">1.3-pre</a></li>
+<li><a href="/1.3.1-pre" title="1.3.1-pre">1.3.1-pre</a></li>
+</ul>
+</td>
+</tr>
+</table>
+<table>
+<tr>
+<th><a href="/1.3.2" title="1.3.2">1.3.2</a></th>
+<td>
+<ul>
+<li><a href="/1.3.2-pre" title="1.3.2-pre">1.3.2-pre</a></li>
+</ul>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th><span class="sprite entity-sprite" style="background-image:url(https://d1u5p3l4wpay3k.cloudfront.net/minecraft_gamepedia/4/40/EntityCSS.png?version=1527065476884);background-position:-0px -80px"><br /></span> 1.4<br />
+<small><a href="/Pretty_Scary_Update" title="Pretty Scary Update">Pretty Scary Update</a></small></th>
+<td>
+<table>
+<tr>
+<th><a href="/1.4.2" title="1.4.2">1.4.2</a></th>
+<td>
+<ul>
+<li><a href="/12w32a" title="12w32a">12w32a</a></li>
+<li><a href="/12w34a" title="12w34a">12w34a</a></li>
+<li><a href="/12w34b" title="12w34b">12w34b</a></li>
+<li><a href="/12w36a" title="12w36a">12w36a</a></li>
+<li><a href="/12w37a" title="12w37a">12w37a</a></li>
+<li><a href="/12w38a" title="12w38a">12w38a</a></li>
+<li><a href="/12w38b" title="12w38b">12w38b</a></li>
+<li><a href="/12w39a" title="12w39a">12w39a</a></li>
+<li><a href="/12w39b" title="12w39b">12w39b</a></li>
+<li><a href="/12w40a" title="12w40a">12w40a</a></li>
+<li><a href="/12w40b" title="12w40b">12w40b</a></li>
+<li><a href="/12w41a" title="12w41a">12w41a</a></li>
+<li><a href="/12w41b" title="12w41b">12w41b</a></li>
+<li><a href="/12w42a" title="12w42a">12w42a</a></li>
+<li><a href="/12w42b" title="12w42b">12w42b</a></li>
+<li><a href="/1.4-pre" title="1.4-pre">1.4-pre</a></li>
+<li><a href="/1.4.1-pre" title="1.4.1-pre">1.4.1-pre</a></li>
+<li><a href="/1.4.2-pre" title="1.4.2-pre">1.4.2-pre</a></li>
+</ul>
+</td>
+</tr>
+</table>
+<table>
+<tr>
+<th><a href="/1.4.4" title="1.4.4">1.4.4</a></th>
+<td>
+<ul>
+<li><a href="/1.4.3-pre" title="1.4.3-pre">1.4.3-pre</a></li>
+<li><a href="/1.4.4-pre" title="1.4.4-pre">1.4.4-pre</a></li>
+</ul>
+</td>
+</tr>
+</table>
+<table>
+<tr>
+<th><a href="/1.4.5" title="1.4.5">1.4.5</a></th>
+<td>
+<ul>
+<li><a href="/1.4.5-pre" title="1.4.5-pre">1.4.5-pre</a></li>
+</ul>
+</td>
+</tr>
+</table>
+<table>
+<tr>
+<th><a href="/1.4.6" title="1.4.6">1.4.6</a></th>
+<td>
+<ul>
+<li><a href="/12w49a" title="12w49a">12w49a</a></li>
+<li><a href="/12w50a" title="12w50a">12w50a</a></li>
+<li><a href="/12w50b" title="12w50b">12w50b</a></li>
+<li><a href="/1.4.6-pre" title="1.4.6-pre">1.4.6-pre</a></li>
+</ul>
+</td>
+</tr>
+</table>
+<table>
+<tr>
+<th><a href="/1.4.7" title="1.4.7">1.4.7</a></th>
+<td>
+<ul>
+<li><a href="/1.4.7-pre" title="1.4.7-pre">1.4.7-pre</a></li>
+</ul>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th><span class="sprite block-sprite" style="background-image:url(https://d1u5p3l4wpay3k.cloudfront.net/minecraft_gamepedia/d/df/BlockCSS.png?version=1529452963092);background-position:-160px -16px"><br /></span> 1.5<br />
+<small><a href="/Redstone_Update" title="Redstone Update">Redstone Update</a></small></th>
+<td>
+<table>
+<tr>
+<th><a href="/1.5" title="1.5">1.5</a></th>
+<td>
+<ul>
+<li><a href="/13w01a" title="13w01a">13w01a</a></li>
+<li><a href="/13w01b" title="13w01b">13w01b</a></li>
+<li><a href="/13w02a" title="13w02a">13w02a</a></li>
+<li><a href="/13w02b" title="13w02b">13w02b</a></li>
+<li><a href="/13w03a" title="13w03a">13w03a</a><a href="/13w03a#Reupload" title="13w03a">*</a></li>
+<li><a href="/13w04a" title="13w04a">13w04a</a></li>
+<li><a href="/13w05a" title="13w05a">13w05a</a></li>
+<li><a href="/13w05b" title="13w05b">13w05b</a></li>
+<li><a href="/13w06a" title="13w06a">13w06a</a><a href="/13w06a#Reupload" title="13w06a">*</a></li>
+<li><a href="/13w07a" title="13w07a">13w07a</a></li>
+<li><a href="/13w09a" title="13w09a">13w09a</a></li>
+<li><a href="/13w09b" title="13w09b">13w09b</a></li>
+<li><a href="/13w09c" title="13w09c">13w09c</a></li>
+<li><a href="/13w10a" title="13w10a">13w10a</a></li>
+<li><a href="/13w10b" title="13w10b">13w10b</a></li>
+<li><a href="/1.5-pre" title="1.5-pre">1.5-pre</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th><a href="/1.5.1" title="1.5.1">1.5.1</a></th>
+<td>
+<ul>
+<li><a href="/13w11a" title="13w11a">13w11a</a></li>
+<li><a href="/13w12~" title="13w12~">13w12~</a><a href="/13w12~" title="13w12~">*</a></li>
+<li><a href="/1.5.1-pre" title="1.5.1-pre">1.5.1-pre</a></li>
+</ul>
+</td>
+</tr>
+</table>
+<table>
+<tr>
+<th><a href="/1.5.2" title="1.5.2">1.5.2</a></th>
+<td>
+<ul>
+<li><a href="/1.5.2-pre" title="1.5.2-pre">1.5.2-pre</a></li>
+</ul>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th><span class="sprite entity-sprite" style="background-image:url(https://d1u5p3l4wpay3k.cloudfront.net/minecraft_gamepedia/4/40/EntityCSS.png?version=1527065476884);background-position:-0px -96px"><br /></span> 1.6<br />
+<small><a href="/Horse_Update" title="Horse Update">Horse Update</a></small></th>
+<td>
+<table>
+<tr>
+<th><a href="/1.6.1" title="1.6.1">1.6.1</a></th>
+<td>
+<ul>
+<li><a href="/13w16a" title="13w16a">13w16a</a></li>
+<li><a href="/13w16b" title="13w16b">13w16b</a></li>
+<li><a href="/13w17a" title="13w17a">13w17a</a></li>
+<li><a href="/13w18a" title="13w18a">13w18a</a></li>
+<li><a href="/13w18b" title="13w18b">13w18b</a></li>
+<li><a href="/13w18c" title="13w18c">13w18c</a></li>
+<li><a href="/13w19a" title="13w19a">13w19a</a></li>
+<li><a href="/13w21a" title="13w21a">13w21a</a></li>
+<li><a href="/13w21b" title="13w21b">13w21b</a></li>
+<li><a href="/13w22a" title="13w22a">13w22a</a></li>
+<li><a href="/13w23a" title="13w23a">13w23a</a></li>
+<li><a href="/13w23b" title="13w23b">13w23b</a></li>
+<li><a href="/13w24a" title="13w24a">13w24a</a></li>
+<li><a href="/13w24b" title="13w24b">13w24b</a></li>
+<li><a href="/13w25a" title="13w25a">13w25a</a></li>
+<li><a href="/13w25b" title="13w25b">13w25b</a></li>
+<li><a href="/13w25c" title="13w25c">13w25c</a></li>
+<li><a href="/13w26a" title="13w26a">13w26a</a></li>
+<li><a href="/1.6-pre" title="1.6-pre">1.6-pre</a></li>
+<li><a href="/1.6.1-pre" title="1.6.1-pre">1.6.1-pre</a></li>
+</ul>
+</td>
+</tr>
+</table>
+<table>
+<tr>
+<th><a href="/1.6.2" title="1.6.2">1.6.2</a></th>
+<td>
+<ul>
+<li><a href="/1.6.2-pre" title="1.6.2-pre">1.6.2-pre</a></li>
+</ul>
+</td>
+</tr>
+</table>
+<table>
+<tr>
+<th><a href="/1.6.4" title="1.6.4">1.6.4</a></th>
+<td>
+<ul>
+<li><a href="/1.6.3-pre" title="1.6.3-pre">1.6.3-pre</a><a href="/1.6.3-pre#Reupload" title="1.6.3-pre">*</a></li>
+</ul>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th><span class="sprite block-sprite" style="background-image:url(https://d1u5p3l4wpay3k.cloudfront.net/minecraft_gamepedia/d/df/BlockCSS.png?version=1529452963092);background-position:-192px -256px"><br /></span> 1.7<br />
+<small><a href="/The_Update_that_Changed_the_World" title="The Update that Changed the World">The Update that<br />
+Changed the World</a></small></th>
+<td>
+<table>
+<tr>
+<th><a href="/1.7.2" title="1.7.2">1.7.2</a></th>
+<td>
+<ul>
+<li><a href="/13w36a" title="13w36a">13w36a</a><a href="/13w36a#Reupload" title="13w36a">*</a></li>
+<li><a href="/13w36b" title="13w36b">13w36b</a><a href="/13w36b#Reuploads" title="13w36b">**</a></li>
+<li><a href="/13w37a" title="13w37a">13w37a</a></li>
+<li><a href="/13w37b" title="13w37b">13w37b</a></li>
+<li><a href="/13w38a" title="13w38a">13w38a</a></li>
+<li><a href="/13w38b" title="13w38b">13w38b</a></li>
+<li><a href="/13w38c" title="13w38c">13w38c</a></li>
+<li><a href="/13w39a" title="13w39a">13w39a</a></li>
+<li><a href="/13w39b" title="13w39b">13w39b</a></li>
+<li><a href="/13w41a" title="13w41a">13w41a</a></li>
+<li><a href="/13w41b" title="13w41b">13w41b</a><a href="/13w41b#Reupload" title="13w41b">*</a></li>
+<li><a href="/13w42a" title="13w42a">13w42a</a></li>
+<li><a href="/13w42b" title="13w42b">13w42b</a></li>
+<li><a href="/13w43a" title="13w43a">13w43a</a></li>
+<li><a href="/1.7-pre" title="1.7-pre">1.7-pre</a></li>
+<li><a href="/1.7.1-pre" title="1.7.1-pre">1.7.1-pre</a></li>
+<li><a href="/1.7.2-pre" title="1.7.2-pre">1.7.2-pre</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th><a href="/1.7.4" title="1.7.4">1.7.4</a></th>
+<td>
+<ul>
+<li><a href="/13w47a" title="13w47a">13w47a</a></li>
+<li><a href="/13w47b" title="13w47b">13w47b</a></li>
+<li><a href="/13w47c" title="13w47c">13w47c</a></li>
+<li><a href="/13w47d" title="13w47d">13w47d</a></li>
+<li><a href="/13w47e" title="13w47e">13w47e</a></li>
+<li><a href="/13w48a" title="13w48a">13w48a</a></li>
+<li><a href="/13w48b" title="13w48b">13w48b</a></li>
+<li><a href="/13w49a" title="13w49a">13w49a</a></li>
+<li><a href="/1.7.3-pre" title="1.7.3-pre">1.7.3-pre</a></li>
+<li><a href="/1.7.4-pre" title="1.7.4-pre">1.7.4-pre</a></li>
+</ul>
+</td>
+</tr>
+</table>
+<ul>
+<li><b><a href="/1.7.5" title="1.7.5">1.7.5</a></b></li>
+</ul>
+<table>
+<tr>
+<th><a href="/1.7.6" title="1.7.6">1.7.6</a></th>
+<td>
+<ul>
+<li><a href="/1.7.6-pre1" title="1.7.6-pre1">1.7.6-pre1</a></li>
+<li><a href="/1.7.6-pre2" title="1.7.6-pre2">1.7.6-pre2</a></li>
+</ul>
+</td>
+</tr>
+</table>
+<ul>
+<li><b><a href="/1.7.7" title="1.7.7">1.7.7</a></b></li>
+<li><b><a href="/1.7.8" title="1.7.8">1.7.8</a></b></li>
+<li><b><a href="/1.7.9" title="1.7.9">1.7.9</a></b></li>
+</ul>
+<table>
+<tr>
+<th><a href="/1.7.10" title="1.7.10">1.7.10</a></th>
+<td>
+<ul>
+<li><a href="/1.7.10-pre1" title="1.7.10-pre1">1.7.10-pre1</a></li>
+<li><a href="/1.7.10-pre2" title="1.7.10-pre2">1.7.10-pre2</a></li>
+<li><a href="/1.7.10-pre3" title="1.7.10-pre3">1.7.10-pre3</a></li>
+<li><a href="/1.7.10-pre4" title="1.7.10-pre4">1.7.10-pre4</a></li>
+</ul>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th><span class="sprite entity-sprite" style="background-image:url(https://d1u5p3l4wpay3k.cloudfront.net/minecraft_gamepedia/4/40/EntityCSS.png?version=1527065476884);background-position:-32px -112px"><br /></span> 1.8<br />
+<small><a href="/Bountiful_Update" title="Bountiful Update">Bountiful Update</a></small></th>
+<td>
+<table>
+<tr>
+<th><a href="/1.8" title="1.8">1.8</a></th>
+<td>
+<ul>
+<li><a href="/14w02a" title="14w02a">14w02a</a></li>
+<li><a href="/14w02b" title="14w02b">14w02b</a></li>
+<li><a href="/14w02c" title="14w02c">14w02c</a></li>
+<li><a href="/14w03a" title="14w03a">14w03a</a></li>
+<li><a href="/14w03b" title="14w03b">14w03b</a></li>
+<li><a href="/14w04a" title="14w04a">14w04a</a></li>
+<li><a href="/14w04b" title="14w04b">14w04b</a></li>
+<li><a href="/14w05a" title="14w05a">14w05a</a></li>
+<li><a href="/14w05b" title="14w05b">14w05b</a></li>
+<li><a href="/14w06a" title="14w06a">14w06a</a></li>
+<li><a href="/14w06b" title="14w06b">14w06b</a></li>
+<li><a href="/14w07a" title="14w07a">14w07a</a></li>
+<li><a href="/14w08a" title="14w08a">14w08a</a></li>
+<li><a href="/14w10a" title="14w10a">14w10a</a></li>
+<li><a href="/14w10b" title="14w10b">14w10b</a></li>
+<li><a href="/14w10c" title="14w10c">14w10c</a></li>
+<li><a href="/14w11a" title="14w11a">14w11a</a></li>
+<li><a href="/14w11b" title="14w11b">14w11b</a></li>
+<li><a href="/14w17a" title="14w17a">14w17a</a></li>
+<li><a href="/14w18a" title="14w18a">14w18a</a></li>
+<li><a href="/14w18b" title="14w18b">14w18b</a></li>
+<li><a href="/14w19a" title="14w19a">14w19a</a></li>
+<li><a href="/14w20a" title="14w20a">14w20a</a></li>
+<li><a href="/14w20b" title="14w20b">14w20b</a></li>
+<li><a href="/14w21a" title="14w21a">14w21a</a></li>
+<li><a href="/14w21b" title="14w21b">14w21b</a></li>
+<li><a href="/14w25a" title="14w25a">14w25a</a></li>
+<li><a href="/14w25b" title="14w25b">14w25b</a></li>
+<li><a href="/14w26a" title="14w26a">14w26a</a></li>
+<li><a href="/14w26b" title="14w26b">14w26b</a></li>
+<li><a href="/14w26c" title="14w26c">14w26c</a></li>
+<li><a href="/14w27a" title="14w27a">14w27a</a></li>
+<li><a href="/14w27b" title="14w27b">14w27b</a></li>
+<li><a href="/14w28a" title="14w28a">14w28a</a></li>
+<li><a href="/14w28b" title="14w28b">14w28b</a></li>
+<li><a href="/14w29a" title="14w29a">14w29a</a></li>
+<li><a href="/14w29b" title="14w29b">14w29b</a></li>
+<li><a href="/14w30a" title="14w30a">14w30a</a></li>
+<li><a href="/14w30b" title="14w30b">14w30b</a></li>
+<li><a href="/14w30c" title="14w30c">14w30c</a></li>
+<li><a href="/14w31a" title="14w31a">14w31a</a></li>
+<li><a href="/14w32a" title="14w32a">14w32a</a></li>
+<li><a href="/14w32b" title="14w32b">14w32b</a></li>
+<li><a href="/14w32c" title="14w32c">14w32c</a></li>
+<li><a href="/14w32d" title="14w32d">14w32d</a></li>
+<li><a href="/14w33a" title="14w33a">14w33a</a></li>
+<li><a href="/14w33b" title="14w33b">14w33b</a></li>
+<li><a href="/14w33c" title="14w33c">14w33c</a></li>
+<li><a href="/14w34a" title="14w34a">14w34a</a></li>
+<li><a href="/14w34b" title="14w34b">14w34b</a></li>
+<li><a href="/14w34c" title="14w34c">14w34c</a></li>
+<li><a href="/14w34d" title="14w34d">14w34d</a></li>
+<li><a href="/1.8-pre1" title="1.8-pre1">1.8-pre1</a></li>
+<li><a href="/1.8-pre2" title="1.8-pre2">1.8-pre2</a></li>
+<li><a href="/1.8-pre3" title="1.8-pre3">1.8-pre3</a></li>
+</ul>
+</td>
+</tr>
+</table>
+<table>
+<tr>
+<th><a href="/1.8.1" title="1.8.1">1.8.1</a></th>
+<td>
+<ul>
+<li><a href="/1.8.1-pre1" title="1.8.1-pre1">1.8.1-pre1</a></li>
+<li><a href="/1.8.1-pre2" title="1.8.1-pre2">1.8.1-pre2</a></li>
+<li><a href="/1.8.1-pre3" title="1.8.1-pre3">1.8.1-pre3</a></li>
+<li><a href="/1.8.1-pre4" title="1.8.1-pre4">1.8.1-pre4</a></li>
+<li><a href="/1.8.1-pre5" title="1.8.1-pre5">1.8.1-pre5</a></li>
+</ul>
+</td>
+</tr>
+</table>
+<table>
+<tr>
+<th><a href="/1.8.2" title="1.8.2">1.8.2</a></th>
+<td>
+<ul>
+<li><a href="/1.8.2-pre1" title="1.8.2-pre1">1.8.2-pre1</a></li>
+<li><a href="/1.8.2-pre2" title="1.8.2-pre2">1.8.2-pre2</a></li>
+<li><a href="/1.8.2-pre3" title="1.8.2-pre3">1.8.2-pre3</a></li>
+<li><a href="/1.8.2-pre4" title="1.8.2-pre4">1.8.2-pre4</a></li>
+<li><a href="/1.8.2-pre5" title="1.8.2-pre5">1.8.2-pre5</a></li>
+<li><a href="/1.8.2-pre6" title="1.8.2-pre6">1.8.2-pre6</a></li>
+<li><a href="/1.8.2-pre7" title="1.8.2-pre7">1.8.2-pre7</a></li>
+</ul>
+</td>
+</tr>
+</table>
+<ul>
+<li><b><a href="/1.8.3" title="1.8.3">1.8.3</a></b></li>
+<li><b><a href="/1.8.4" title="1.8.4">1.8.4</a></b></li>
+<li><b><a href="/1.8.5" title="1.8.5">1.8.5</a></b></li>
+<li><b><a href="/1.8.6" title="1.8.6">1.8.6</a></b></li>
+<li><b><a href="/1.8.7" title="1.8.7">1.8.7</a></b></li>
+</ul>
+<table>
+<tr>
+<th><a href="/1.8.8" title="1.8.8">1.8.8</a></th>
+<td>
+<ul>
+<li><a href="/1.8.8-pre" title="1.8.8-pre">1.8.8-pre</a></li>
+</ul>
+</td>
+</tr>
+</table>
+<ul>
+<li><b><a href="/1.8.9" title="1.8.9">1.8.9</a></b></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th><span class="sprite item-sprite" style="background-image:url(https://d1u5p3l4wpay3k.cloudfront.net/minecraft_gamepedia/f/f5/ItemCSS.png?version=1525857149266);background-position:-96px -208px"><br /></span> 1.9<br />
+<small><a href="/Combat_Update" title="Combat Update">Combat Update</a></small></th>
+<td>
+<table>
+<tr>
+<th><a href="/1.9" title="1.9">1.9</a></th>
+<td>
+<ul>
+<li><a href="/15w31a" title="15w31a">15w31a</a></li>
+<li><a href="/15w31b" title="15w31b">15w31b</a></li>
+<li><a href="/15w31c" title="15w31c">15w31c</a></li>
+<li><a href="/15w32a" title="15w32a">15w32a</a></li>
+<li><a href="/15w32b" title="15w32b">15w32b</a></li>
+<li><a href="/15w32c" title="15w32c">15w32c</a></li>
+<li><a href="/15w33a" title="15w33a">15w33a</a></li>
+<li><a href="/15w33b" title="15w33b">15w33b</a></li>
+<li><a href="/15w33c" title="15w33c">15w33c</a></li>
+<li><a href="/15w34a" title="15w34a">15w34a</a></li>
+<li><a href="/15w34b" title="15w34b">15w34b</a></li>
+<li><a href="/15w34c" title="15w34c">15w34c</a></li>
+<li><a href="/15w34d" title="15w34d">15w34d</a></li>
+<li><a href="/15w35a" title="15w35a">15w35a</a></li>
+<li><a href="/15w35b" title="15w35b">15w35b</a></li>
+<li><a href="/15w35c" title="15w35c">15w35c</a></li>
+<li><a href="/15w35d" title="15w35d">15w35d</a></li>
+<li><a href="/15w35e" title="15w35e">15w35e</a></li>
+<li><a href="/15w36a" title="15w36a">15w36a</a></li>
+<li><a href="/15w36b" title="15w36b">15w36b</a></li>
+<li><a href="/15w36c" title="15w36c">15w36c</a></li>
+<li><a href="/15w36d" title="15w36d">15w36d</a></li>
+<li><a href="/15w37a" title="15w37a">15w37a</a></li>
+<li><a href="/15w38a" title="15w38a">15w38a</a></li>
+<li><a href="/15w38b" title="15w38b">15w38b</a></li>
+<li><a href="/15w39a" title="15w39a">15w39a</a></li>
+<li><a href="/15w39b" title="15w39b">15w39b</a></li>
+<li><a href="/15w39c" title="15w39c">15w39c</a></li>
+<li><a href="/15w40a" title="15w40a">15w40a</a></li>
+<li><a href="/15w40b" title="15w40b">15w40b</a></li>
+<li><a href="/15w41a" title="15w41a">15w41a</a></li>
+<li><a href="/15w41b" title="15w41b">15w41b</a></li>
+<li><a href="/15w42a" title="15w42a">15w42a</a></li>
+<li><a href="/15w43a" title="15w43a">15w43a</a></li>
+<li><a href="/15w43b" title="15w43b">15w43b</a></li>
+<li><a href="/15w43c" title="15w43c">15w43c</a></li>
+<li><a href="/15w44a" title="15w44a">15w44a</a></li>
+<li><a href="/15w44b" title="15w44b">15w44b</a></li>
+<li><a href="/15w45a" title="15w45a">15w45a</a></li>
+<li><a href="/15w46a" title="15w46a">15w46a</a></li>
+<li><a href="/15w47a" title="15w47a">15w47a</a></li>
+<li><a href="/15w47b" title="15w47b">15w47b</a></li>
+<li><a href="/15w47c" title="15w47c">15w47c</a></li>
+<li><a href="/15w49a" title="15w49a">15w49a</a></li>
+<li><a href="/15w49b" title="15w49b">15w49b</a></li>
+<li><a href="/15w50a" title="15w50a">15w50a</a></li>
+<li><a href="/15w51a" title="15w51a">15w51a</a></li>
+<li><a href="/15w51b" title="15w51b">15w51b</a></li>
+<li><a href="/16w02a" title="16w02a">16w02a</a></li>
+<li><a href="/16w03a" title="16w03a">16w03a</a></li>
+<li><a href="/16w04a" title="16w04a">16w04a</a></li>
+<li><a href="/16w05a" title="16w05a">16w05a</a></li>
+<li><a href="/16w05b" title="16w05b">16w05b</a></li>
+<li><a href="/16w06a" title="16w06a">16w06a</a></li>
+<li><a href="/16w07a" title="16w07a">16w07a</a></li>
+<li><a href="/16w07b" title="16w07b">16w07b</a></li>
+<li><a href="/1.9-pre1" title="1.9-pre1">1.9-pre1</a></li>
+<li><a href="/1.9-pre2" title="1.9-pre2">1.9-pre2</a></li>
+<li><a href="/1.9-pre3" title="1.9-pre3">1.9-pre3</a></li>
+<li><a href="/1.9-pre4" title="1.9-pre4">1.9-pre4</a></li>
+</ul>
+</td>
+</tr>
+</table>
+<table>
+<tr>
+<th><a href="/1.9.1" title="1.9.1">1.9.1</a></th>
+<td>
+<ul>
+<li><a href="/1.9.1-pre1" title="1.9.1-pre1">1.9.1-pre1</a></li>
+<li><a href="/1.9.1-pre2" title="1.9.1-pre2">1.9.1-pre2</a></li>
+<li><a href="/1.9.1-pre3" title="1.9.1-pre3">1.9.1-pre3</a></li>
+</ul>
+</td>
+</tr>
+</table>
+<ul>
+<li><b><a href="/1.9.2" title="1.9.2">1.9.2</a></b></li>
+</ul>
+<table>
+<tr>
+<th><a href="/1.9.3" title="1.9.3">1.9.3</a></th>
+<td>
+<ul>
+<li><a href="/16w14a" title="16w14a">16w14a</a></li>
+<li><a href="/16w15a" title="16w15a">16w15a</a></li>
+<li><a href="/16w15b" title="16w15b">16w15b</a></li>
+<li><a href="/1.9.3-pre1" title="1.9.3-pre1">1.9.3-pre1</a></li>
+<li><a href="/1.9.3-pre2" title="1.9.3-pre2">1.9.3-pre2</a></li>
+<li><a href="/1.9.3-pre3" title="1.9.3-pre3">1.9.3-pre3</a></li>
+</ul>
+</td>
+</tr>
+</table>
+<ul>
+<li><b><a href="/1.9.4" title="1.9.4">1.9.4</a></b></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th><span class="sprite entity-sprite" style="background-image:url(https://d1u5p3l4wpay3k.cloudfront.net/minecraft_gamepedia/4/40/EntityCSS.png?version=1527065476884);background-position:-0px -128px"><br /></span> 1.10<br />
+<small><a href="/Frostburn_Update" title="Frostburn Update">Frostburn Update</a></small></th>
+<td>
+<table>
+<tr>
+<th><a href="/1.10" title="1.10">1.10</a></th>
+<td>
+<ul>
+<li><a href="/16w20a" title="16w20a">16w20a</a></li>
+<li><a href="/16w21a" title="16w21a">16w21a</a></li>
+<li><a href="/16w21b" title="16w21b">16w21b</a></li>
+<li><a href="/1.10-pre1" title="1.10-pre1">1.10-pre1</a></li>
+<li><a href="/1.10-pre2" title="1.10-pre2">1.10-pre2</a></li>
+</ul>
+</td>
+</tr>
+</table>
+<ul>
+<li><b><a href="/1.10.1" title="1.10.1">1.10.1</a></b></li>
+<li><b><a href="/1.10.2" title="1.10.2">1.10.2</a></b></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th><span class="sprite item-sprite" style="background-image:url(https://d1u5p3l4wpay3k.cloudfront.net/minecraft_gamepedia/f/f5/ItemCSS.png?version=1525857149266);background-position:-144px -272px"><br /></span> 1.11<br />
+<small><a href="/Exploration_Update" title="Exploration Update">Exploration Update</a></small></th>
+<td>
+<table>
+<tr>
+<th><a href="/1.11" title="1.11">1.11</a></th>
+<td>
+<ul>
+<li><a href="/16w32a" title="16w32a">16w32a</a></li>
+<li><a href="/16w32b" title="16w32b">16w32b</a></li>
+<li><a href="/16w33a" title="16w33a">16w33a</a></li>
+<li><a href="/16w35a" title="16w35a">16w35a</a></li>
+<li><a href="/16w36a" title="16w36a">16w36a</a></li>
+<li><a href="/16w38a" title="16w38a">16w38a</a></li>
+<li><a href="/16w39a" title="16w39a">16w39a</a></li>
+<li><a href="/16w39b" title="16w39b">16w39b</a></li>
+<li><a href="/16w39c" title="16w39c">16w39c</a></li>
+<li><a href="/16w40a" title="16w40a">16w40a</a></li>
+<li><a href="/16w41a" title="16w41a">16w41a</a></li>
+<li><a href="/16w42a" title="16w42a">16w42a</a></li>
+<li><a href="/16w43a" title="16w43a">16w43a</a></li>
+<li><a href="/16w44a" title="16w44a">16w44a</a></li>
+<li><a href="/1.11-pre1" title="1.11-pre1">1.11-pre1</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th><a href="/1.11.1" title="1.11.1">1.11.1</a></th>
+<td>
+<ul>
+<li><a href="/16w50a" title="16w50a">16w50a</a><a href="/16w50a#Reupload" title="16w50a">*</a></li>
+</ul>
+</td>
+</tr>
+</table>
+<ul>
+<li><b><a href="/1.11.2" title="1.11.2">1.11.2</a></b></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th><span class="sprite block-sprite" style="background-image:url(https://d1u5p3l4wpay3k.cloudfront.net/minecraft_gamepedia/d/df/BlockCSS.png?version=1529452963092);background-position:-0px -448px"><br /></span> 1.12<br />
+<small><a href="/World_of_Color_Update" title="World of Color Update">World of Color Update</a></small></th>
+<td>
+<table>
+<tr>
+<th><a href="/1.12" title="1.12">1.12</a></th>
+<td>
+<ul>
+<li><a href="/17w06a" title="17w06a">17w06a</a></li>
+<li><a href="/17w13a" title="17w13a">17w13a</a></li>
+<li><a href="/17w13b" title="17w13b">17w13b</a></li>
+<li><a href="/17w14a" title="17w14a">17w14a</a></li>
+<li><a href="/17w15a" title="17w15a">17w15a</a></li>
+<li><a href="/17w16a" title="17w16a">17w16a</a></li>
+<li><a href="/17w16b" title="17w16b">17w16b</a></li>
+<li><a href="/17w17a" title="17w17a">17w17a</a></li>
+<li><a href="/17w17b" title="17w17b">17w17b</a></li>
+<li><a href="/17w18a" title="17w18a">17w18a</a></li>
+<li><a href="/17w18b" title="17w18b">17w18b</a></li>
+<li><a href="/1.12-pre1" title="1.12-pre1">1.12-pre1</a></li>
+<li><a href="/1.12-pre2" title="1.12-pre2">1.12-pre2</a></li>
+<li><a href="/1.12-pre3" title="1.12-pre3">1.12-pre3</a></li>
+<li><a href="/1.12-pre4" title="1.12-pre4">1.12-pre4</a></li>
+<li><a href="/1.12-pre5" title="1.12-pre5">1.12-pre5</a></li>
+<li><a href="/1.12-pre6" title="1.12-pre6">1.12-pre6</a></li>
+<li><a href="/1.12-pre7" title="1.12-pre7">1.12-pre7</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th><a href="/1.12.1" title="1.12.1">1.12.1</a></th>
+<td>
+<ul>
+<li><a href="/17w31a" title="17w31a">17w31a</a></li>
+<li><a href="/1.12.1-pre1" title="1.12.1-pre1">1.12.1-pre1</a></li>
+</ul>
+</td>
+</tr>
+</table>
+<table>
+<tr>
+<th><a href="/1.12.2" title="1.12.2">1.12.2</a></th>
+<td>
+<ul>
+<li><a href="/1.12.2-pre1" title="1.12.2-pre1">1.12.2-pre1</a></li>
+<li><a href="/1.12.2-pre2" title="1.12.2-pre2">1.12.2-pre2</a></li>
+</ul>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th><span class="sprite item-sprite" style="background-image:url(https://d1u5p3l4wpay3k.cloudfront.net/minecraft_gamepedia/f/f5/ItemCSS.png?version=1525857149266);background-position:-0px -336px"><br /></span> 1.13<br />
+<small><a href="/Update_Aquatic" title="Update Aquatic">Update Aquatic</a></small></th>
+<td>
+<table>
+<tr>
+<th><a href="/1.13" title="1.13">1.13</a></th>
+<td>
+<ul>
+<li><a href="/17w43a" title="17w43a">17w43a</a></li>
+<li><a href="/17w43b" title="17w43b">17w43b</a></li>
+<li><a href="/17w45a" title="17w45a">17w45a</a></li>
+<li><a href="/17w45b" title="17w45b">17w45b</a></li>
+<li><a href="/17w46a" title="17w46a">17w46a</a></li>
+<li><a href="/17w47a" title="17w47a">17w47a</a></li>
+<li><a href="/17w47b" title="17w47b">17w47b</a></li>
+<li><a href="/17w48a" title="17w48a">17w48a</a></li>
+<li><a href="/17w49a" title="17w49a">17w49a</a></li>
+<li><a href="/17w49b" title="17w49b">17w49b</a></li>
+<li><a href="/17w50a" title="17w50a">17w50a</a></li>
+<li><a href="/18w01a" title="18w01a">18w01a</a></li>
+<li><a href="/18w02a" title="18w02a">18w02a</a></li>
+<li><a href="/18w03a" title="18w03a">18w03a</a></li>
+<li><a href="/18w03b" title="18w03b">18w03b</a></li>
+<li><a href="/18w05a" title="18w05a">18w05a</a></li>
+<li><a href="/18w06a" title="18w06a">18w06a</a></li>
+<li><a href="/18w07a" title="18w07a">18w07a</a></li>
+<li><a href="/18w07b" title="18w07b">18w07b</a></li>
+<li><a href="/18w07c" title="18w07c">18w07c</a></li>
+<li><a href="/18w08a" title="18w08a">18w08a</a></li>
+<li><a href="/18w08b" title="18w08b">18w08b</a></li>
+<li><a href="/18w09a" title="18w09a">18w09a</a></li>
+<li><a href="/18w10a" title="18w10a">18w10a</a></li>
+<li><a href="/18w10b" title="18w10b">18w10b</a></li>
+<li><a href="/18w10c" title="18w10c">18w10c</a></li>
+<li><a href="/18w10d" title="18w10d">18w10d</a></li>
+<li><a href="/18w11a" title="18w11a">18w11a</a></li>
+<li><a href="/18w14a" title="18w14a">18w14a</a></li>
+<li><a href="/18w14b" title="18w14b">18w14b</a></li>
+<li><a href="/18w15a" title="18w15a">18w15a</a></li>
+<li><a href="/18w16a" title="18w16a">18w16a</a></li>
+<li><a href="/18w19a" title="18w19a">18w19a</a></li>
+<li><a href="/18w19b" title="18w19b">18w19b</a></li>
+<li><a href="/18w20a" title="18w20a">18w20a</a></li>
+<li><a href="/18w20b" title="18w20b">18w20b</a></li>
+<li><a href="/18w20c" title="18w20c">18w20c</a></li>
+<li><a href="/18w21a" title="18w21a">18w21a</a></li>
+<li><a href="/18w21b" title="18w21b">18w21b</a></li>
+<li><a href="/18w22a" title="18w22a">18w22a</a></li>
+<li><a href="/18w22b" title="18w22b">18w22b</a></li>
+<li><a href="/18w22c" title="18w22c">18w22c</a></li>
+<li><a href="/1.13-pre1" title="1.13-pre1">1.13-pre1</a></li>
+<li><a class="mw-selflink selflink">1.13-pre2</a></li>
+<li><a href="/1.13-pre3" title="1.13-pre3">1.13-pre3</a></li>
+</ul>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Cached time: 20180623173649
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.276 seconds
+Real time usage: 0.703 seconds
+Preprocessor visited node count: 2172/1000000
+Preprocessor generated node count: 10021/1000000
+Post‐expand include size: 82217/2097152 bytes
+Template argument size: 4168/2097152 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 12/99
+Lua time usage: 0.180/7.000 seconds
+Lua virtual size: 16.09 MB/50 MB
+Lua estimated memory usage: 0 bytes
+ExtLoops count: 0/100
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  565.972      1 -total
+ 53.92%  305.200      1 Template:Java_Edition_versions
+ 16.97%   96.034      1 Template:Version_nav
+ 15.45%   87.440      1 Template:Crafting_Table
+ 13.18%   74.573     21 Template:BlockSprite
+  8.88%   50.277      1 Template:Fixes
+  7.58%   42.877     13 Template:EntitySprite
+  6.03%   34.146      7 Template:ItemLink
+  5.93%   33.574     14 Template:ItemSprite
+  5.90%   33.389      1 Template:Development_version_list
+-->
+
+<!-- Saved in parser cache with key minecraft_gamepedia:pcache:idhash:98323-0!*!0!*!*!*!* and timestamp 20180623173700 and revision id 1228939
+ -->
+</div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://minecraft.gamepedia.com/index.php?title=1.13-pre2&amp;oldid=1228939">https://minecraft.gamepedia.com/index.php?title=1.13-pre2&amp;oldid=1228939</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/Category:Java_Edition_versions" title="Category:Java Edition versions">Java Edition versions</a></li><li><a href="/Category:1.13_pre-releases" title="Category:1.13 pre-releases">1.13 pre-releases</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+						<div id="siderail">
+				<div id=atfmrec><div id='cdm-zone-02'></div></div><div id=middlemrec><a href='https://www.gamepedia.com/PRO?utm_source=wiki&utm_medium=promorail'><img src='https://d1u5p3l4wpay3k.cloudfront.net/commons_hydra/c/c2/Pro_Promorail_v2.jpg' alt=''/></a></div><div id=btfmrec><div id='cdm-zone-06'></div></div>			</div>
+			<div class="visualClear"></div>
+			<div id=btfheroContainer><div id="btfhero_container"><div id="promo-content-embed">Promotional Content</div>
+<div id="cdm-zone-embed"></div></div></div><div id=btflb><div id='cdm-zone-04'></div></div>		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+								<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/1.13-pre2"  title="View the content page [c]" accesskey="c">Page</a></span></li>
+															<li  id="ca-talk" class=""><span><a href="/Talk:1.13-pre2"  title="Talk about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-sharing" role="navigation" class="vectorMenu" aria-labelledby="p-sharing-label">
+						<h3 id="p-sharing-label"><span>Share</span><a href="#"></a></h3>
+						<div class="menu">
+							
+				<div id="socialIconImages">
+					<a href="https://twitter.com/intent/tweet?text=Check+out+1.13-pre2+on+Minecraft+Wiki+--&via=CurseGamepedia&url=https%3A%2F%2Fminecraft.gamepedia.com%2F1.13-pre2" target="_blank"><img src="/extensions/Social/images/social/twitter.svg"/></a><a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fminecraft.gamepedia.com%2F1.13-pre2" target="_blank"><img src="/extensions/Social/images/social/facebook.svg"/></a><a href="https://www.reddit.com/submit?url=https%3A%2F%2Fminecraft.gamepedia.com%2F1.13-pre2&title=Check+out+1.13-pre2+on+Minecraft+Wiki+via+%40CurseGamepedia%3A+https%3A%2F%2Fminecraft.gamepedia.com%2F1.13-pre2" target="_blank"><img src="/extensions/Social/images/social/reddit.svg"/></a><a href="https://www.tumblr.com/share/link?url=https%3A%2F%2Fminecraft.gamepedia.com%2F1.13-pre2&name=Minecraft+Wiki&description=Check+out+1.13-pre2+on+Minecraft+Wiki+via+%3Ca+href%3D%22https%3A%2F%2Ftwitter.com%2FCurseGamepedia%22+target%3D%22_blank%22%3E%40CurseGamepedia%3C%2Fa%3E%3A+https%3A%2F%2Fminecraft.gamepedia.com%2F1.13-pre2" target="_blank"><img src="/extensions/Social/images/social/tumblr.svg"/></a><a href="https://vk.com/share.php?url=https%3A%2F%2Fminecraft.gamepedia.com%2F1.13-pre2" target="_blank"><img src="/extensions/Social/images/social/vk.svg"/></a>
+				</div>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/1.13-pre2" >View</a></span></li>
+															<li id="ca-edit" class=""><span><a href="/index.php?title=1.13-pre2&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/index.php?title=1.13-pre2&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">History</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Minecraft Wiki" title="Search Minecraft Wiki [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/Minecraft_Wiki" title="Visit the main page - Minecraft Wiki"></a></div>
+						<div class="portal" role="navigation" id='p-Minecraft_Wiki' aria-labelledby='p-Minecraft_Wiki-label'>
+			<h3 id='p-Minecraft_Wiki-label'>Minecraft Wiki</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/Minecraft_Wiki" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-portal"><a href="/Minecraft_Wiki:Community_portal" title="About the Minecraft Wiki, what you can do, where to find things">Community portal</a></li><li id="n-Projects"><a href="/Minecraft_Wiki:Projects" title="View and create projects on the wiki">Projects</a></li><li id="n-Wiki-rules"><a href="/Minecraft_Wiki:Wiki_rules" title="Rules to follow when editing the wiki">Wiki rules</a></li><li id="n-Style-guide"><a href="/Minecraft_Wiki:Style_guide" title="Guidelines to format articles, and keep content consistent">Style guide</a></li><li id="n-recentchanges"><a href="/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/Special:RandomRootpage" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-Admin-noticeboard"><a href="/Minecraft_Wiki:Admin_noticeboard" title="Report issues requiring admin attention here">Admin noticeboard</a></li><li id="n-Directors-page"><a href="/Minecraft_Wiki:Directors" title="Where all admins from all languages come to talk">Directors page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-Links' aria-labelledby='p-Links-label'>
+			<h3 id='p-Links-label'>Links</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-Website"><a href="https://minecraft.net/" rel="nofollow" target="_self" title="The Minecraft website">Website</a></li><li id="n-Forums"><a href="https://www.minecraftforum.net/" target="_self" title="The unofficial community forums">Forums</a></li><li id="n-Support"><a href="https://help.mojang.com/" rel="nofollow" target="_self">Support</a></li><li id="n-Bug-tracker"><a href="https://bugs.mojang.com/" rel="nofollow" target="_self">Bug tracker</a></li><li id="n-Feedback"><a href="https://feedback.minecraft.net" rel="nofollow" target="_self">Feedback</a></li><li id="n-Twitter"><a href="https://twitter.com/Mojang" rel="nofollow" target="_self">Twitter</a></li><li id="n-Facebook"><a href="https://www.facebook.com/minecraft" rel="nofollow" target="_self">Facebook</a></li><li id="n-YouTube"><a href="https://www.youtube.com/minecraft" rel="nofollow" target="_self">YouTube</a></li><li id="n-Minecraft-Twitch"><a href="https://www.twitch.tv/minecraft" rel="nofollow" target="_self">Minecraft Twitch</a></li><li id="n-Mojang-Twitch"><a href="https://www.twitch.tv/mojang" rel="nofollow" target="_self">Mojang Twitch</a></li><li id="n-Mixer"><a href="https://mixer.com/minecraft" rel="nofollow" target="_self">Mixer</a></li><li id="n-Minecraft-Discord"><a href="https://discord.gg/minecraft" rel="nofollow" target="_self">Minecraft Discord</a></li><li id="n-Wiki-Discord"><a href="https://discordapp.com/invite/fGdE5ZE" rel="nofollow" target="_self">Wiki Discord</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-Useful_pages' aria-labelledby='p-Useful_pages-label'>
+			<h3 id='p-Useful_pages-label'>Useful pages</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-Blocks"><a href="/Block" title="Detailed information on the various blocks available in Minecraft">Blocks</a></li><li id="n-Items"><a href="/Items" title="Detailed information on the various items available in Minecraft">Items</a></li><li id="n-Crafting"><a href="/Crafting" title="Information about crafting">Crafting</a></li><li id="n-Smelting"><a href="/Smelting">Smelting</a></li><li id="n-Enchanting"><a href="/Enchanting" title="Information about enchanting">Enchanting</a></li><li id="n-Brewing"><a href="/Brewing" title="Information about brewing">Brewing</a></li><li id="n-Mobs"><a href="/Mobs" title="Information about the various friendly and non-friendly creatures found in Minecraft">Mobs</a></li><li id="n-Trading"><a href="/Trading">Trading</a></li><li id="n-Redstone-circuit"><a href="/Redstone_circuit" title="Information about Redstone Circuits">Redstone circuit</a></li><li id="n-Resource-pack"><a href="/Resource_pack" title="Resource packs alter the look and feel of the game">Resource pack</a></li><li id="n-Mods"><a href="/Mods" title="Various modifications that alter the gameplay">Mods</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-Gamepedia' aria-labelledby='p-Gamepedia-label'>
+			<h3 id='p-Gamepedia-label'>Gamepedia</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-Gamepedia-support"><a href="https://gamepedia.zendesk.com" rel="nofollow" target="_self">Gamepedia support</a></li><li id="n-Help-Wiki"><a href="https://help.gamepedia.com/">Help Wiki</a></li><li id="n-Contact-us"><a href="https://help.gamepedia.com/How_to_contact_Gamepedia">Contact us</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/Special:WhatLinksHere/1.13-pre2" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/Special:RecentChangesLinked/1.13-pre2" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="/index.php?title=1.13-pre2&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/index.php?title=1.13-pre2&amp;oldid=1228939" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/index.php?title=1.13-pre2&amp;action=info" title="More information about this page">Page information</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>In other languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-de"><a href="//minecraft-de.gamepedia.com/1.13-pre2" title="1.13-pre2 – Deutsch" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-fr"><a href="//minecraft-fr.gamepedia.com/1.13-pre2" title="1.13-pre2 – français" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ja"><a href="//minecraft-ja.gamepedia.com/1.13-pre2" title="1.13-pre2 – 日本語" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-nl"><a href="//minecraft-nl.gamepedia.com/1.13-pre2" title="1.13-pre2 – Nederlands" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ru"><a href="//minecraft-ru.gamepedia.com/1.13-pre2" title="1.13-pre2 – русский" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-zh"><a href="//minecraft-zh.gamepedia.com/1.13-pre2" title="1.13-pre2 – 中文" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-socialProfiles' aria-labelledby='p-socialProfiles-label'>
+			<h3 id='p-socialProfiles-label'></h3>
+
+			<div class="body">
+				<div class='socialSidebar'>
+						<script type='text/javascript'>
+							document.getElementById('p-socialProfiles').className = 'portal persistent';
+						</script>
+						<div class='socialLink twitter'><a href="https://twitter.com/CurseGamepedia" target="_blank"><img src="/extensions/Social/images/social/twitter.svg" width="32"/></a></div><div class='socialLink facebook'><a href="https://www.facebook.com/CurseGamepedia" target="_blank"><img src="/extensions/Social/images/social/facebook.svg" width="32"/></a></div><div class='socialLink twitch'><a href="https://www.twitch.tv/curse/videos/all" target="_blank"><img src="/extensions/Social/images/social/twitch.svg" width="32"/></a></div>
+					</div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last edited on 23 June 2018, at 17:37.</li>
+											<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="//creativecommons.org/licenses/by-nc-sa/3.0/">CC BY-NC-SA 3.0</a> unless otherwise noted.<br/>Minecraft content and materials are trademarks and copyrights of Mojang and its licensors.  All rights reserved.<br />
+This site is a part of Curse, Inc. and is not affiliated with Mojang. </li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-about"><a href="/Minecraft_Wiki:About" title="Minecraft Wiki:About">About Minecraft Wiki</a></li>
+											<li id="footer-places-disclaimer"><a href="/Minecraft_Wiki:General_disclaimer" title="Minecraft Wiki:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-mobileview"><a href="https://minecraft.gamepedia.com/index.php?title=1.13-pre2&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//creativecommons.org/licenses/by-nc-sa/3.0/" target="_self"><img src="//i.creativecommons.org/l/by-nc-sa/3.0/88x31.png" alt="CC BY-NC-SA 3.0" width="88" height="31"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/" target="_self"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a><a href="https://help.gamepedia.com/What_is_Hydra" target="_self"><img src="/skins/Hydra/images/icons/poweredbyhydra.png" alt="Powered by Hydra" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+	</div>
+	<div id="footer-push"></div>
+</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.276","walltime":"0.703","ppvisitednodes":{"value":2172,"limit":1000000},"ppgeneratednodes":{"value":10021,"limit":1000000},"postexpandincludesize":{"value":82217,"limit":2097152},"templateargumentsize":{"value":4168,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":12,"limit":99},"timingprofile":["100.00%  565.972      1 -total"," 53.92%  305.200      1 Template:Java_Edition_versions"," 16.97%   96.034      1 Template:Version_nav"," 15.45%   87.440      1 Template:Crafting_Table"," 13.18%   74.573     21 Template:BlockSprite","  8.88%   50.277      1 Template:Fixes","  7.58%   42.877     13 Template:EntitySprite","  6.03%   34.146      7 Template:ItemLink","  5.93%   33.574     14 Template:ItemSprite","  5.90%   33.389      1 Template:Development_version_list"]},"scribunto":{"limitreport-timeusage":{"value":"0.180","limit":"7.000"},"limitreport-virtmemusage":{"value":16875520,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20180623173649","ttl":86400,"transientcontent":false}}});});</script><footer id="footer" role="complimentary" class="show-ads">
+	<div class="footer-flex">
+		<div class="footer-box">
+			<a href="http://www.gamepedia.com" class="curse">Gamepedia powered by Curse</a>
+		</div>
+		<div class="footer-box">
+			<ul class="social">
+				<li><a href="https://www.facebook.com/CurseGamepedia" class="fb">Facebook</a></li>
+				<li><a href="https://twitter.com/CurseGamepedia" class="tw">Twitter</a></li>
+				<li><a href="http://youtube.com/CurseEntertainment" class="yt">Youtube</a></li>
+				<li><a href="http://help.gamepedia.com/How_To_Contact_Gamepedia" class="nl">Contact Us</a></li>
+							<li><a href="https://monsterhunterworld.gamepedia.com" class="advertise">MH: World</a></li>
+						</ul>
+		</div>
+		<div class="footer-box">
+			<ul class="you">
+							<li><a href="/index.php?title=Special:UserLogin&returnto=1.13-pre2" id="login-link" class="sign-in">Sign In</a></li>
+								<li><a href="/index.php?title=Special:CreateAccount&returnto=1.13-pre2" class="register" id="register-link">Register</a></li>
+											<li><a href="https://www.curse.com/careers" class="careers">Careers</a></li>
+				<li><a href="http://support.gamepedia.com/" class="help">Help</a></li>
+							<li><a href="https://kingdomcomedeliverance.gamepedia.com" class="advertise">KC: Deliverance</a></li>
+						</ul>
+				</div>
+		<div class="footer-box">
+					<ul class="more">
+				<li><a href="https://www.curse.com/" class="about">About Curse</a></li>
+				<li><a href="https://www.curse.com/advertising" class="advertise">Advertise</a></li>
+				<li><a href="https://www.twitch.tv/p/legal/terms-of-service/" class="tos">Terms of Service</a></li>
+				<li><a href="https://www.twitch.tv/p/legal/privacy-policy/" class="privacy-policy">Privacy Policy</a></li>
+							<li><a href="https://zelda.gamepedia.com/Main_Page" class="advertise">Zelda Wiki</a></li>
+						</ul>
+		</div>
+				<div class="footer-box">
+			<div class="ad-placement ad-main-med-rect-footer">
+				<div id='cdm-zone-03'></div>			</div>
+		</div>
+			</div>
+	<span class="copyright">Copyright 2005-2018, Curse</span>
+</footer>
+
+<!-- Begin comScore -->
+<script>
+var _comscore = _comscore || [];
+_comscore.push({ c1: "2", c2: "6035118" });
+(function() {
+	var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+	s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+	el.parentNode.insertBefore(s, el);
+})();
+</script>
+<noscript>
+<img src="http://b.scorecardresearch.com/p?c1=2&c2=6035118&cv=2.0&cj=1" alt="Tracking Pixel"/>
+</noscript>
+<!-- End comScore -->
+
+<!-- Begin Nielsen -->
+<script type="text/javascript">
+(function () {
+	var d = new Image(1, 1);
+	d.onerror = d.onload = function () {
+		d.onerror = d.onload = null;
+	};
+	d.src = ["//secure-us.imrworldwide.com/cgi-bin/m?ci=us-603339h&cg=0&cc=1&si=", escape(window.location.href), "&rp=", escape(document.referrer), "&ts=compact&rnd=", (new Date()).getTime()].join('');
+})();
+</script>
+<noscript>
+<div><img src="//secure-us.imrworldwide.com/cgi-bin/m?ci=us-603339h&cg=0&cc=1&ts=noscript" width="1" height="1" alt="" /></div>
+</noscript>
+<!-- End Nielsen -->
+<script type="text/javascript" src='https://cdm.cursecdn.com/js/landscape/landscape_min.js' async='async'></script><div id='cdm-zone-end'></div><!-- Start PubMP -->
+<script type="text/javascript" src="//ads.pubmatic.com/AdServer/js/showad.js#PIX&ptask=DSP&SPug=1"></script> 
+<!-- End PubMP -->
+			<script type="text/javascript">
+				window.genreCategory = 'Sandbox';
+				window.wikiTags = ["building","crafting","game:minecraft","gathering","linux","mac","mining","mojang","online","pc","ps3","ps4","survival","xbox 360","xbox one"];
+			</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":61});});</script>
+	</body>
+</html>
